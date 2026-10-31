@@ -1,0 +1,1274 @@
+{
+  "definition_basis": "Prespecified supplied mechanism and favored-core hypotheses; not fitted to observed popularity.",
+  "regimes": [
+    {
+      "combat_season": "1.4.1",
+      "start_date": "2024-12-20",
+      "stage_slot": "S1",
+      "boss_zh": "牲鬼·布林格",
+      "empirical_mech_regime": "early_anomaly_chant",
+      "mech_desc": "打断咏唱+异常叠暴击",
+      "favored_group": "异常"
+    },
+    {
+      "combat_season": "1.4.1",
+      "start_date": "2024-12-20",
+      "stage_slot": "S2",
+      "boss_zh": "侵蚀统领·庞培",
+      "empirical_mech_regime": "early_anomaly_strip",
+      "mech_desc": "异常剥离百战层数",
+      "favored_group": "异常"
+    },
+    {
+      "combat_season": "1.4.1",
+      "start_date": "2024-12-20",
+      "stage_slot": "S3",
+      "boss_zh": "恶名·冥宁芙",
+      "empirical_mech_regime": "early_clone_stun",
+      "mech_desc": "击破分身叠冰以太易伤",
+      "favored_group": "强攻/异常"
+    },
+    {
+      "combat_season": "1.4.2",
+      "start_date": "2025-01-10",
+      "stage_slot": "S1",
+      "boss_zh": "牲鬼·布林格",
+      "empirical_mech_regime": "early_anomaly_chant",
+      "mech_desc": "打断咏唱+异常叠暴击",
+      "favored_group": "异常"
+    },
+    {
+      "combat_season": "1.4.2",
+      "start_date": "2025-01-10",
+      "stage_slot": "S2",
+      "boss_zh": "泰丰·挑战者",
+      "empirical_mech_regime": "early_parry_stun",
+      "mech_desc": "无限支援点三连弹刀破部位",
+      "favored_group": "击破/强攻"
+    },
+    {
+      "combat_season": "1.4.2",
+      "start_date": "2025-01-10",
+      "stage_slot": "S3",
+      "boss_zh": "死路屠夫",
+      "empirical_mech_regime": "early_crit_dodge",
+      "mech_desc": "孤注一掷叠暴伤+闪反",
+      "favored_group": "强攻/异常"
+    },
+    {
+      "combat_season": "1.5.1",
+      "start_date": "2025-01-24",
+      "stage_slot": "S1",
+      "boss_zh": "恶名·死路屠夫",
+      "empirical_mech_regime": "early_disorder_strip",
+      "mech_desc": "以太强化减伤15%+紊乱解除",
+      "favored_group": "异常"
+    },
+    {
+      "combat_season": "1.5.1",
+      "start_date": "2025-01-24",
+      "stage_slot": "S2",
+      "boss_zh": "未知复合侵蚀体",
+      "empirical_mech_regime": "early_leg_break",
+      "mech_desc": "拆腿部位破坏回喧响+100%暴伤",
+      "favored_group": "强攻/击破"
+    },
+    {
+      "combat_season": "1.5.1",
+      "start_date": "2025-01-24",
+      "stage_slot": "S3",
+      "boss_zh": "侵蚀统领·庞培",
+      "empirical_mech_regime": "early_anomaly_strip",
+      "mech_desc": "异常剥离百战层数",
+      "favored_group": "异常"
+    },
+    {
+      "combat_season": "1.5.2",
+      "start_date": "2025-02-07",
+      "stage_slot": "S1",
+      "boss_zh": "恶名·死路屠夫",
+      "empirical_mech_regime": "early_disorder_strip",
+      "mech_desc": "以太强化减伤15%+紊乱解除",
+      "favored_group": "异常"
+    },
+    {
+      "combat_season": "1.5.2",
+      "start_date": "2025-02-07",
+      "stage_slot": "S2",
+      "boss_zh": "泰丰·挑战者",
+      "empirical_mech_regime": "early_parry_stun",
+      "mech_desc": "无限支援点三连弹刀破部位",
+      "favored_group": "击破/强攻"
+    },
+    {
+      "combat_season": "1.5.2",
+      "start_date": "2025-02-07",
+      "stage_slot": "S3",
+      "boss_zh": "恶名·冥宁芙",
+      "empirical_mech_regime": "early_clone_stun",
+      "mech_desc": "击破分身叠易伤",
+      "favored_group": "强攻/异常"
+    },
+    {
+      "combat_season": "1.5.3",
+      "start_date": "2025-02-21",
+      "stage_slot": "S1",
+      "boss_zh": "恶名·庞培",
+      "empirical_mech_regime": "early_parry_stun",
+      "mech_desc": "孤注一掷叠暴伤+闪反",
+      "favored_group": "强攻"
+    },
+    {
+      "combat_season": "1.5.3",
+      "start_date": "2025-02-21",
+      "stage_slot": "S2",
+      "boss_zh": "牲鬼·布林格",
+      "empirical_mech_regime": "early_anomaly_chant",
+      "mech_desc": "打断咏唱+异常叠暴击",
+      "favored_group": "异常"
+    },
+    {
+      "combat_season": "1.5.3",
+      "start_date": "2025-02-21",
+      "stage_slot": "S3",
+      "boss_zh": "死路屠夫",
+      "empirical_mech_regime": "early_parry_stun",
+      "mech_desc": "招架4层弱化弹反硬直",
+      "favored_group": "强攻/击破"
+    },
+    {
+      "combat_season": "1.5.4",
+      "start_date": "2025-03-07",
+      "stage_slot": "S1",
+      "boss_zh": "未知复合侵蚀体",
+      "empirical_mech_regime": "early_leg_break",
+      "mech_desc": "拆腿部位破坏+100%暴伤",
+      "favored_group": "强攻/击破"
+    },
+    {
+      "combat_season": "1.5.4",
+      "start_date": "2025-03-07",
+      "stage_slot": "S2",
+      "boss_zh": "牲鬼·布林格",
+      "empirical_mech_regime": "early_anomaly_chant",
+      "mech_desc": "打断咏唱+异常叠暴击",
+      "favored_group": "异常"
+    },
+    {
+      "combat_season": "1.5.4",
+      "start_date": "2025-03-07",
+      "stage_slot": "S3",
+      "boss_zh": "恶名·庞培",
+      "empirical_mech_regime": "early_parry_stun",
+      "mech_desc": "招架4层弱化弹反硬直",
+      "favored_group": "强攻/击破"
+    },
+    {
+      "combat_season": "1.6.1",
+      "start_date": "2025-03-21",
+      "stage_slot": "S1",
+      "boss_zh": "未知复合侵蚀体",
+      "empirical_mech_regime": "early_leg_break",
+      "mech_desc": "拆腿部位破坏+100%暴伤",
+      "favored_group": "强攻/击破"
+    },
+    {
+      "combat_season": "1.6.1",
+      "start_date": "2025-03-21",
+      "stage_slot": "S2",
+      "boss_zh": "侵蚀统领·庞培",
+      "empirical_mech_regime": "early_anomaly_strip",
+      "mech_desc": "异常剥离百战层数",
+      "favored_group": "异常"
+    },
+    {
+      "combat_season": "1.6.1",
+      "start_date": "2025-03-21",
+      "stage_slot": "S3",
+      "boss_zh": "泰丰·挑战者",
+      "empirical_mech_regime": "early_parry_stun",
+      "mech_desc": "无限支援点三连弹刀",
+      "favored_group": "击破/强攻"
+    },
+    {
+      "combat_season": "1.6.2",
+      "start_date": "2025-04-04",
+      "stage_slot": "S1",
+      "boss_zh": "恶名·冥宁芙",
+      "empirical_mech_regime": "early_clone_stun",
+      "mech_desc": "击破分身叠易伤",
+      "favored_group": "强攻/异常"
+    },
+    {
+      "combat_season": "1.6.2",
+      "start_date": "2025-04-04",
+      "stage_slot": "S2",
+      "boss_zh": "泰丰·挑战者",
+      "empirical_mech_regime": "early_parry_stun",
+      "mech_desc": "无限支援点三连弹刀",
+      "favored_group": "击破/强攻"
+    },
+    {
+      "combat_season": "1.6.2",
+      "start_date": "2025-04-04",
+      "stage_slot": "S3",
+      "boss_zh": "恶名·庞培",
+      "empirical_mech_regime": "early_parry_stun",
+      "mech_desc": "招架4层弱化弹反硬直",
+      "favored_group": "强攻/击破"
+    },
+    {
+      "combat_season": "1.6.3",
+      "start_date": "2025-04-18",
+      "stage_slot": "S1",
+      "boss_zh": "死路屠夫",
+      "empirical_mech_regime": "early_parry_stun",
+      "mech_desc": "招架4层弱化弹反硬直",
+      "favored_group": "强攻/击破"
+    },
+    {
+      "combat_season": "1.6.3",
+      "start_date": "2025-04-18",
+      "stage_slot": "S2",
+      "boss_zh": "牲鬼·布林格",
+      "empirical_mech_regime": "early_anomaly_chant",
+      "mech_desc": "打断咏唱+异常叠暴击",
+      "favored_group": "异常"
+    },
+    {
+      "combat_season": "1.6.3",
+      "start_date": "2025-04-18",
+      "stage_slot": "S3",
+      "boss_zh": "未知复合侵蚀体",
+      "empirical_mech_regime": "early_leg_break",
+      "mech_desc": "拆腿部位破坏+100%暴伤",
+      "favored_group": "强攻/击破"
+    },
+    {
+      "combat_season": "1.7.1",
+      "start_date": "2025-05-02",
+      "stage_slot": "S1",
+      "boss_zh": "牲鬼·布林格",
+      "empirical_mech_regime": "early_anomaly_chant",
+      "mech_desc": "打断咏唱+异常叠暴击",
+      "favored_group": "异常"
+    },
+    {
+      "combat_season": "1.7.1",
+      "start_date": "2025-05-02",
+      "stage_slot": "S2",
+      "boss_zh": "未知复合侵蚀体",
+      "empirical_mech_regime": "early_leg_break",
+      "mech_desc": "拆腿部位破坏+100%暴伤",
+      "favored_group": "强攻/击破"
+    },
+    {
+      "combat_season": "1.7.1",
+      "start_date": "2025-05-02",
+      "stage_slot": "S3",
+      "boss_zh": "侵蚀统领·庞培",
+      "empirical_mech_regime": "early_anomaly_strip",
+      "mech_desc": "异常剥离百战层数",
+      "favored_group": "异常"
+    },
+    {
+      "combat_season": "1.7.2",
+      "start_date": "2025-05-16",
+      "stage_slot": "S1",
+      "boss_zh": "恶名·冥宁芙",
+      "empirical_mech_regime": "early_clone_stun",
+      "mech_desc": "击破分身叠易伤",
+      "favored_group": "强攻/异常"
+    },
+    {
+      "combat_season": "1.7.2",
+      "start_date": "2025-05-16",
+      "stage_slot": "S2",
+      "boss_zh": "恶名·死路屠夫",
+      "empirical_mech_regime": "early_disorder_strip",
+      "mech_desc": "以太强化减伤+紊乱解除",
+      "favored_group": "异常"
+    },
+    {
+      "combat_season": "1.7.2",
+      "start_date": "2025-05-16",
+      "stage_slot": "S3",
+      "boss_zh": "泰丰·挑战者",
+      "empirical_mech_regime": "early_parry_stun",
+      "mech_desc": "无限支援点三连弹刀",
+      "favored_group": "击破/强攻"
+    },
+    {
+      "combat_season": "1.7.3",
+      "start_date": "2025-05-30",
+      "stage_slot": "S1",
+      "boss_zh": "恶名·冥宁芙",
+      "empirical_mech_regime": "early_clone_stun",
+      "mech_desc": "击破分身叠易伤",
+      "favored_group": "强攻/异常"
+    },
+    {
+      "combat_season": "1.7.3",
+      "start_date": "2025-05-30",
+      "stage_slot": "S2",
+      "boss_zh": "牲鬼·布林格",
+      "empirical_mech_regime": "early_anomaly_chant",
+      "mech_desc": "打断咏唱+异常叠暴击",
+      "favored_group": "异常"
+    },
+    {
+      "combat_season": "1.7.3",
+      "start_date": "2025-05-30",
+      "stage_slot": "S3",
+      "boss_zh": "恶名·庞培",
+      "empirical_mech_regime": "early_parry_stun",
+      "mech_desc": "招架4层弱化弹反硬直",
+      "favored_group": "强攻/击破"
+    },
+    {
+      "combat_season": "2.0.1",
+      "start_date": "2025-06-13",
+      "stage_slot": "S1",
+      "boss_zh": "秽息司祭",
+      "empirical_mech_regime": "gen1_miasma_shield",
+      "mech_desc": "开启秽盾锁失衡+3秒三连弹刀",
+      "favored_group": "命破"
+    },
+    {
+      "combat_season": "2.0.1",
+      "start_date": "2025-06-13",
+      "stage_slot": "S2",
+      "boss_zh": "恶名·冥宁芙",
+      "empirical_mech_regime": "early_clone_stun",
+      "mech_desc": "击破分身叠易伤",
+      "favored_group": "强攻/异常"
+    },
+    {
+      "combat_season": "2.0.1",
+      "start_date": "2025-06-13",
+      "stage_slot": "S3",
+      "boss_zh": "恶名·庞培",
+      "empirical_mech_regime": "early_parry_stun",
+      "mech_desc": "招架4层弱化弹反硬直",
+      "favored_group": "强攻/击破"
+    },
+    {
+      "combat_season": "2.0.2",
+      "start_date": "2025-06-27",
+      "stage_slot": "S1",
+      "boss_zh": "恶名·庞培",
+      "empirical_mech_regime": "early_parry_stun",
+      "mech_desc": "招架4层弱化弹反硬直",
+      "favored_group": "强攻/击破"
+    },
+    {
+      "combat_season": "2.0.2",
+      "start_date": "2025-06-27",
+      "stage_slot": "S2",
+      "boss_zh": "未知复合侵蚀体",
+      "empirical_mech_regime": "early_leg_break",
+      "mech_desc": "拆腿部位破坏+100%暴伤",
+      "favored_group": "强攻/击破"
+    },
+    {
+      "combat_season": "2.0.2",
+      "start_date": "2025-06-27",
+      "stage_slot": "S3",
+      "boss_zh": "牲鬼·布林格",
+      "empirical_mech_regime": "early_anomaly_chant",
+      "mech_desc": "打断咏唱+异常叠暴击",
+      "favored_group": "异常"
+    },
+    {
+      "combat_season": "2.0.3",
+      "start_date": "2025-07-11",
+      "stage_slot": "S1",
+      "boss_zh": "秽息司祭",
+      "empirical_mech_regime": "gen1_miasma_shield",
+      "mech_desc": "开启秽盾锁失衡+3秒三连弹刀",
+      "favored_group": "命破"
+    },
+    {
+      "combat_season": "2.0.3",
+      "start_date": "2025-07-11",
+      "stage_slot": "S2",
+      "boss_zh": "侵蚀统领·庞培",
+      "empirical_mech_regime": "early_anomaly_strip",
+      "mech_desc": "异常剥离百战层数",
+      "favored_group": "异常"
+    },
+    {
+      "combat_season": "2.0.3",
+      "start_date": "2025-07-11",
+      "stage_slot": "S3",
+      "boss_zh": "恶名·死路屠夫",
+      "empirical_mech_regime": "early_disorder_strip",
+      "mech_desc": "以太强化减伤+紊乱解除",
+      "favored_group": "异常"
+    },
+    {
+      "combat_season": "2.1.1",
+      "start_date": "2025-07-25",
+      "stage_slot": "S1",
+      "boss_zh": "秽息司祭",
+      "empirical_mech_regime": "gen1_miasma_shield",
+      "mech_desc": "开启秽盾锁失衡+3秒三连弹刀",
+      "favored_group": "命破"
+    },
+    {
+      "combat_season": "2.1.1",
+      "start_date": "2025-07-25",
+      "stage_slot": "S2",
+      "boss_zh": "秽息妖鬼·名可名",
+      "empirical_mech_regime": "gen1_miasma_anomaly",
+      "mech_desc": "开启秽盾+异常提速削盾+诱爆秽息池",
+      "favored_group": "异常"
+    },
+    {
+      "combat_season": "2.1.1",
+      "start_date": "2025-07-25",
+      "stage_slot": "S3",
+      "boss_zh": "恶名·庞培",
+      "empirical_mech_regime": "early_parry_stun",
+      "mech_desc": "招架4层弱化弹反硬直",
+      "favored_group": "强攻/击破"
+    },
+    {
+      "combat_season": "2.1.2",
+      "start_date": "2025-08-08",
+      "stage_slot": "S1",
+      "boss_zh": "秽息妖鬼·名可名",
+      "empirical_mech_regime": "gen1_miasma_anomaly",
+      "mech_desc": "开启秽盾+异常提速削盾+诱爆秽息池",
+      "favored_group": "异常"
+    },
+    {
+      "combat_season": "2.1.2",
+      "start_date": "2025-08-08",
+      "stage_slot": "S2",
+      "boss_zh": "恶名·死路屠夫",
+      "empirical_mech_regime": "early_disorder_strip",
+      "mech_desc": "以太强化减伤+紊乱解除",
+      "favored_group": "异常"
+    },
+    {
+      "combat_season": "2.1.2",
+      "start_date": "2025-08-08",
+      "stage_slot": "S3",
+      "boss_zh": "恶名·冥宁芙",
+      "empirical_mech_regime": "early_clone_stun",
+      "mech_desc": "击破分身叠易伤",
+      "favored_group": "强攻/异常"
+    },
+    {
+      "combat_season": "2.1.3",
+      "start_date": "2025-08-22",
+      "stage_slot": "S1",
+      "boss_zh": "恶名·死路屠夫",
+      "empirical_mech_regime": "early_disorder_strip",
+      "mech_desc": "以太强化减伤+紊乱解除",
+      "favored_group": "异常"
+    },
+    {
+      "combat_season": "2.1.3",
+      "start_date": "2025-08-22",
+      "stage_slot": "S2",
+      "boss_zh": "秽息司祭",
+      "empirical_mech_regime": "gen1_miasma_shield",
+      "mech_desc": "开启秽盾锁失衡+3秒三连弹刀",
+      "favored_group": "命破"
+    },
+    {
+      "combat_season": "2.1.3",
+      "start_date": "2025-08-22",
+      "stage_slot": "S3",
+      "boss_zh": "泰丰·挑战者",
+      "empirical_mech_regime": "early_parry_stun",
+      "mech_desc": "无限支援点三连弹刀",
+      "favored_group": "击破/强攻"
+    },
+    {
+      "combat_season": "2.2.1",
+      "start_date": "2025-09-05",
+      "stage_slot": "S1",
+      "boss_zh": "亵渎者",
+      "empirical_mech_regime": "gen1_anti_anomaly_parry",
+      "mech_desc": "降25%异常伤+空战击落+招架叠裁决",
+      "favored_group": "强攻"
+    },
+    {
+      "combat_season": "2.2.1",
+      "start_date": "2025-09-05",
+      "stage_slot": "S2",
+      "boss_zh": "秽息妖鬼·名可名",
+      "empirical_mech_regime": "gen1_miasma_anomaly",
+      "mech_desc": "开启秽盾+异常提速削盾",
+      "favored_group": "异常"
+    },
+    {
+      "combat_season": "2.2.1",
+      "start_date": "2025-09-05",
+      "stage_slot": "S3",
+      "boss_zh": "秽息司祭",
+      "empirical_mech_regime": "gen1_miasma_shield",
+      "mech_desc": "开启秽盾锁失衡+3秒三连弹刀",
+      "favored_group": "命破"
+    },
+    {
+      "combat_season": "2.2.2",
+      "start_date": "2025-09-19",
+      "stage_slot": "S1",
+      "boss_zh": "亵渎者",
+      "empirical_mech_regime": "gen1_anti_anomaly_parry",
+      "mech_desc": "降25%异常伤+空战击落+招架叠裁决",
+      "favored_group": "强攻"
+    },
+    {
+      "combat_season": "2.2.2",
+      "start_date": "2025-09-19",
+      "stage_slot": "S2",
+      "boss_zh": "恶名·死路屠夫",
+      "empirical_mech_regime": "early_disorder_strip",
+      "mech_desc": "以太强化减伤+紊乱解除",
+      "favored_group": "异常"
+    },
+    {
+      "combat_season": "2.2.2",
+      "start_date": "2025-09-19",
+      "stage_slot": "S3",
+      "boss_zh": "恶名·庞培",
+      "empirical_mech_regime": "early_parry_stun",
+      "mech_desc": "招架4层弱化弹反硬直",
+      "favored_group": "强攻/击破"
+    },
+    {
+      "combat_season": "2.2.3",
+      "start_date": "2025-10-03",
+      "stage_slot": "S1",
+      "boss_zh": "秽息妖鬼·名可名",
+      "empirical_mech_regime": "gen1_miasma_anomaly",
+      "mech_desc": "开启秽盾+异常提速削盾",
+      "favored_group": "异常"
+    },
+    {
+      "combat_season": "2.2.3",
+      "start_date": "2025-10-03",
+      "stage_slot": "S2",
+      "boss_zh": "未知复合侵蚀体",
+      "empirical_mech_regime": "early_leg_break",
+      "mech_desc": "拆腿部位破坏+100%暴伤",
+      "favored_group": "强攻/击破"
+    },
+    {
+      "combat_season": "2.2.3",
+      "start_date": "2025-10-03",
+      "stage_slot": "S3",
+      "boss_zh": "秽息司祭",
+      "empirical_mech_regime": "gen1_miasma_shield",
+      "mech_desc": "开启秽盾锁失衡+3秒三连弹刀",
+      "favored_group": "命破"
+    },
+    {
+      "combat_season": "2.3.1",
+      "start_date": "2025-10-17",
+      "stage_slot": "S1",
+      "boss_zh": "秽息司祭",
+      "empirical_mech_regime": "gen1_miasma_shield",
+      "mech_desc": "开启秽盾锁失衡+3秒三连弹刀",
+      "favored_group": "命破"
+    },
+    {
+      "combat_season": "2.3.1",
+      "start_date": "2025-10-17",
+      "stage_slot": "S2",
+      "boss_zh": "亵渎者",
+      "empirical_mech_regime": "gen1_anti_anomaly_parry",
+      "mech_desc": "降25%异常伤+空战击落",
+      "favored_group": "强攻"
+    },
+    {
+      "combat_season": "2.3.1",
+      "start_date": "2025-10-17",
+      "stage_slot": "S3",
+      "boss_zh": "恶名·死路屠夫",
+      "empirical_mech_regime": "early_disorder_strip",
+      "mech_desc": "以太强化减伤+紊乱解除",
+      "favored_group": "异常"
+    },
+    {
+      "combat_season": "2.3.2",
+      "start_date": "2025-10-31",
+      "stage_slot": "S1",
+      "boss_zh": "彷徨猎手",
+      "empirical_mech_regime": "gen1_high_def_miasma",
+      "mech_desc": "秽息领域+40%无视减防基础防御+觉感破真身",
+      "favored_group": "命破"
+    },
+    {
+      "combat_season": "2.3.2",
+      "start_date": "2025-10-31",
+      "stage_slot": "S2",
+      "boss_zh": "秽息妖鬼·名可名",
+      "empirical_mech_regime": "gen1_miasma_anomaly",
+      "mech_desc": "开启秽盾+异常提速削盾",
+      "favored_group": "异常"
+    },
+    {
+      "combat_season": "2.3.2",
+      "start_date": "2025-10-31",
+      "stage_slot": "S3",
+      "boss_zh": "亵渎者",
+      "empirical_mech_regime": "gen1_anti_anomaly_parry",
+      "mech_desc": "降25%异常伤+空战击落",
+      "favored_group": "强攻"
+    },
+    {
+      "combat_season": "2.3.3",
+      "start_date": "2025-11-14",
+      "stage_slot": "S1",
+      "boss_zh": "彷徨猎手",
+      "empirical_mech_regime": "gen1_high_def_miasma",
+      "mech_desc": "秽息领域+40%无视减防基础防御+觉感破真身",
+      "favored_group": "命破"
+    },
+    {
+      "combat_season": "2.3.3",
+      "start_date": "2025-11-14",
+      "stage_slot": "S2",
+      "boss_zh": "泰丰·挑战者",
+      "empirical_mech_regime": "early_parry_stun",
+      "mech_desc": "无限支援点三连弹刀",
+      "favored_group": "击破/强攻"
+    },
+    {
+      "combat_season": "2.3.3",
+      "start_date": "2025-11-14",
+      "stage_slot": "S3",
+      "boss_zh": "秽息司祭",
+      "empirical_mech_regime": "gen1_miasma_shield",
+      "mech_desc": "开启秽盾锁失衡+3秒三连弹刀",
+      "favored_group": "命破"
+    },
+    {
+      "combat_season": "2.4.1",
+      "start_date": "2025-11-28",
+      "stage_slot": "S1",
+      "boss_zh": "恶名·冥宁芙",
+      "empirical_mech_regime": "early_clone_stun",
+      "mech_desc": "击破分身叠易伤",
+      "favored_group": "强攻/异常"
+    },
+    {
+      "combat_season": "2.4.1",
+      "start_date": "2025-11-28",
+      "stage_slot": "S2",
+      "boss_zh": "魇缚者·叶释渊",
+      "empirical_mech_regime": "gen1_anti_anomaly_stun",
+      "mech_desc": "索贝克双体轮替+叠45%全异常积蓄抗性",
+      "favored_group": "击破/强攻"
+    },
+    {
+      "combat_season": "2.4.1",
+      "start_date": "2025-11-28",
+      "stage_slot": "S3",
+      "boss_zh": "秽息妖鬼·名可名",
+      "empirical_mech_regime": "gen1_miasma_anomaly",
+      "mech_desc": "开启秽盾+异常提速削盾",
+      "favored_group": "异常"
+    },
+    {
+      "combat_season": "2.4.2",
+      "start_date": "2025-12-12",
+      "stage_slot": "S1",
+      "boss_zh": "彷徨猎手",
+      "empirical_mech_regime": "gen1_high_def_miasma",
+      "mech_desc": "秽息领域+40%无视减防基础防御",
+      "favored_group": "命破"
+    },
+    {
+      "combat_season": "2.4.2",
+      "start_date": "2025-12-12",
+      "stage_slot": "S2",
+      "boss_zh": "魇缚者·叶释渊",
+      "empirical_mech_regime": "gen1_anti_anomaly_stun",
+      "mech_desc": "索贝克双体+叠45%异常积蓄抗性",
+      "favored_group": "击破/强攻"
+    },
+    {
+      "combat_season": "2.4.2",
+      "start_date": "2025-12-12",
+      "stage_slot": "S3",
+      "boss_zh": "牲鬼·布林格",
+      "empirical_mech_regime": "early_anomaly_chant",
+      "mech_desc": "打断咏唱+异常叠暴击",
+      "favored_group": "异常"
+    },
+    {
+      "combat_season": "2.5.1",
+      "start_date": "2026-01-02",
+      "stage_slot": "S1",
+      "boss_zh": "太初梦魇·「始主」",
+      "empirical_mech_regime": "gen2_control_skill_miasma",
+      "mech_desc": "降30%异常伤+双段秽盾锁失衡+紫光无提示五段斩完美反制",
+      "favored_group": "叶瞬光/强攻"
+    },
+    {
+      "combat_season": "2.5.1",
+      "start_date": "2026-01-02",
+      "stage_slot": "S2",
+      "boss_zh": "秽息妖鬼·名可名",
+      "empirical_mech_regime": "gen1_miasma_anomaly",
+      "mech_desc": "开启秽盾+异常提速削盾",
+      "favored_group": "异常"
+    },
+    {
+      "combat_season": "2.5.1",
+      "start_date": "2026-01-02",
+      "stage_slot": "S3",
+      "boss_zh": "彷徨猎手",
+      "empirical_mech_regime": "gen1_high_def_miasma",
+      "mech_desc": "秽息领域+40%无视减防防御",
+      "favored_group": "命破"
+    },
+    {
+      "combat_season": "2.5.2",
+      "start_date": "2026-01-16",
+      "stage_slot": "S1",
+      "boss_zh": "亵渎者",
+      "empirical_mech_regime": "gen1_anti_anomaly_parry",
+      "mech_desc": "降25%异常伤+空战击落",
+      "favored_group": "强攻"
+    },
+    {
+      "combat_season": "2.5.2",
+      "start_date": "2026-01-16",
+      "stage_slot": "S2",
+      "boss_zh": "恶名·冥宁芙",
+      "empirical_mech_regime": "early_clone_stun",
+      "mech_desc": "击破分身叠易伤",
+      "favored_group": "强攻/异常"
+    },
+    {
+      "combat_season": "2.5.2",
+      "start_date": "2026-01-16",
+      "stage_slot": "S3",
+      "boss_zh": "秽息司祭",
+      "empirical_mech_regime": "gen1_miasma_shield",
+      "mech_desc": "开启秽盾锁失衡",
+      "favored_group": "命破"
+    },
+    {
+      "combat_season": "2.5.3",
+      "start_date": "2026-01-30",
+      "stage_slot": "S1",
+      "boss_zh": "太初梦魇·「始主」",
+      "empirical_mech_regime": "gen2_control_skill_miasma",
+      "mech_desc": "降30%异常伤+双段秽盾+紫光五段斩完美反制",
+      "favored_group": "叶瞬光/强攻"
+    },
+    {
+      "combat_season": "2.5.3",
+      "start_date": "2026-01-30",
+      "stage_slot": "S2",
+      "boss_zh": "未知复合侵蚀体",
+      "empirical_mech_regime": "early_leg_break",
+      "mech_desc": "拆腿部位破坏",
+      "favored_group": "强攻/击破"
+    },
+    {
+      "combat_season": "2.5.3",
+      "start_date": "2026-01-30",
+      "stage_slot": "S3",
+      "boss_zh": "彷徨猎手",
+      "empirical_mech_regime": "gen1_high_def_miasma",
+      "mech_desc": "秽息领域+40%无视减防防御",
+      "favored_group": "命破"
+    },
+    {
+      "combat_season": "2.6.1",
+      "start_date": "2026-02-13",
+      "stage_slot": "S1",
+      "boss_zh": "太初梦魇·「始主」",
+      "empirical_mech_regime": "gen2_control_skill_miasma",
+      "mech_desc": "降30%异常伤+双段秽盾+紫光五段斩完美反制",
+      "favored_group": "叶瞬光/强攻"
+    },
+    {
+      "combat_season": "2.6.1",
+      "start_date": "2026-02-13",
+      "stage_slot": "S2",
+      "boss_zh": "秽息司祭",
+      "empirical_mech_regime": "gen1_miasma_shield",
+      "mech_desc": "开启秽盾锁失衡",
+      "favored_group": "命破"
+    },
+    {
+      "combat_season": "2.6.1",
+      "start_date": "2026-02-13",
+      "stage_slot": "S3",
+      "boss_zh": "恶名·死路屠夫",
+      "empirical_mech_regime": "early_disorder_strip",
+      "mech_desc": "以太强化减伤+紊乱解除",
+      "favored_group": "异常"
+    },
+    {
+      "combat_season": "2.6.2",
+      "start_date": "2026-02-27",
+      "stage_slot": "S1",
+      "boss_zh": "叛律孤歌·薇斯珀",
+      "empirical_mech_regime": "gen2_control_skill_veil",
+      "mech_desc": "常驻降40%暴伤+绑定以太帷幕叠谐响+紫光五连劈完美反制",
+      "favored_group": "以太帷幕/异常"
+    },
+    {
+      "combat_season": "2.6.2",
+      "start_date": "2026-02-27",
+      "stage_slot": "S2",
+      "boss_zh": "亵渎者",
+      "empirical_mech_regime": "gen1_anti_anomaly_parry",
+      "mech_desc": "降25%异常伤+空战击落",
+      "favored_group": "强攻"
+    },
+    {
+      "combat_season": "2.6.2",
+      "start_date": "2026-02-27",
+      "stage_slot": "S3",
+      "boss_zh": "彷徨猎手",
+      "empirical_mech_regime": "gen1_high_def_miasma",
+      "mech_desc": "秽息领域+40%无视减防防御",
+      "favored_group": "命破"
+    },
+    {
+      "combat_season": "2.6.3",
+      "start_date": "2026-03-13",
+      "stage_slot": "S1",
+      "boss_zh": "秽息妖鬼·名可名",
+      "empirical_mech_regime": "gen1_miasma_anomaly",
+      "mech_desc": "开启秽盾+异常提速削盾",
+      "favored_group": "异常"
+    },
+    {
+      "combat_season": "2.6.3",
+      "start_date": "2026-03-13",
+      "stage_slot": "S2",
+      "boss_zh": "魇缚者·叶释渊",
+      "empirical_mech_regime": "gen1_anti_anomaly_stun",
+      "mech_desc": "索贝克双体+叠45%异常抗性",
+      "favored_group": "击破/强攻"
+    },
+    {
+      "combat_season": "2.6.3",
+      "start_date": "2026-03-13",
+      "stage_slot": "S3",
+      "boss_zh": "恶名·庞培",
+      "empirical_mech_regime": "early_parry_stun",
+      "mech_desc": "招架4层弱化弹反硬直",
+      "favored_group": "强攻/击破"
+    },
+    {
+      "combat_season": "2.7.1",
+      "start_date": "2026-03-27",
+      "stage_slot": "S1",
+      "boss_zh": "猎血清道夫",
+      "empirical_mech_regime": "gen2_corruptive_control_skill",
+      "mech_desc": "开启侵蚀壁垒紫盾(异常+50%)+开局紫光隐身五段变速控制技",
+      "favored_group": "异常/南宫羽"
+    },
+    {
+      "combat_season": "2.7.1",
+      "start_date": "2026-03-27",
+      "stage_slot": "S2",
+      "boss_zh": "秽息司祭",
+      "empirical_mech_regime": "gen1_miasma_shield",
+      "mech_desc": "开启秽盾锁失衡",
+      "favored_group": "命破"
+    },
+    {
+      "combat_season": "2.7.1",
+      "start_date": "2026-03-27",
+      "stage_slot": "S3",
+      "boss_zh": "恶名·冥宁芙",
+      "empirical_mech_regime": "early_clone_stun",
+      "mech_desc": "击破分身叠易伤",
+      "favored_group": "强攻/异常"
+    },
+    {
+      "combat_season": "2.7.2",
+      "start_date": "2026-04-10",
+      "stage_slot": "S1",
+      "boss_zh": "叛律孤歌·薇斯珀",
+      "empirical_mech_regime": "gen2_control_skill_veil",
+      "mech_desc": "常驻降40%暴伤+绑定以太帷幕+紫光控制技完美反制",
+      "favored_group": "以太帷幕/异常"
+    },
+    {
+      "combat_season": "2.7.2",
+      "start_date": "2026-04-10",
+      "stage_slot": "S2",
+      "boss_zh": "未知复合侵蚀体",
+      "empirical_mech_regime": "early_leg_break",
+      "mech_desc": "拆腿部位破坏",
+      "favored_group": "强攻/击破"
+    },
+    {
+      "combat_season": "2.7.2",
+      "start_date": "2026-04-10",
+      "stage_slot": "S3",
+      "boss_zh": "魇缚者·叶释渊",
+      "empirical_mech_regime": "gen1_anti_anomaly_stun",
+      "mech_desc": "索贝克双体+叠45%异常抗性",
+      "favored_group": "击破/强攻"
+    },
+    {
+      "combat_season": "2.7.3",
+      "start_date": "2026-04-24",
+      "stage_slot": "S1",
+      "boss_zh": "猎血清道夫",
+      "empirical_mech_regime": "gen2_corruptive_control_skill",
+      "mech_desc": "侵蚀壁垒紫盾+紫光隐身五段控制技完美反制",
+      "favored_group": "异常/南宫羽"
+    },
+    {
+      "combat_season": "2.7.3",
+      "start_date": "2026-04-24",
+      "stage_slot": "S2",
+      "boss_zh": "太初梦魇·「始主」",
+      "empirical_mech_regime": "gen2_control_skill_miasma",
+      "mech_desc": "双段秽盾+紫光五段斩完美反制",
+      "favored_group": "叶瞬光/强攻"
+    },
+    {
+      "combat_season": "2.7.3",
+      "start_date": "2026-04-24",
+      "stage_slot": "S3",
+      "boss_zh": "亵渎者",
+      "empirical_mech_regime": "gen1_anti_anomaly_parry",
+      "mech_desc": "降25%异常伤+空战击落",
+      "favored_group": "强攻"
+    },
+    {
+      "combat_season": "2.8.1",
+      "start_date": "2026-05-08",
+      "stage_slot": "S1",
+      "boss_zh": "焚昼余火·法厄同",
+      "empirical_mech_regime": "gen3_crit_lock_125",
+      "mech_desc": "焚风5层赴火合计降125%暴伤锁死直伤+异常剥离转异放+紫光控制技",
+      "favored_group": "异放/异常"
+    },
+    {
+      "combat_season": "2.8.1",
+      "start_date": "2026-05-08",
+      "stage_slot": "S2",
+      "boss_zh": "彷徨猎手",
+      "empirical_mech_regime": "gen1_high_def_miasma",
+      "mech_desc": "秽息领域+40%无视减防防御",
+      "favored_group": "命破"
+    },
+    {
+      "combat_season": "2.8.1",
+      "start_date": "2026-05-08",
+      "stage_slot": "S3",
+      "boss_zh": "亵渎者",
+      "empirical_mech_regime": "gen1_anti_anomaly_parry",
+      "mech_desc": "降25%异常伤+空战击落",
+      "favored_group": "强攻"
+    },
+    {
+      "combat_season": "2.8.2",
+      "start_date": "2026-05-22",
+      "stage_slot": "S1",
+      "boss_zh": "恶名·死路屠夫",
+      "empirical_mech_regime": "early_disorder_strip",
+      "mech_desc": "以太强化减伤+紊乱解除",
+      "favored_group": "异常"
+    },
+    {
+      "combat_season": "2.8.2",
+      "start_date": "2026-05-22",
+      "stage_slot": "S2",
+      "boss_zh": "魇缚者·叶释渊",
+      "empirical_mech_regime": "gen1_anti_anomaly_stun",
+      "mech_desc": "索贝克双体+叠45%异常抗性",
+      "favored_group": "击破/强攻"
+    },
+    {
+      "combat_season": "2.8.2",
+      "start_date": "2026-05-22",
+      "stage_slot": "S3",
+      "boss_zh": "叛律孤歌·薇斯珀",
+      "empirical_mech_regime": "gen2_control_skill_veil",
+      "mech_desc": "开启以太帷幕增伤+紫光控制技完美反制",
+      "favored_group": "以太帷幕/异常"
+    },
+    {
+      "combat_season": "2.8.3",
+      "start_date": "2026-06-05",
+      "stage_slot": "S1",
+      "boss_zh": "秽息妖鬼·名可名",
+      "empirical_mech_regime": "gen1_miasma_anomaly",
+      "mech_desc": "开启秽盾+异常提速削盾",
+      "favored_group": "异常"
+    },
+    {
+      "combat_season": "2.8.3",
+      "start_date": "2026-06-05",
+      "stage_slot": "S2",
+      "boss_zh": "魇缚者·叶释渊",
+      "empirical_mech_regime": "gen1_anti_anomaly_stun",
+      "mech_desc": "索贝克双体+叠45%异常抗性",
+      "favored_group": "击破/强攻"
+    },
+    {
+      "combat_season": "2.8.3",
+      "start_date": "2026-06-05",
+      "stage_slot": "S3",
+      "boss_zh": "亵渎者",
+      "empirical_mech_regime": "gen1_anti_anomaly_parry",
+      "mech_desc": "降25%异常伤+空战击落",
+      "favored_group": "强攻"
+    },
+    {
+      "combat_season": "3.0.1",
+      "start_date": "2026-06-19",
+      "stage_slot": "S1",
+      "boss_zh": "基塔布鲁",
+      "empirical_mech_regime": "gen4_corruptive_barrier_anomaly",
+      "mech_desc": "开启侵蚀壁垒紫盾(持续掉血+高暴抗)+挂异常残翳每次削20%紫盾+连携招架",
+      "favored_group": "蕾米/三异常"
+    },
+    {
+      "combat_season": "3.0.1",
+      "start_date": "2026-06-19",
+      "stage_slot": "S2",
+      "boss_zh": "恶名·冥宁芙",
+      "empirical_mech_regime": "early_clone_stun",
+      "mech_desc": "击破分身叠易伤",
+      "favored_group": "强攻/异常"
+    },
+    {
+      "combat_season": "3.0.1",
+      "start_date": "2026-06-19",
+      "stage_slot": "S3",
+      "boss_zh": "魇缚者·叶释渊",
+      "empirical_mech_regime": "gen1_anti_anomaly_stun",
+      "mech_desc": "索贝克双体+叠45%异常抗性",
+      "favored_group": "击破/强攻"
+    },
+    {
+      "combat_season": "3.0.2",
+      "start_date": "2026-07-03",
+      "stage_slot": "S1",
+      "boss_zh": "基塔布鲁",
+      "empirical_mech_regime": "gen4_corruptive_barrier_anomaly",
+      "mech_desc": "侵蚀壁垒紫盾+挂异常每次削20%紫盾+连携招架",
+      "favored_group": "蕾米/三异常"
+    },
+    {
+      "combat_season": "3.0.2",
+      "start_date": "2026-07-03",
+      "stage_slot": "S2",
+      "boss_zh": "太初梦魇·「始主」",
+      "empirical_mech_regime": "gen2_control_skill_miasma",
+      "mech_desc": "双段秽盾+紫光五段斩完美反制",
+      "favored_group": "叶瞬光/强攻"
+    },
+    {
+      "combat_season": "3.0.2",
+      "start_date": "2026-07-03",
+      "stage_slot": "S3",
+      "boss_zh": "魇缚者·叶释渊",
+      "empirical_mech_regime": "gen1_anti_anomaly_stun",
+      "mech_desc": "索贝克双体+叠45%异常抗性",
+      "favored_group": "击破/强攻"
+    },
+    {
+      "combat_season": "3.0.3",
+      "start_date": "2026-07-17",
+      "stage_slot": "S1",
+      "boss_zh": "焚昼余火·法厄同",
+      "empirical_mech_regime": "gen3_crit_lock_125",
+      "mech_desc": "焚风5层赴火降125%暴伤+异常剥离转异放+紫光控制技",
+      "favored_group": "蕾米/异放/异常"
+    },
+    {
+      "combat_season": "3.0.3",
+      "start_date": "2026-07-17",
+      "stage_slot": "S2",
+      "boss_zh": "恶名·庞培",
+      "empirical_mech_regime": "early_parry_stun",
+      "mech_desc": "降30%异常伤+招架4层弱化弹反",
+      "favored_group": "强攻/击破"
+    },
+    {
+      "combat_season": "3.0.3",
+      "start_date": "2026-07-17",
+      "stage_slot": "S3",
+      "boss_zh": "秽息妖鬼·名可名",
+      "empirical_mech_regime": "gen1_miasma_anomaly",
+      "mech_desc": "开启秽盾+异常提速削盾",
+      "favored_group": "异常"
+    },
+    {
+      "combat_season": "3.1.1",
+      "start_date": "2026-07-29",
+      "stage_slot": "S1",
+      "boss_zh": "滞异·基塔布鲁",
+      "empirical_mech_regime": "gen4_corruptive_barrier_anomaly",
+      "mech_desc": "侵蚀壁垒紫盾+异常疫痕增伤削盾+控制技",
+      "favored_group": "蕾米/三异常"
+    },
+    {
+      "combat_season": "3.1.1",
+      "start_date": "2026-07-29",
+      "stage_slot": "S2",
+      "boss_zh": "恶名·死路屠夫",
+      "empirical_mech_regime": "early_disorder_strip",
+      "mech_desc": "以太强化减伤+紊乱解除",
+      "favored_group": "异常"
+    },
+    {
+      "combat_season": "3.1.1",
+      "start_date": "2026-07-29",
+      "stage_slot": "S3",
+      "boss_zh": "未知复合侵蚀体",
+      "empirical_mech_regime": "early_leg_break",
+      "mech_desc": "拆腿部位破坏",
+      "favored_group": "强攻/击破"
+    },
+    {
+      "combat_season": "3.1.2",
+      "start_date": "2026-08-14",
+      "stage_slot": "S1",
+      "boss_zh": "滞异·基塔布鲁",
+      "empirical_mech_regime": "gen4_corruptive_barrier_anomaly",
+      "mech_desc": "侵蚀壁垒紫盾+异常疫痕削盾+黄金反制支援",
+      "favored_group": "蕾米/三异常"
+    },
+    {
+      "combat_season": "3.1.2",
+      "start_date": "2026-08-14",
+      "stage_slot": "S2",
+      "boss_zh": "魇缚者·叶释渊",
+      "empirical_mech_regime": "gen1_anti_anomaly_stun",
+      "mech_desc": "索贝克双体+叠45%异常抗性",
+      "favored_group": "击破/强攻"
+    },
+    {
+      "combat_season": "3.1.2",
+      "start_date": "2026-08-14",
+      "stage_slot": "S3",
+      "boss_zh": "秽息司祭",
+      "empirical_mech_regime": "gen1_miasma_shield",
+      "mech_desc": "开启秽盾锁失衡",
+      "favored_group": "命破"
+    },
+    {
+      "combat_season": "3.1.3",
+      "start_date": "2026-08-28",
+      "stage_slot": "S1",
+      "boss_zh": "死路屠夫",
+      "empirical_mech_regime": "early_crit_dodge",
+      "mech_desc": "孤注一掷叠75%暴伤+降45%异常伤",
+      "favored_group": "强攻/希格莉德"
+    },
+    {
+      "combat_season": "3.1.3",
+      "start_date": "2026-08-28",
+      "stage_slot": "S2",
+      "boss_zh": "基塔布鲁",
+      "empirical_mech_regime": "gen4_corruptive_barrier_anomaly",
+      "mech_desc": "侵蚀壁垒紫盾+挂异常每次削20%紫盾",
+      "favored_group": "蕾米/三异常"
+    },
+    {
+      "combat_season": "3.1.3",
+      "start_date": "2026-08-28",
+      "stage_slot": "S3",
+      "boss_zh": "太初梦魇·「始主」",
+      "empirical_mech_regime": "gen2_control_skill_miasma",
+      "mech_desc": "双段秽盾+紫光五段斩完美反制",
+      "favored_group": "叶瞬光/强攻"
+    },
+    {
+      "combat_season": "3.2.1",
+      "start_date": "2026-09-11",
+      "stage_slot": "S1",
+      "boss_zh": "库萨里库",
+      "empirical_mech_regime": "gen4_corruptive_barrier_armorer",
+      "mech_desc": "侵蚀壁垒紫盾+降40%异常伤+招架裂界闪袭削紫盾叠识破锐化伤",
+      "favored_group": "锋御/克拉蕾"
+    },
+    {
+      "combat_season": "3.2.1",
+      "start_date": "2026-09-11",
+      "stage_slot": "S2",
+      "boss_zh": "滞异·基塔布鲁",
+      "empirical_mech_regime": "gen4_corruptive_barrier_anomaly",
+      "mech_desc": "侵蚀壁垒紫盾+异常疫痕削盾",
+      "favored_group": "蕾米/三异常"
+    },
+    {
+      "combat_season": "3.2.1",
+      "start_date": "2026-09-11",
+      "stage_slot": "S3",
+      "boss_zh": "魇缚者·叶释渊",
+      "empirical_mech_regime": "gen1_anti_anomaly_stun",
+      "mech_desc": "索贝克双体+叠45%异常抗性",
+      "favored_group": "击破/强攻"
+    },
+    {
+      "combat_season": "3.2.2",
+      "start_date": "2026-09-25",
+      "stage_slot": "S1",
+      "boss_zh": "库萨里库",
+      "empirical_mech_regime": "gen4_corruptive_barrier_armorer",
+      "mech_desc": "侵蚀壁垒紫盾+降40%异常伤+招架裂界闪袭叠识破锐化伤",
+      "favored_group": "锋御/克拉蕾"
+    },
+    {
+      "combat_season": "3.2.2",
+      "start_date": "2026-09-25",
+      "stage_slot": "S2",
+      "boss_zh": "秽息妖鬼·名可名",
+      "empirical_mech_regime": "gen1_miasma_anomaly",
+      "mech_desc": "开启秽盾+异常提速削盾",
+      "favored_group": "异常"
+    },
+    {
+      "combat_season": "3.2.2",
+      "start_date": "2026-09-25",
+      "stage_slot": "S3",
+      "boss_zh": "魇缚者·叶释渊",
+      "empirical_mech_regime": "gen1_anti_anomaly_stun",
+      "mech_desc": "索贝克双体+叠45%异常抗性",
+      "favored_group": "击破/强攻"
+    },
+    {
+      "combat_season": "3.2.3",
+      "start_date": "2026-10-09",
+      "stage_slot": "S1",
+      "boss_zh": "焚昼余火·法厄同",
+      "empirical_mech_regime": "gen3_crit_lock_125",
+      "mech_desc": "焚风5层赴火降125%暴伤+异常剥离转异放",
+      "favored_group": "蕾米/异放/异常"
+    },
+    {
+      "combat_season": "3.2.3",
+      "start_date": "2026-10-09",
+      "stage_slot": "S2",
+      "boss_zh": "熔狱行赭",
+      "empirical_mech_regime": "gen4_molten_meteor_parry",
+      "mech_desc": "熔狱降30%异常伤+火雨50%减伤强制打碎3燧石+紫光控制技",
+      "favored_group": "锋御/强攻"
+    },
+    {
+      "combat_season": "3.2.3",
+      "start_date": "2026-10-09",
+      "stage_slot": "S3",
+      "boss_zh": "库萨里库",
+      "empirical_mech_regime": "gen4_corruptive_barrier_armorer",
+      "mech_desc": "侵蚀壁垒紫盾+降40%异常伤+裂界闪袭叠识破",
+      "favored_group": "锋御/克拉蕾"
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+游戏项目/
+├─ .archive_trash/
+├─ .pytest_cache/
+├─ .venv/
+├─ config/
+│  ├─ modules/
+│  ├─ research_v2/
+│  └─ experiment.json
+├─ data/
+│  └─ raw/
+├─ docs/
+│  ├─ design/
+│  ├─ development/
+│  └─ review/
+├─ outputs/
+│  ├─ final_release/
+│  ├─ research_v2/
+│  ├─ research_v2_stability/
+│  ├─ research_v2_stability_n1000/
+│  └─ README.md
+├─ src/
+│  ├─ zzz_research/
+│  └─ zzz_research.egg-info/
+├─ tests/
+│  ├─ conftest.py
+│  ├─ test_calibrated_refresh.py
+│  ├─ test_combat_v2.py
+│  ├─ test_config_v2.py
+│  ├─ test_layer1_import_integration.py
+│  ├─ test_m0_foundation.py
+│  ├─ test_m2_kernels.py
+│  ├─ test_m2_regressions.py
+│  ├─ test_m3_regressions.py
+│  ├─ test_m3_runtime.py
+│  ├─ test_m4_analytics.py
+│  ├─ test_m4_observation_regressions.py
+│  ├─ test_m4_observations.py
+│  ├─ test_m4_pipeline_regressions.py
+│  ├─ test_m4_statistics_regressions.py
+│  ├─ test_m5_cli.py
+│  ├─ test_m5_report_regressions.py
+│  ├─ test_m6_perf_calibration.py
+│  ├─ test_observation_batches.py
+│  ├─ test_publication_dashboard.py
+│  ├─ test_publication_data.py
+│  ├─ test_publication_report.py
+│  ├─ test_rng_contract.py
+│  ├─ test_runtime_v2.py
+│  ├─ test_spending_v2.py
+│  ├─ test_stability_runner.py
+│  └─ test_stability_stats.py
+├─ tools/
+│  ├─ add_observation_lookup_index.py
+│  ├─ audit_shiyu_raw.py
+│  ├─ build_archetype_evolution.py
+│  ├─ build_boss_mechanism_stats.py
+│  ├─ build_deadly_assault_boss_dimension.py
+│  ├─ build_empirical_calibration.py
+│  ├─ build_observed_archetypes.py
+│  ├─ deadly_assault_boss_catalog.json
+│  ├─ design_docs.py
+│  ├─ empirical_boss_regimes.json
+│  ├─ empirical_common.py
+│  ├─ empirical_lock.py
+│  ├─ empirical_support.py
+│  ├─ empirical_support_pairs.json
+│  ├─ fetch_shiyu_snapshot.py
+│  ├─ finalize_existing_observations.py
+│  ├─ observed_archetype_rules.json
+│  ├─ observed_roster_discovery.py
+│  ├─ observed_unit_names_zh.json
+│  ├─ plot_archetype_evolution.py
+│  ├─ README.md
+│  ├─ rebuild_calibrated_benchmark.py
+│  ├─ rebuild_final_release.py
+│  ├─ rebuild_transferred_search.py
+│  ├─ refresh_layer1_report.py
+│  ├─ research_v2_stability_report.py
+│  ├─ research_v2_stability_stats.py
+│  ├─ restore_benchmark_archives.py
+│  ├─ run_research_v2.py
+│  ├─ run_research_v2_stability.py
+│  ├─ verify_benchmark_exports.py
+│  ├─ verify_calibrated_lineage.py
+│  └─ verify_shiyu_import.py
+├─ .gitignore
+├─ AGENTS.md
+├─ prompt_spec.md
+├─ pyproject.toml
+└─ README.md

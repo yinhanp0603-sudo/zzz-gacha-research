@@ -1,0 +1,52 @@
+{
+  "schema_version": "1.0.0",
+  "protocol_version": "fixed_cohort_policy_v2",
+  "base_scenario": "Research",
+  "grid": {
+    "mechanism_strength": [
+      0,
+      0.5,
+      1,
+      1.5,
+      2
+    ],
+    "support_gain_scale": [
+      0.8,
+      1,
+      1.2,
+      1.4,
+      1.6
+    ]
+  },
+  "train_seeds": [
+    1101,
+    1102,
+    1103,
+    1104,
+    1105
+  ],
+  "validation_seeds": [
+    9101,
+    9102,
+    9103
+  ],
+  "pain_sensitivity": {
+    "parameters": [
+      "behavior.fatigue.gap_weight",
+      "behavior.fatigue.failure_weight",
+      "behavior.fatigue.budget_weight"
+    ],
+    "factors": [
+      0.75,
+      1,
+      1.25
+    ],
+    "method": "one_factor_at_a_time"
+  },
+  "baseline_grid_point": {
+    "mechanism_strength": 1,
+    "support_gain_scale": 1
+  },
+  "grid_log_mode": "summary",
+  "reference_log_mode": "full"
+}

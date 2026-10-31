@@ -1,0 +1,45 @@
+{
+  "schema_version": "1.0.0",
+  "model_version": "gacha_v1",
+  "curve_version": "assumed_empirical_v1",
+  "pools": {
+    "character": {
+      "base_s_probability": 0.006,
+      "soft_pity_start": 74,
+      "hard_pity": 90,
+      "soft_increment": 0.06,
+      "up_given_s": 0.5,
+      "pity_group": "limited_character"
+    },
+    "weapon": {
+      "base_s_probability": 0.01,
+      "soft_pity_start": 65,
+      "hard_pity": 80,
+      "soft_increment": 0.06,
+      "up_given_s": 0.75,
+      "pity_group": "limited_weapon"
+    }
+  },
+  "target_paths": {
+    "0+0": [
+      "body"
+    ],
+    "0+1": [
+      "body",
+      "signature_weapon"
+    ],
+    "2+1": [
+      "body",
+      "signature_weapon",
+      "cinema_1",
+      "cinema_2"
+    ],
+    "support_body": [
+      "body"
+    ]
+  },
+  "offrate_combat_enabled": false,
+  "non_s_result": "NON_S",
+  "provenance": "assumed_empirical_curve_and_scenario_rules"
+}
+

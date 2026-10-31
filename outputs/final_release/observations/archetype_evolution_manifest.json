@@ -1,0 +1,862 @@
+{
+  "status": "completed",
+  "created_at_utc": "2026-10-28T16:47:24+00:00",
+  "statistics": "per-season record-level mechanism coverage, not mutually exclusive composition shares",
+  "denominator": "is_eligible=1 and mapped composition is_valid_3man=1; 3 distinct known characters",
+  "multiple_cores": "Each battle contributes at most once to each broad group; groups may overlap and must not be stacked or summed to 100%.",
+  "group_order": [
+    "常规直伤/失衡",
+    "异常/紊乱异放",
+    "追加攻击",
+    "命破贯穿",
+    "帷幕无视失衡",
+    "耀变体系",
+    "锐化防御"
+  ],
+  "family_group_mapping": {
+    "常规直伤": "常规直伤/失衡",
+    "常规失衡": "常规直伤/失衡",
+    "异常伤害/积蓄": "异常/紊乱异放",
+    "紊乱异放": "异常/紊乱异放",
+    "追加攻击": "追加攻击",
+    "贯穿": "命破贯穿",
+    "帷幕无视失衡": "帷幕无视失衡",
+    "耀变体系": "耀变体系",
+    "锐化防御": "锐化防御"
+  },
+  "source_database": "outputs/final_release/observations/observations.sqlite",
+  "source_unit_dimension": "outputs/final_release/dim_observed_archetype.csv",
+  "source_comp_mapping": "outputs/final_release/observed_comp_archetype.csv",
+  "classification_rule_version": "observed_archetype_v1",
+  "classification_definition_date": "2026-10-28",
+  "eligible_records": 2876445,
+  "valid_3man_records": 2866763,
+  "excluded_records": 9682,
+  "distinct_compositions": 6678,
+  "n_seasons": 56,
+  "season_range": [
+    "1.0.1",
+    "3.2.3"
+  ],
+  "season_order": [
+    "1.0.1",
+    "1.1.1",
+    "1.1.2",
+    "1.1.3",
+    "1.2.1",
+    "1.2.2",
+    "1.2.3",
+    "1.3.1",
+    "1.3.2",
+    "1.3.3",
+    "1.4.1",
+    "1.4.2",
+    "1.5.1",
+    "1.5.2",
+    "1.5.4",
+    "1.6.1",
+    "1.6.2",
+    "1.6.3",
+    "1.7.1",
+    "1.7.2",
+    "1.7.3",
+    "2.0.1",
+    "2.0.2",
+    "2.0.3",
+    "2.1.1",
+    "2.1.2",
+    "2.1.4",
+    "2.2.1",
+    "2.2.2",
+    "2.2.3",
+    "2.3.1",
+    "2.3.2",
+    "2.3.3",
+    "2.4.1",
+    "2.5.1",
+    "2.5.2",
+    "2.5.3",
+    "2.6.1",
+    "2.6.2",
+    "2.6.3",
+    "2.6.4",
+    "2.7.1",
+    "2.7.2",
+    "2.7.3",
+    "2.8.1",
+    "2.8.2",
+    "2.8.3",
+    "3.0.1",
+    "3.0.2",
+    "3.0.3",
+    "3.1.1",
+    "3.1.2",
+    "3.1.3",
+    "3.2.1",
+    "3.2.2",
+    "3.2.3"
+  ],
+  "mixed_mechanism_records": 284645,
+  "no_core_records": 2060,
+  "season_counts": [
+    {
+      "combat_season": "1.0.1",
+      "eligible_records": 239,
+      "valid_3man_records": 225,
+      "mixed_mechanism_records": 13,
+      "no_core_records": 11,
+      "quality_records": {
+        "complete_3man": 225,
+        "partial": 14
+      }
+    },
+    {
+      "combat_season": "1.1.1",
+      "eligible_records": 3266,
+      "valid_3man_records": 3204,
+      "mixed_mechanism_records": 105,
+      "no_core_records": 36,
+      "quality_records": {
+        "complete_3man": 3204,
+        "partial": 62
+      }
+    },
+    {
+      "combat_season": "1.1.2",
+      "eligible_records": 5630,
+      "valid_3man_records": 5490,
+      "mixed_mechanism_records": 300,
+      "no_core_records": 27,
+      "quality_records": {
+        "complete_3man": 5490,
+        "partial": 140
+      }
+    },
+    {
+      "combat_season": "1.1.3",
+      "eligible_records": 6400,
+      "valid_3man_records": 6188,
+      "mixed_mechanism_records": 296,
+      "no_core_records": 21,
+      "quality_records": {
+        "complete_3man": 6188,
+        "partial": 212
+      }
+    },
+    {
+      "combat_season": "1.2.1",
+      "eligible_records": 4974,
+      "valid_3man_records": 4859,
+      "mixed_mechanism_records": 113,
+      "no_core_records": 17,
+      "quality_records": {
+        "complete_3man": 4859,
+        "partial": 115
+      }
+    },
+    {
+      "combat_season": "1.2.2",
+      "eligible_records": 7396,
+      "valid_3man_records": 7287,
+      "mixed_mechanism_records": 213,
+      "no_core_records": 20,
+      "quality_records": {
+        "complete_3man": 7287,
+        "partial": 109
+      }
+    },
+    {
+      "combat_season": "1.2.3",
+      "eligible_records": 8752,
+      "valid_3man_records": 8616,
+      "mixed_mechanism_records": 367,
+      "no_core_records": 26,
+      "quality_records": {
+        "complete_3man": 8616,
+        "partial": 136
+      }
+    },
+    {
+      "combat_season": "1.3.1",
+      "eligible_records": 7604,
+      "valid_3man_records": 7406,
+      "mixed_mechanism_records": 249,
+      "no_core_records": 20,
+      "quality_records": {
+        "complete_3man": 7406,
+        "partial": 198
+      }
+    },
+    {
+      "combat_season": "1.3.2",
+      "eligible_records": 6534,
+      "valid_3man_records": 6437,
+      "mixed_mechanism_records": 120,
+      "no_core_records": 29,
+      "quality_records": {
+        "complete_3man": 6437,
+        "partial": 97
+      }
+    },
+    {
+      "combat_season": "1.3.3",
+      "eligible_records": 11278,
+      "valid_3man_records": 11034,
+      "mixed_mechanism_records": 434,
+      "no_core_records": 27,
+      "quality_records": {
+        "complete_3man": 11034,
+        "partial": 244
+      }
+    },
+    {
+      "combat_season": "1.4.1",
+      "eligible_records": 16899,
+      "valid_3man_records": 16374,
+      "mixed_mechanism_records": 648,
+      "no_core_records": 30,
+      "quality_records": {
+        "complete_3man": 16374,
+        "invalid_identifier": 259,
+        "partial": 266
+      }
+    },
+    {
+      "combat_season": "1.4.2",
+      "eligible_records": 19873,
+      "valid_3man_records": 19142,
+      "mixed_mechanism_records": 727,
+      "no_core_records": 52,
+      "quality_records": {
+        "partial": 731,
+        "complete_3man": 19142
+      }
+    },
+    {
+      "combat_season": "1.5.1",
+      "eligible_records": 9636,
+      "valid_3man_records": 9316,
+      "mixed_mechanism_records": 292,
+      "no_core_records": 30,
+      "quality_records": {
+        "complete_3man": 9316,
+        "partial": 320
+      }
+    },
+    {
+      "combat_season": "1.5.2",
+      "eligible_records": 19052,
+      "valid_3man_records": 18602,
+      "mixed_mechanism_records": 593,
+      "no_core_records": 68,
+      "quality_records": {
+        "complete_3man": 18602,
+        "partial": 450
+      }
+    },
+    {
+      "combat_season": "1.5.4",
+      "eligible_records": 11684,
+      "valid_3man_records": 11358,
+      "mixed_mechanism_records": 355,
+      "no_core_records": 45,
+      "quality_records": {
+        "complete_3man": 11358,
+        "partial": 326
+      }
+    },
+    {
+      "combat_season": "1.6.1",
+      "eligible_records": 9086,
+      "valid_3man_records": 9011,
+      "mixed_mechanism_records": 372,
+      "no_core_records": 32,
+      "quality_records": {
+        "complete_3man": 9011,
+        "partial": 75
+      }
+    },
+    {
+      "combat_season": "1.6.2",
+      "eligible_records": 11510,
+      "valid_3man_records": 11263,
+      "mixed_mechanism_records": 303,
+      "no_core_records": 35,
+      "quality_records": {
+        "complete_3man": 11263,
+        "partial": 247
+      }
+    },
+    {
+      "combat_season": "1.6.3",
+      "eligible_records": 20987,
+      "valid_3man_records": 20693,
+      "mixed_mechanism_records": 373,
+      "no_core_records": 70,
+      "quality_records": {
+        "complete_3man": 20693,
+        "partial": 294
+      }
+    },
+    {
+      "combat_season": "1.7.1",
+      "eligible_records": 8894,
+      "valid_3man_records": 8841,
+      "mixed_mechanism_records": 166,
+      "no_core_records": 24,
+      "quality_records": {
+        "complete_3man": 8841,
+        "partial": 53
+      }
+    },
+    {
+      "combat_season": "1.7.2",
+      "eligible_records": 20156,
+      "valid_3man_records": 19942,
+      "mixed_mechanism_records": 248,
+      "no_core_records": 58,
+      "quality_records": {
+        "complete_3man": 19942,
+        "partial": 214
+      }
+    },
+    {
+      "combat_season": "1.7.3",
+      "eligible_records": 12835,
+      "valid_3man_records": 12630,
+      "mixed_mechanism_records": 219,
+      "no_core_records": 28,
+      "quality_records": {
+        "complete_3man": 12630,
+        "partial": 205
+      }
+    },
+    {
+      "combat_season": "2.0.1",
+      "eligible_records": 9870,
+      "valid_3man_records": 9781,
+      "mixed_mechanism_records": 341,
+      "no_core_records": 21,
+      "quality_records": {
+        "complete_3man": 9781,
+        "partial": 89
+      }
+    },
+    {
+      "combat_season": "2.0.2",
+      "eligible_records": 22987,
+      "valid_3man_records": 22765,
+      "mixed_mechanism_records": 667,
+      "no_core_records": 49,
+      "quality_records": {
+        "complete_3man": 22765,
+        "partial": 222
+      }
+    },
+    {
+      "combat_season": "2.0.3",
+      "eligible_records": 14987,
+      "valid_3man_records": 14850,
+      "mixed_mechanism_records": 254,
+      "no_core_records": 35,
+      "quality_records": {
+        "complete_3man": 14850,
+        "partial": 137
+      }
+    },
+    {
+      "combat_season": "2.1.1",
+      "eligible_records": 8766,
+      "valid_3man_records": 8743,
+      "mixed_mechanism_records": 142,
+      "no_core_records": 19,
+      "quality_records": {
+        "complete_3man": 8743,
+        "partial": 23
+      }
+    },
+    {
+      "combat_season": "2.1.2",
+      "eligible_records": 104617,
+      "valid_3man_records": 104065,
+      "mixed_mechanism_records": 1289,
+      "no_core_records": 136,
+      "quality_records": {
+        "complete_3man": 104065,
+        "partial": 552
+      }
+    },
+    {
+      "combat_season": "2.1.4",
+      "eligible_records": 50024,
+      "valid_3man_records": 49863,
+      "mixed_mechanism_records": 1337,
+      "no_core_records": 89,
+      "quality_records": {
+        "complete_3man": 49863,
+        "partial": 161
+      }
+    },
+    {
+      "combat_season": "2.2.1",
+      "eligible_records": 46172,
+      "valid_3man_records": 45956,
+      "mixed_mechanism_records": 2446,
+      "no_core_records": 78,
+      "quality_records": {
+        "complete_3man": 45956,
+        "partial": 216
+      }
+    },
+    {
+      "combat_season": "2.2.2",
+      "eligible_records": 97562,
+      "valid_3man_records": 97342,
+      "mixed_mechanism_records": 9251,
+      "no_core_records": 140,
+      "quality_records": {
+        "complete_3man": 97342,
+        "partial": 220
+      }
+    },
+    {
+      "combat_season": "2.2.3",
+      "eligible_records": 48679,
+      "valid_3man_records": 48571,
+      "mixed_mechanism_records": 5142,
+      "no_core_records": 41,
+      "quality_records": {
+        "complete_3man": 48571,
+        "partial": 108
+      }
+    },
+    {
+      "combat_season": "2.3.1",
+      "eligible_records": 51749,
+      "valid_3man_records": 51628,
+      "mixed_mechanism_records": 4106,
+      "no_core_records": 28,
+      "quality_records": {
+        "complete_3man": 51628,
+        "partial": 121
+      }
+    },
+    {
+      "combat_season": "2.3.2",
+      "eligible_records": 85983,
+      "valid_3man_records": 85826,
+      "mixed_mechanism_records": 5550,
+      "no_core_records": 46,
+      "quality_records": {
+        "complete_3man": 85826,
+        "partial": 157
+      }
+    },
+    {
+      "combat_season": "2.3.3",
+      "eligible_records": 48068,
+      "valid_3man_records": 47972,
+      "mixed_mechanism_records": 973,
+      "no_core_records": 25,
+      "quality_records": {
+        "complete_3man": 47972,
+        "partial": 96
+      }
+    },
+    {
+      "combat_season": "2.4.1",
+      "eligible_records": 46951,
+      "valid_3man_records": 46879,
+      "mixed_mechanism_records": 785,
+      "no_core_records": 26,
+      "quality_records": {
+        "complete_3man": 46879,
+        "partial": 72
+      }
+    },
+    {
+      "combat_season": "2.5.1",
+      "eligible_records": 172864,
+      "valid_3man_records": 172413,
+      "mixed_mechanism_records": 5935,
+      "no_core_records": 74,
+      "quality_records": {
+        "complete_3man": 172413,
+        "partial": 451
+      }
+    },
+    {
+      "combat_season": "2.5.2",
+      "eligible_records": 123705,
+      "valid_3man_records": 123290,
+      "mixed_mechanism_records": 4402,
+      "no_core_records": 73,
+      "quality_records": {
+        "complete_3man": 123290,
+        "partial": 415
+      }
+    },
+    {
+      "combat_season": "2.5.3",
+      "eligible_records": 50229,
+      "valid_3man_records": 50057,
+      "mixed_mechanism_records": 1341,
+      "no_core_records": 28,
+      "quality_records": {
+        "complete_3man": 50057,
+        "partial": 172
+      }
+    },
+    {
+      "combat_season": "2.6.1",
+      "eligible_records": 116680,
+      "valid_3man_records": 116416,
+      "mixed_mechanism_records": 4186,
+      "no_core_records": 57,
+      "quality_records": {
+        "complete_3man": 116416,
+        "partial": 264
+      }
+    },
+    {
+      "combat_season": "2.6.2",
+      "eligible_records": 54181,
+      "valid_3man_records": 54087,
+      "mixed_mechanism_records": 2137,
+      "no_core_records": 18,
+      "quality_records": {
+        "complete_3man": 54087,
+        "partial": 94
+      }
+    },
+    {
+      "combat_season": "2.6.3",
+      "eligible_records": 52003,
+      "valid_3man_records": 51915,
+      "mixed_mechanism_records": 2158,
+      "no_core_records": 20,
+      "quality_records": {
+        "complete_3man": 51915,
+        "partial": 88
+      }
+    },
+    {
+      "combat_season": "2.6.4",
+      "eligible_records": 61821,
+      "valid_3man_records": 61704,
+      "mixed_mechanism_records": 825,
+      "no_core_records": 19,
+      "quality_records": {
+        "complete_3man": 61704,
+        "partial": 117
+      }
+    },
+    {
+      "combat_season": "2.7.1",
+      "eligible_records": 45981,
+      "valid_3man_records": 45949,
+      "mixed_mechanism_records": 274,
+      "no_core_records": 21,
+      "quality_records": {
+        "complete_3man": 45949,
+        "partial": 32
+      }
+    },
+    {
+      "combat_season": "2.7.2",
+      "eligible_records": 100515,
+      "valid_3man_records": 100405,
+      "mixed_mechanism_records": 3497,
+      "no_core_records": 46,
+      "quality_records": {
+        "complete_3man": 100405,
+        "partial": 110
+      }
+    },
+    {
+      "combat_season": "2.7.3",
+      "eligible_records": 58303,
+      "valid_3man_records": 58227,
+      "mixed_mechanism_records": 2092,
+      "no_core_records": 15,
+      "quality_records": {
+        "complete_3man": 58227,
+        "partial": 76
+      }
+    },
+    {
+      "combat_season": "2.8.1",
+      "eligible_records": 43838,
+      "valid_3man_records": 43804,
+      "mixed_mechanism_records": 1179,
+      "no_core_records": 6,
+      "quality_records": {
+        "complete_3man": 43804,
+        "partial": 34
+      }
+    },
+    {
+      "combat_season": "2.8.2",
+      "eligible_records": 82423,
+      "valid_3man_records": 82348,
+      "mixed_mechanism_records": 1122,
+      "no_core_records": 21,
+      "quality_records": {
+        "complete_3man": 82348,
+        "partial": 75
+      }
+    },
+    {
+      "combat_season": "2.8.3",
+      "eligible_records": 153926,
+      "valid_3man_records": 153772,
+      "mixed_mechanism_records": 2686,
+      "no_core_records": 44,
+      "quality_records": {
+        "complete_3man": 153772,
+        "partial": 154
+      }
+    },
+    {
+      "combat_season": "3.0.1",
+      "eligible_records": 99330,
+      "valid_3man_records": 99236,
+      "mixed_mechanism_records": 533,
+      "no_core_records": 21,
+      "quality_records": {
+        "complete_3man": 99236,
+        "partial": 94
+      }
+    },
+    {
+      "combat_season": "3.0.2",
+      "eligible_records": 97610,
+      "valid_3man_records": 97516,
+      "mixed_mechanism_records": 1294,
+      "no_core_records": 31,
+      "quality_records": {
+        "complete_3man": 97516,
+        "partial": 94
+      }
+    },
+    {
+      "combat_season": "3.0.3",
+      "eligible_records": 104979,
+      "valid_3man_records": 104901,
+      "mixed_mechanism_records": 6602,
+      "no_core_records": 40,
+      "quality_records": {
+        "complete_3man": 104901,
+        "partial": 78
+      }
+    },
+    {
+      "combat_season": "3.1.1",
+      "eligible_records": 123380,
+      "valid_3man_records": 123287,
+      "mixed_mechanism_records": 40820,
+      "no_core_records": 18,
+      "quality_records": {
+        "complete_3man": 123287,
+        "partial": 93
+      }
+    },
+    {
+      "combat_season": "3.1.2",
+      "eligible_records": 113027,
+      "valid_3man_records": 112956,
+      "mixed_mechanism_records": 39422,
+      "no_core_records": 9,
+      "quality_records": {
+        "complete_3man": 112956,
+        "partial": 71
+      }
+    },
+    {
+      "combat_season": "3.1.3",
+      "eligible_records": 108219,
+      "valid_3man_records": 108162,
+      "mixed_mechanism_records": 37852,
+      "no_core_records": 19,
+      "quality_records": {
+        "complete_3man": 108162,
+        "partial": 57
+      }
+    },
+    {
+      "combat_season": "3.2.1",
+      "eligible_records": 105523,
+      "valid_3man_records": 105453,
+      "mixed_mechanism_records": 36511,
+      "no_core_records": 14,
+      "quality_records": {
+        "complete_3man": 105453,
+        "partial": 70
+      }
+    },
+    {
+      "combat_season": "3.2.2",
+      "eligible_records": 100182,
+      "valid_3man_records": 100115,
+      "mixed_mechanism_records": 32216,
+      "no_core_records": 21,
+      "quality_records": {
+        "complete_3man": 100115,
+        "partial": 67
+      }
+    },
+    {
+      "combat_season": "3.2.3",
+      "eligible_records": 48626,
+      "valid_3man_records": 48591,
+      "mixed_mechanism_records": 18772,
+      "no_core_records": 6,
+      "quality_records": {
+        "complete_3man": 48591,
+        "partial": 35
+      }
+    }
+  ],
+  "first_seen_group": {
+    "常规直伤/失衡": "1.0.1",
+    "异常/紊乱异放": "1.0.1",
+    "追加攻击": "1.5.4",
+    "命破贯穿": "1.7.3",
+    "帷幕无视失衡": "2.5.1",
+    "耀变体系": "3.0.3",
+    "锐化防御": "3.1.3"
+  },
+  "latest_group_share": {
+    "常规直伤/失衡": 0.11055545265584162,
+    "异常/紊乱异放": 0.5594657446852298,
+    "追加攻击": 0.02601304768372744,
+    "命破贯穿": 0.05694470169372929,
+    "帷幕无视失衡": 0.13214381264020086,
+    "耀变体系": 0.38367187339219194,
+    "锐化防御": 0.11742915354695314
+  },
+  "peak_group_share": {
+    "常规直伤/失衡": {
+      "combat_season": "1.1.1",
+      "records": 3097,
+      "valid_3man_records": 3204,
+      "share": 0.9666042446941323
+    },
+    "异常/紊乱异放": {
+      "combat_season": "1.3.3",
+      "records": 8539,
+      "valid_3man_records": 11034,
+      "share": 0.7738807322820374
+    },
+    "追加攻击": {
+      "combat_season": "2.2.3",
+      "records": 9133,
+      "valid_3man_records": 48571,
+      "share": 0.18803401206481235
+    },
+    "命破贯穿": {
+      "combat_season": "2.3.3",
+      "records": 21759,
+      "valid_3man_records": 47972,
+      "share": 0.45357708663386975
+    },
+    "帷幕无视失衡": {
+      "combat_season": "2.6.2",
+      "records": 17165,
+      "valid_3man_records": 54087,
+      "share": 0.31735906964705013
+    },
+    "耀变体系": {
+      "combat_season": "3.2.3",
+      "records": 18643,
+      "valid_3man_records": 48591,
+      "share": 0.38367187339219194
+    },
+    "锐化防御": {
+      "combat_season": "3.2.2",
+      "records": 11852,
+      "valid_3man_records": 100115,
+      "share": 0.11838385856265295
+    }
+  },
+  "first_seen_note": "First seen is an observed combat-season boundary, not an official character release version.",
+  "time_axis_note": "Seasons are ordered by integer tuples; missing seasons are not filled and equal spacing does not mean equal elapsed days.",
+  "observation_sources_unchanged": true,
+  "classification_sources_unchanged": true,
+  "protected_observation_file_stats": {
+    "outputs/final_release/observations/appearance.csv": {
+      "bytes": 422917,
+      "mtime_ns": 1793131921608561600,
+      "file_id": 105271641290096737
+    },
+    "outputs/final_release/observations/exclusions.csv": {
+      "bytes": 244,
+      "mtime_ns": 1793131921590006600,
+      "file_id": 6755399441366999
+    },
+    "outputs/final_release/observations/import_progress.json": {
+      "bytes": 193,
+      "mtime_ns": 1793131921618327700,
+      "file_id": 16044073672818790
+    },
+    "outputs/final_release/observations/investment_association.csv": {
+      "bytes": 84226,
+      "mtime_ns": 1793131921614421100,
+      "file_id": 25051272927559779
+    },
+    "outputs/final_release/observations/observations.sqlite": {
+      "bytes": 6476455936,
+      "mtime_ns": 1793131921579724100,
+      "file_id": 5629499534524106
+    },
+    "outputs/final_release/observations/observations_manifest.before_finalize.json": {
+      "bytes": 497,
+      "mtime_ns": 1793131261828669100,
+      "file_id": 5910974511234961
+    },
+    "outputs/final_release/observations/observations_manifest.json": {
+      "bytes": 1143,
+      "mtime_ns": 1793131921617351200,
+      "file_id": 5348024557813861
+    },
+    "outputs/final_release/observations/obs_coverage.csv": {
+      "bytes": 32144,
+      "mtime_ns": 1793131921589029800,
+      "file_id": 45317471250726601
+    },
+    "outputs/final_release/observations/quality_issues.json": {
+      "bytes": 39,
+      "mtime_ns": 1793131921615397700,
+      "file_id": 10977524092026980
+    },
+    "outputs/final_release/observations/repo_file_coverage.csv": {
+      "bytes": 3237,
+      "mtime_ns": 1793131921586100300,
+      "file_id": 40813871623356286
+    },
+    "outputs/final_release/observations/results_by_stage.csv": {
+      "bytes": 25720,
+      "mtime_ns": 1793131921610514900,
+      "file_id": 55732045389021282
+    }
+  },
+  "classification_input_file_stats": {
+    "outputs/final_release/dim_observed_archetype.csv": {
+      "bytes": 41721,
+      "mtime_ns": 1793192307174057500,
+      "file_id": 28428972648545694
+    },
+    "outputs/final_release/observed_comp_archetype.csv": {
+      "bytes": 3172128,
+      "mtime_ns": 1793192307231109300,
+      "file_id": 24769797951309063
+    },
+    "tools/observed_archetype_rules.json": {
+      "bytes": 18758,
+      "mtime_ns": 1793192179426428700,
+      "file_id": 41095346600525501
+    }
+  },
+  "all_composition_counts_reconciled": true,
+  "query_and_aggregation_seconds": 149.967
+}

@@ -1,0 +1,144 @@
+{
+  "schema_version": "1.0.0",
+  "model_version": "scenario_v1",
+  "timeline": {
+    "kind": "synthetic_relative",
+    "n_periods": 10,
+    "days_per_period": 42,
+    "label_prefix": "P",
+    "evaluation": "period_end"
+  },
+  "initial_assets": {
+    "starter_dps": {
+      "B_ref": 110,
+      "pierce_share": 0,
+      "cinema": 0,
+      "signature_weapon": false,
+      "acquired_day": 0,
+      "disc_multiplier": 1
+    },
+    "neutral_units": [
+      "neutral_stun",
+      "neutral_flex"
+    ]
+  },
+  "product_power": {
+    "B_ref_first": 126.875,
+    "growth_per_debut_step": 0.19
+  },
+  "events": [
+    {
+      "t": 1,
+      "unit_id": "DPS_01",
+      "role": "normal",
+      "theta": 0,
+      "uptime": 1,
+      "banner_id": "SYN_P01_A",
+      "event_order": 1
+    },
+    {
+      "t": 2,
+      "unit_id": "DPS_02",
+      "role": "normal",
+      "theta": 0.05,
+      "uptime": 0.98,
+      "banner_id": "SYN_P02_A",
+      "event_order": 1
+    },
+    {
+      "t": 3,
+      "unit_id": "DPS_03",
+      "role": "piercing",
+      "theta": 0.1,
+      "uptime": 0.95,
+      "banner_id": "SYN_P03_A",
+      "event_order": 1
+    },
+    {
+      "t": 4,
+      "unit_id": "S_A",
+      "role": "support",
+      "theta": 0.15,
+      "uptime": 0.95,
+      "banner_id": "SYN_P04_A",
+      "event_order": 1
+    },
+    {
+      "t": 5,
+      "unit_id": "DPS_05",
+      "role": "piercing",
+      "theta": 0.45,
+      "uptime": 0.9,
+      "banner_id": "SYN_P05_A",
+      "event_order": 1
+    },
+    {
+      "t": 6,
+      "unit_id": "DPS_06",
+      "role": "normal",
+      "theta": 0.4,
+      "uptime": 0.9,
+      "banner_id": "SYN_P06_A",
+      "event_order": 1
+    },
+    {
+      "t": 7,
+      "unit_id": "S_B",
+      "role": "support",
+      "theta": 0.45,
+      "uptime": 0.9,
+      "banner_id": "SYN_P07_A",
+      "event_order": 1
+    },
+    {
+      "t": 8,
+      "unit_id": "DPS_08",
+      "role": "piercing",
+      "theta": 0.4,
+      "uptime": 0.88,
+      "banner_id": "SYN_P08_A",
+      "event_order": 1
+    },
+    {
+      "t": 9,
+      "unit_id": "DPS_09",
+      "role": "normal",
+      "theta": 0.45,
+      "uptime": 0.88,
+      "banner_id": "SYN_P09_A",
+      "event_order": 1
+    },
+    {
+      "t": 10,
+      "unit_id": "DPS_10",
+      "role": "normal",
+      "theta": 0.4,
+      "uptime": 0.88,
+      "banner_id": "SYN_P10_A",
+      "event_order": 1
+    }
+  ],
+  "reference_scenarios": {
+    "Ref_HP": {
+      "hp_growth": 0.18,
+      "theta_mode": "constant",
+      "theta_constant": 0.1,
+      "theta_scale": 1,
+      "support_gain_scale": 1
+    },
+    "Ref_Mechanism": {
+      "hp_growth": 0.12,
+      "theta_mode": "path",
+      "theta_scale": 1,
+      "support_gain_scale": 1
+    },
+    "Ref_Support": {
+      "hp_growth": 0.12,
+      "theta_mode": "path",
+      "theta_scale": 0.75,
+      "support_gain_scale": 1.15
+    }
+  },
+  "provenance": "scenario_assumed",
+  "description": "2026-10-28 情景标定：product_power.growth_per_debut_step 0.12→0.19，使新主输出在 8 次首发/10 期中大致跟上逐期 HP 增长；目标为 0+0/0+1 无支援出道当期与第 1 期 CI≥1、第 2–3 期跌破。B_ref_first 125→126.875（+1.5%），消除 DPS_09 0+0 出道 CI 0.99 例外（标定后最低 1.0052）。假设值，非数据估计。"
+}

@@ -1,0 +1,120 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400" width="800" height="400" font-family="'Noto Sans CJK SC','Microsoft YaHei','PingFang SC','Source Han Sans SC',sans-serif" role="img" aria-label="外部校验｜逐抽 5★ 出率：全服统计 vs 模拟器">
+<rect width="800" height="400" fill="#ffffff"/>
+<text x="16" y="24" font-size="15" font-weight="600" fill="#111827">外部校验｜逐抽 5★ 出率：全服统计 vs 模拟器</text>
+<text x="16" y="42" font-size="11" fill="#6b7280">rng.moe 2024-07 至 2026-01 全部限定池合并；角色池截至第 82 抽、音擎池截至第 72 抽</text>
+<line x1="64" x2="650" y1="352.0" y2="352.0" stroke="#e5e7eb"/>
+<text x="58" y="356.0" font-size="10" text-anchor="end" fill="#6b7280">0</text>
+<line x1="64" x2="650" y1="248.7" y2="248.7" stroke="#e5e7eb"/>
+<text x="58" y="252.7" font-size="10" text-anchor="end" fill="#6b7280">20</text>
+<line x1="64" x2="650" y1="145.5" y2="145.5" stroke="#e5e7eb"/>
+<text x="58" y="149.5" font-size="10" text-anchor="end" fill="#6b7280">40</text>
+<text x="122.6" y="368" font-size="10" text-anchor="middle" fill="#6b7280">55</text>
+<text x="220.3" y="368" font-size="10" text-anchor="middle" fill="#6b7280">60</text>
+<text x="317.9" y="368" font-size="10" text-anchor="middle" fill="#6b7280">65</text>
+<text x="415.6" y="368" font-size="10" text-anchor="middle" fill="#6b7280">70</text>
+<text x="513.3" y="368" font-size="10" text-anchor="middle" fill="#6b7280">75</text>
+<text x="610.9" y="368" font-size="10" text-anchor="middle" fill="#6b7280">80</text>
+<line x1="64" x2="650" y1="352" y2="352" stroke="#6b7280"/>
+<text x="357" y="390" font-size="11" text-anchor="middle" fill="#6b7280">当前保底计数（抽）</text>
+<text x="14" y="204" font-size="11" fill="#6b7280" transform="rotate(-90 14 204)" text-anchor="middle">该抽出 5★ 的概率（%）</text>
+<path d="M220.3,348.5 L239.8,348.7 L259.3,348.6 L278.9,348.6 L298.4,348.5 L317.9,348.5 L337.5,348.5 L357.0,348.4 L376.5,348.4 L396.1,348.3 L415.6,348.4 L435.1,348.3 L454.7,348.3 L474.2,348.3 L493.7,317.6 L513.3,286.9 L532.8,256.8 L552.3,225.9 L571.9,195.6 L591.4,165.7 L610.9,137.0 L630.5,109.2 L650.0,87.0" fill="none" stroke="#2563eb" stroke-width="2"/>
+<circle cx="220.3" cy="348.5" r="2.5" fill="#2563eb"/>
+<circle cx="239.8" cy="348.7" r="2.5" fill="#2563eb"/>
+<circle cx="259.3" cy="348.6" r="2.5" fill="#2563eb"/>
+<circle cx="278.9" cy="348.6" r="2.5" fill="#2563eb"/>
+<circle cx="298.4" cy="348.5" r="2.5" fill="#2563eb"/>
+<circle cx="317.9" cy="348.5" r="2.5" fill="#2563eb"/>
+<circle cx="337.5" cy="348.5" r="2.5" fill="#2563eb"/>
+<circle cx="357.0" cy="348.4" r="2.5" fill="#2563eb"/>
+<circle cx="376.5" cy="348.4" r="2.5" fill="#2563eb"/>
+<circle cx="396.1" cy="348.3" r="2.5" fill="#2563eb"/>
+<circle cx="415.6" cy="348.4" r="2.5" fill="#2563eb"/>
+<circle cx="435.1" cy="348.3" r="2.5" fill="#2563eb"/>
+<circle cx="454.7" cy="348.3" r="2.5" fill="#2563eb"/>
+<circle cx="474.2" cy="348.3" r="2.5" fill="#2563eb"/>
+<circle cx="493.7" cy="317.6" r="2.5" fill="#2563eb"/>
+<circle cx="513.3" cy="286.9" r="2.5" fill="#2563eb"/>
+<circle cx="532.8" cy="256.8" r="2.5" fill="#2563eb"/>
+<circle cx="552.3" cy="225.9" r="2.5" fill="#2563eb"/>
+<circle cx="571.9" cy="195.6" r="2.5" fill="#2563eb"/>
+<circle cx="591.4" cy="165.7" r="2.5" fill="#2563eb"/>
+<circle cx="610.9" cy="137.0" r="2.5" fill="#2563eb"/>
+<circle cx="630.5" cy="109.2" r="2.5" fill="#2563eb"/>
+<circle cx="650.0" cy="87.0" r="2.5" fill="#2563eb"/>
+<rect x="658" y="62" width="10" height="3" fill="#2563eb"/>
+<text x="672" y="67" font-size="10" fill="#111827">角色池｜rng.moe 观测</text>
+<path d="M220.3,348.9 L239.8,348.9 L259.3,348.9 L278.9,348.9 L298.4,348.9 L317.9,348.9 L337.5,348.9 L357.0,348.9 L376.5,348.9 L396.1,348.9 L415.6,348.9 L435.1,348.9 L454.7,348.9 L474.2,348.9 L493.7,317.9 L513.3,286.9 L532.8,256.0 L552.3,225.0 L571.9,194.0 L591.4,163.0 L610.9,132.1 L630.5,101.1 L650.0,70.1" fill="none" stroke="#d97706" stroke-width="2"/>
+<circle cx="220.3" cy="348.9" r="2.5" fill="#d97706"/>
+<circle cx="239.8" cy="348.9" r="2.5" fill="#d97706"/>
+<circle cx="259.3" cy="348.9" r="2.5" fill="#d97706"/>
+<circle cx="278.9" cy="348.9" r="2.5" fill="#d97706"/>
+<circle cx="298.4" cy="348.9" r="2.5" fill="#d97706"/>
+<circle cx="317.9" cy="348.9" r="2.5" fill="#d97706"/>
+<circle cx="337.5" cy="348.9" r="2.5" fill="#d97706"/>
+<circle cx="357.0" cy="348.9" r="2.5" fill="#d97706"/>
+<circle cx="376.5" cy="348.9" r="2.5" fill="#d97706"/>
+<circle cx="396.1" cy="348.9" r="2.5" fill="#d97706"/>
+<circle cx="415.6" cy="348.9" r="2.5" fill="#d97706"/>
+<circle cx="435.1" cy="348.9" r="2.5" fill="#d97706"/>
+<circle cx="454.7" cy="348.9" r="2.5" fill="#d97706"/>
+<circle cx="474.2" cy="348.9" r="2.5" fill="#d97706"/>
+<circle cx="493.7" cy="317.9" r="2.5" fill="#d97706"/>
+<circle cx="513.3" cy="286.9" r="2.5" fill="#d97706"/>
+<circle cx="532.8" cy="256.0" r="2.5" fill="#d97706"/>
+<circle cx="552.3" cy="225.0" r="2.5" fill="#d97706"/>
+<circle cx="571.9" cy="194.0" r="2.5" fill="#d97706"/>
+<circle cx="591.4" cy="163.0" r="2.5" fill="#d97706"/>
+<circle cx="610.9" cy="132.1" r="2.5" fill="#d97706"/>
+<circle cx="630.5" cy="101.1" r="2.5" fill="#d97706"/>
+<circle cx="650.0" cy="70.1" r="2.5" fill="#d97706"/>
+<rect x="658" y="78" width="10" height="3" fill="#d97706"/>
+<text x="672" y="83" font-size="10" fill="#111827">角色池｜模拟器设定</text>
+<path d="M64.0,346.4 L83.5,346.3 L103.1,346.3 L122.6,346.3 L142.1,346.1 L161.7,346.0 L181.2,345.7 L200.7,345.6 L220.3,345.3 L239.8,345.5 L259.3,345.4 L278.9,345.4 L298.4,345.0 L317.9,314.7 L337.5,284.6 L357.0,253.5 L376.5,223.6 L396.1,194.2 L415.6,165.8 L435.1,135.7 L454.7,113.3" fill="none" stroke="#059669" stroke-width="2"/>
+<circle cx="64.0" cy="346.4" r="2.5" fill="#059669"/>
+<circle cx="83.5" cy="346.3" r="2.5" fill="#059669"/>
+<circle cx="103.1" cy="346.3" r="2.5" fill="#059669"/>
+<circle cx="122.6" cy="346.3" r="2.5" fill="#059669"/>
+<circle cx="142.1" cy="346.1" r="2.5" fill="#059669"/>
+<circle cx="161.7" cy="346.0" r="2.5" fill="#059669"/>
+<circle cx="181.2" cy="345.7" r="2.5" fill="#059669"/>
+<circle cx="200.7" cy="345.6" r="2.5" fill="#059669"/>
+<circle cx="220.3" cy="345.3" r="2.5" fill="#059669"/>
+<circle cx="239.8" cy="345.5" r="2.5" fill="#059669"/>
+<circle cx="259.3" cy="345.4" r="2.5" fill="#059669"/>
+<circle cx="278.9" cy="345.4" r="2.5" fill="#059669"/>
+<circle cx="298.4" cy="345.0" r="2.5" fill="#059669"/>
+<circle cx="317.9" cy="314.7" r="2.5" fill="#059669"/>
+<circle cx="337.5" cy="284.6" r="2.5" fill="#059669"/>
+<circle cx="357.0" cy="253.5" r="2.5" fill="#059669"/>
+<circle cx="376.5" cy="223.6" r="2.5" fill="#059669"/>
+<circle cx="396.1" cy="194.2" r="2.5" fill="#059669"/>
+<circle cx="415.6" cy="165.8" r="2.5" fill="#059669"/>
+<circle cx="435.1" cy="135.7" r="2.5" fill="#059669"/>
+<circle cx="454.7" cy="113.3" r="2.5" fill="#059669"/>
+<rect x="658" y="94" width="10" height="3" fill="#059669"/>
+<text x="672" y="99" font-size="10" fill="#111827">音擎池｜rng.moe 观测</text>
+<path d="M64.0,346.8 L83.5,346.8 L103.1,346.8 L122.6,346.8 L142.1,346.8 L161.7,346.8 L181.2,346.8 L200.7,346.8 L220.3,346.8 L239.8,346.8 L259.3,346.8 L278.9,346.8 L298.4,346.8 L317.9,315.9 L337.5,284.9 L357.0,253.9 L376.5,222.9 L396.1,191.9 L415.6,161.0 L435.1,130.0 L454.7,99.0" fill="none" stroke="#dc2626" stroke-width="2"/>
+<circle cx="64.0" cy="346.8" r="2.5" fill="#dc2626"/>
+<circle cx="83.5" cy="346.8" r="2.5" fill="#dc2626"/>
+<circle cx="103.1" cy="346.8" r="2.5" fill="#dc2626"/>
+<circle cx="122.6" cy="346.8" r="2.5" fill="#dc2626"/>
+<circle cx="142.1" cy="346.8" r="2.5" fill="#dc2626"/>
+<circle cx="161.7" cy="346.8" r="2.5" fill="#dc2626"/>
+<circle cx="181.2" cy="346.8" r="2.5" fill="#dc2626"/>
+<circle cx="200.7" cy="346.8" r="2.5" fill="#dc2626"/>
+<circle cx="220.3" cy="346.8" r="2.5" fill="#dc2626"/>
+<circle cx="239.8" cy="346.8" r="2.5" fill="#dc2626"/>
+<circle cx="259.3" cy="346.8" r="2.5" fill="#dc2626"/>
+<circle cx="278.9" cy="346.8" r="2.5" fill="#dc2626"/>
+<circle cx="298.4" cy="346.8" r="2.5" fill="#dc2626"/>
+<circle cx="317.9" cy="315.9" r="2.5" fill="#dc2626"/>
+<circle cx="337.5" cy="284.9" r="2.5" fill="#dc2626"/>
+<circle cx="357.0" cy="253.9" r="2.5" fill="#dc2626"/>
+<circle cx="376.5" cy="222.9" r="2.5" fill="#dc2626"/>
+<circle cx="396.1" cy="191.9" r="2.5" fill="#dc2626"/>
+<circle cx="415.6" cy="161.0" r="2.5" fill="#dc2626"/>
+<circle cx="435.1" cy="130.0" r="2.5" fill="#dc2626"/>
+<circle cx="454.7" cy="99.0" r="2.5" fill="#dc2626"/>
+<rect x="658" y="110" width="10" height="3" fill="#dc2626"/>
+<text x="672" y="115" font-size="10" fill="#111827">音擎池｜模拟器设定</text>
+</svg>

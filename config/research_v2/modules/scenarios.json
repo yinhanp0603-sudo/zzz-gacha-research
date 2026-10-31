@@ -1,0 +1,249 @@
+{
+  "schema_version": "1.0.0",
+  "model_version": "scenario_v2_observed_anchor",
+  "timeline": {
+    "kind": "synthetic_relative",
+    "n_periods": 20,
+    "days_per_period": 42,
+    "label_prefix": "P",
+    "evaluation": "period_end"
+  },
+  "initial_assets": {
+    "starter_dps": {
+      "B_ref": 110,
+      "pierce_share": 0,
+      "cinema": 0,
+      "signature_weapon": false,
+      "acquired_day": 0,
+      "disc_multiplier": 1
+    },
+    "neutral_units": [
+      "neutral_stun",
+      "neutral_flex"
+    ]
+  },
+  "product_power": {
+    "B_ref_first": 126.875,
+    "growth_per_debut_step": 0.19
+  },
+  "events": [
+    {
+      "t": 1,
+      "unit_id": "DPS_01",
+      "role": "normal",
+      "theta": 0,
+      "uptime": 1,
+      "banner_id": "SYN_P01_A",
+      "event_order": 1
+    },
+    {
+      "t": 2,
+      "unit_id": "DPS_02",
+      "role": "normal",
+      "theta": 0.05,
+      "uptime": 0.98,
+      "banner_id": "SYN_P02_A",
+      "event_order": 1
+    },
+    {
+      "t": 3,
+      "unit_id": "DPS_03",
+      "role": "piercing",
+      "theta": 0.1,
+      "uptime": 0.95,
+      "banner_id": "SYN_P03_A",
+      "event_order": 1
+    },
+    {
+      "t": 4,
+      "unit_id": "S_A",
+      "role": "support",
+      "theta": 0.15,
+      "uptime": 0.95,
+      "banner_id": "SYN_P04_A",
+      "event_order": 1
+    },
+    {
+      "t": 5,
+      "unit_id": "DPS_05",
+      "role": "piercing",
+      "theta": 0.45,
+      "uptime": 0.9,
+      "banner_id": "SYN_P05_A",
+      "event_order": 1
+    },
+    {
+      "t": 6,
+      "unit_id": "DPS_06",
+      "role": "normal",
+      "theta": 0.4,
+      "uptime": 0.9,
+      "banner_id": "SYN_P06_A",
+      "event_order": 1
+    },
+    {
+      "t": 7,
+      "unit_id": "S_B",
+      "role": "support",
+      "theta": 0.45,
+      "uptime": 0.9,
+      "banner_id": "SYN_P07_A",
+      "event_order": 1
+    },
+    {
+      "t": 8,
+      "unit_id": "DPS_08",
+      "role": "piercing",
+      "theta": 0.4,
+      "uptime": 0.88,
+      "banner_id": "SYN_P08_A",
+      "event_order": 1
+    },
+    {
+      "t": 9,
+      "unit_id": "DPS_09",
+      "role": "normal",
+      "theta": 0.45,
+      "uptime": 0.88,
+      "banner_id": "SYN_P09_A",
+      "event_order": 1
+    },
+    {
+      "t": 10,
+      "unit_id": "DPS_10",
+      "role": "normal",
+      "theta": 0.4,
+      "uptime": 0.88,
+      "banner_id": "SYN_P10_A",
+      "event_order": 1
+    },
+    {
+      "t": 11,
+      "unit_id": "DPS_11",
+      "role": "normal",
+      "theta": 0,
+      "uptime": 1,
+      "banner_id": "SYN_P11_A",
+      "event_order": 1
+    },
+    {
+      "t": 12,
+      "unit_id": "DPS_12",
+      "role": "normal",
+      "theta": 0.05,
+      "uptime": 0.98,
+      "banner_id": "SYN_P12_A",
+      "event_order": 1
+    },
+    {
+      "t": 13,
+      "unit_id": "DPS_13",
+      "role": "piercing",
+      "theta": 0.1,
+      "uptime": 0.95,
+      "banner_id": "SYN_P13_A",
+      "event_order": 1
+    },
+    {
+      "t": 14,
+      "unit_id": "S_C",
+      "role": "support",
+      "theta": 0.15,
+      "uptime": 0.95,
+      "banner_id": "SYN_P14_A",
+      "event_order": 1
+    },
+    {
+      "t": 15,
+      "unit_id": "DPS_15",
+      "role": "piercing",
+      "theta": 0.45,
+      "uptime": 0.9,
+      "banner_id": "SYN_P15_A",
+      "event_order": 1
+    },
+    {
+      "t": 16,
+      "unit_id": "DPS_16",
+      "role": "normal",
+      "theta": 0.4,
+      "uptime": 0.9,
+      "banner_id": "SYN_P16_A",
+      "event_order": 1
+    },
+    {
+      "t": 17,
+      "unit_id": "S_D",
+      "role": "support",
+      "theta": 0.45,
+      "uptime": 0.9,
+      "banner_id": "SYN_P17_A",
+      "event_order": 1
+    },
+    {
+      "t": 18,
+      "unit_id": "DPS_18",
+      "role": "piercing",
+      "theta": 0.4,
+      "uptime": 0.88,
+      "banner_id": "SYN_P18_A",
+      "event_order": 1
+    },
+    {
+      "t": 19,
+      "unit_id": "DPS_19",
+      "role": "normal",
+      "theta": 0.45,
+      "uptime": 0.88,
+      "banner_id": "SYN_P19_A",
+      "event_order": 1
+    },
+    {
+      "t": 20,
+      "unit_id": "DPS_20",
+      "role": "normal",
+      "theta": 0.4,
+      "uptime": 0.88,
+      "banner_id": "SYN_P20_A",
+      "event_order": 1
+    }
+  ],
+  "reference_scenarios": {
+    "Research": {
+      "hp_growth": 0.12,
+      "theta_mode": "path",
+      "theta_scale": 1,
+      "support_gain_scale": 1
+    }
+  },
+  "provenance": {
+    "time_supply_hp": "scenario_assumed; 20期外推，沿用固定12%每期HP与19%每次主核首发原始战力增长。",
+    "mechanism_schedule": "scenario_assumed; 三类机制代表业务原型，不对应真实版本日历。"
+  },
+  "description": "20期固定商品目录、4个支援节点；观察10/20期仅截断观察窗，不改变前10期供给或战斗环境。",
+  "research_v2": {
+    "observation_periods": 20,
+    "mechanism_schedule": {
+      "1": "defense",
+      "2": "defense",
+      "3": "defense",
+      "4": "defense",
+      "5": "defense",
+      "6": "window",
+      "7": "window",
+      "8": "window",
+      "9": "window",
+      "10": "window",
+      "11": "barrier",
+      "12": "barrier",
+      "13": "barrier",
+      "14": "barrier",
+      "15": "barrier",
+      "16": "defense",
+      "17": "defense",
+      "18": "defense",
+      "19": "defense",
+      "20": "defense"
+    }
+  }
+}

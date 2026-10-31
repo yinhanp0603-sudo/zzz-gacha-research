@@ -1,0 +1,204 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 630 250" width="630" height="250" font-family="'Noto Sans CJK SC','Microsoft YaHei','PingFang SC','Source Han Sans SC',sans-serif" role="img" aria-label="参考适用性矩阵：CI（0+1、无支援、出道起养成）">
+<rect width="630" height="250" fill="#ffffff"/>
+<text x="16" y="24" font-size="15" font-weight="600" fill="#111827">参考适用性矩阵：CI（0+1、无支援、出道起养成）</text>
+<text x="16" y="42" font-size="11" fill="#6b7280">红框=CI&lt;1（模型未达标）；合成区间单位42天；代理模型，非真实满星</text>
+<text x="173" y="54" font-size="9" text-anchor="middle" fill="#6b7280">t1</text>
+<text x="219" y="54" font-size="9" text-anchor="middle" fill="#6b7280">t2</text>
+<text x="265" y="54" font-size="9" text-anchor="middle" fill="#6b7280">t3</text>
+<text x="311" y="54" font-size="9" text-anchor="middle" fill="#6b7280">t4</text>
+<text x="357" y="54" font-size="9" text-anchor="middle" fill="#6b7280">t5</text>
+<text x="403" y="54" font-size="9" text-anchor="middle" fill="#6b7280">t6</text>
+<text x="449" y="54" font-size="9" text-anchor="middle" fill="#6b7280">t7</text>
+<text x="495" y="54" font-size="9" text-anchor="middle" fill="#6b7280">t8</text>
+<text x="541" y="54" font-size="9" text-anchor="middle" fill="#6b7280">t9</text>
+<text x="587" y="54" font-size="9" text-anchor="middle" fill="#6b7280">t10</text>
+<text x="144" y="74" font-size="10" text-anchor="end" fill="#111827">DPS_01</text>
+<rect x="150" y="60" width="44" height="18" fill="#2a58da"/>
+<text x="172" y="73" font-size="9" text-anchor="middle" fill="#ffffff">1.46</text>
+<rect x="196" y="60" width="44" height="18" fill="#446ddf"/>
+<text x="218" y="73" font-size="9" text-anchor="middle" fill="#ffffff">1.32</text>
+<rect x="242" y="60" width="44" height="18" fill="#6486e5"/>
+<text x="264" y="73" font-size="9" text-anchor="middle" fill="#ffffff">1.16</text>
+<rect x="288" y="60" width="44" height="18" fill="#7c9aea"/>
+<text x="310" y="73" font-size="9" text-anchor="middle" fill="#111827">1.03</text>
+<rect x="334" y="60" width="44" height="18" fill="#b3c6f4"/>
+<rect x="335" y="61" width="42" height="16" fill="none" stroke="#dc2626" stroke-width="1.5"/>
+<text x="356" y="73" font-size="9" text-anchor="middle" fill="#111827">0.75</text>
+<rect x="380" y="60" width="44" height="18" fill="#bdcef6"/>
+<rect x="381" y="61" width="42" height="16" fill="none" stroke="#dc2626" stroke-width="1.5"/>
+<text x="402" y="73" font-size="9" text-anchor="middle" fill="#111827">0.69</text>
+<rect x="426" y="60" width="44" height="18" fill="#cfdcf9"/>
+<rect x="427" y="61" width="42" height="16" fill="none" stroke="#dc2626" stroke-width="1.5"/>
+<text x="448" y="73" font-size="9" text-anchor="middle" fill="#111827">0.60</text>
+<rect x="472" y="60" width="44" height="18" fill="#dae5fb"/>
+<rect x="473" y="61" width="42" height="16" fill="none" stroke="#dc2626" stroke-width="1.5"/>
+<text x="494" y="73" font-size="9" text-anchor="middle" fill="#111827">0.54</text>
+<rect x="518" y="60" width="44" height="18" fill="#e8f0fe"/>
+<rect x="519" y="61" width="42" height="16" fill="none" stroke="#dc2626" stroke-width="1.5"/>
+<text x="540" y="73" font-size="9" text-anchor="middle" fill="#111827">0.47</text>
+<rect x="564" y="60" width="44" height="18" fill="#eff6ff"/>
+<rect x="565" y="61" width="42" height="16" fill="none" stroke="#dc2626" stroke-width="1.5"/>
+<text x="586" y="73" font-size="9" text-anchor="middle" fill="#111827">0.43</text>
+<text x="144" y="94" font-size="10" text-anchor="end" fill="#111827">DPS_02</text>
+<rect x="150" y="80" width="44" height="18" fill="#f3f4f6"/>
+<text x="172" y="93" font-size="9" text-anchor="middle" fill="#111827">—</text>
+<rect x="196" y="80" width="44" height="18" fill="#2555da"/>
+<text x="218" y="93" font-size="9" text-anchor="middle" fill="#ffffff">1.48</text>
+<rect x="242" y="80" width="44" height="18" fill="#426cdf"/>
+<text x="264" y="93" font-size="9" text-anchor="middle" fill="#ffffff">1.33</text>
+<rect x="288" y="80" width="44" height="18" fill="#5c80e4"/>
+<text x="310" y="93" font-size="9" text-anchor="middle" fill="#ffffff">1.20</text>
+<rect x="334" y="80" width="44" height="18" fill="#9ab2ef"/>
+<rect x="335" y="81" width="42" height="16" fill="none" stroke="#dc2626" stroke-width="1.5"/>
+<text x="356" y="93" font-size="9" text-anchor="middle" fill="#111827">0.88</text>
+<rect x="380" y="80" width="44" height="18" fill="#a5bbf1"/>
+<rect x="381" y="81" width="42" height="16" fill="none" stroke="#dc2626" stroke-width="1.5"/>
+<text x="402" y="93" font-size="9" text-anchor="middle" fill="#111827">0.82</text>
+<rect x="426" y="80" width="44" height="18" fill="#b9cbf5"/>
+<rect x="427" y="81" width="42" height="16" fill="none" stroke="#dc2626" stroke-width="1.5"/>
+<text x="448" y="93" font-size="9" text-anchor="middle" fill="#111827">0.71</text>
+<rect x="472" y="80" width="44" height="18" fill="#c7d6f7"/>
+<rect x="473" y="81" width="42" height="16" fill="none" stroke="#dc2626" stroke-width="1.5"/>
+<text x="494" y="93" font-size="9" text-anchor="middle" fill="#111827">0.64</text>
+<rect x="518" y="80" width="44" height="18" fill="#d7e3fb"/>
+<rect x="519" y="81" width="42" height="16" fill="none" stroke="#dc2626" stroke-width="1.5"/>
+<text x="540" y="93" font-size="9" text-anchor="middle" fill="#111827">0.56</text>
+<rect x="564" y="80" width="44" height="18" fill="#dfe9fc"/>
+<rect x="565" y="81" width="42" height="16" fill="none" stroke="#dc2626" stroke-width="1.5"/>
+<text x="586" y="93" font-size="9" text-anchor="middle" fill="#111827">0.52</text>
+<text x="144" y="114" font-size="10" text-anchor="end" fill="#111827">DPS_03</text>
+<rect x="150" y="100" width="44" height="18" fill="#f3f4f6"/>
+<text x="172" y="113" font-size="9" text-anchor="middle" fill="#111827">—</text>
+<rect x="196" y="100" width="44" height="18" fill="#f3f4f6"/>
+<text x="218" y="113" font-size="9" text-anchor="middle" fill="#111827">—</text>
+<rect x="242" y="100" width="44" height="18" fill="#1d4ed8"/>
+<text x="264" y="113" font-size="9" text-anchor="middle" fill="#ffffff">1.53</text>
+<rect x="288" y="100" width="44" height="18" fill="#305ddb"/>
+<text x="310" y="113" font-size="9" text-anchor="middle" fill="#ffffff">1.43</text>
+<rect x="334" y="100" width="44" height="18" fill="#6487e5"/>
+<text x="356" y="113" font-size="9" text-anchor="middle" fill="#ffffff">1.15</text>
+<rect x="380" y="100" width="44" height="18" fill="#7594e8"/>
+<text x="402" y="113" font-size="9" text-anchor="middle" fill="#111827">1.07</text>
+<rect x="426" y="100" width="44" height="18" fill="#8ba6ec"/>
+<rect x="427" y="101" width="42" height="16" fill="none" stroke="#dc2626" stroke-width="1.5"/>
+<text x="448" y="113" font-size="9" text-anchor="middle" fill="#111827">0.95</text>
+<rect x="472" y="100" width="44" height="18" fill="#9fb6f0"/>
+<rect x="473" y="101" width="42" height="16" fill="none" stroke="#dc2626" stroke-width="1.5"/>
+<text x="494" y="113" font-size="9" text-anchor="middle" fill="#111827">0.85</text>
+<rect x="518" y="100" width="44" height="18" fill="#b2c5f4"/>
+<rect x="519" y="101" width="42" height="16" fill="none" stroke="#dc2626" stroke-width="1.5"/>
+<text x="540" y="113" font-size="9" text-anchor="middle" fill="#111827">0.75</text>
+<rect x="564" y="100" width="44" height="18" fill="#bfd0f6"/>
+<rect x="565" y="101" width="42" height="16" fill="none" stroke="#dc2626" stroke-width="1.5"/>
+<text x="586" y="113" font-size="9" text-anchor="middle" fill="#111827">0.68</text>
+<text x="144" y="134" font-size="10" text-anchor="end" fill="#111827">DPS_05</text>
+<rect x="150" y="120" width="44" height="18" fill="#f3f4f6"/>
+<text x="172" y="133" font-size="9" text-anchor="middle" fill="#111827">—</text>
+<rect x="196" y="120" width="44" height="18" fill="#f3f4f6"/>
+<text x="218" y="133" font-size="9" text-anchor="middle" fill="#111827">—</text>
+<rect x="242" y="120" width="44" height="18" fill="#f3f4f6"/>
+<text x="264" y="133" font-size="9" text-anchor="middle" fill="#111827">—</text>
+<rect x="288" y="120" width="44" height="18" fill="#f3f4f6"/>
+<text x="310" y="133" font-size="9" text-anchor="middle" fill="#111827">—</text>
+<rect x="334" y="120" width="44" height="18" fill="#5279e2"/>
+<text x="356" y="133" font-size="9" text-anchor="middle" fill="#ffffff">1.25</text>
+<rect x="380" y="120" width="44" height="18" fill="#5b80e4"/>
+<text x="402" y="133" font-size="9" text-anchor="middle" fill="#ffffff">1.20</text>
+<rect x="426" y="120" width="44" height="18" fill="#7090e7"/>
+<text x="448" y="133" font-size="9" text-anchor="middle" fill="#ffffff">1.10</text>
+<rect x="472" y="120" width="44" height="18" fill="#84a0eb"/>
+<rect x="473" y="121" width="42" height="16" fill="none" stroke="#dc2626" stroke-width="1.5"/>
+<text x="494" y="133" font-size="9" text-anchor="middle" fill="#111827">0.99</text>
+<rect x="518" y="120" width="44" height="18" fill="#99b1ef"/>
+<rect x="519" y="121" width="42" height="16" fill="none" stroke="#dc2626" stroke-width="1.5"/>
+<text x="540" y="133" font-size="9" text-anchor="middle" fill="#111827">0.88</text>
+<rect x="564" y="120" width="44" height="18" fill="#a8bdf2"/>
+<rect x="565" y="121" width="42" height="16" fill="none" stroke="#dc2626" stroke-width="1.5"/>
+<text x="586" y="133" font-size="9" text-anchor="middle" fill="#111827">0.81</text>
+<text x="144" y="154" font-size="10" text-anchor="end" fill="#111827">DPS_06</text>
+<rect x="150" y="140" width="44" height="18" fill="#f3f4f6"/>
+<text x="172" y="153" font-size="9" text-anchor="middle" fill="#111827">—</text>
+<rect x="196" y="140" width="44" height="18" fill="#f3f4f6"/>
+<text x="218" y="153" font-size="9" text-anchor="middle" fill="#111827">—</text>
+<rect x="242" y="140" width="44" height="18" fill="#f3f4f6"/>
+<text x="264" y="153" font-size="9" text-anchor="middle" fill="#111827">—</text>
+<rect x="288" y="140" width="44" height="18" fill="#f3f4f6"/>
+<text x="310" y="153" font-size="9" text-anchor="middle" fill="#111827">—</text>
+<rect x="334" y="140" width="44" height="18" fill="#f3f4f6"/>
+<text x="356" y="153" font-size="9" text-anchor="middle" fill="#111827">—</text>
+<rect x="380" y="140" width="44" height="18" fill="#5a7fe3"/>
+<text x="402" y="153" font-size="9" text-anchor="middle" fill="#ffffff">1.21</text>
+<rect x="426" y="140" width="44" height="18" fill="#6c8de7"/>
+<text x="448" y="153" font-size="9" text-anchor="middle" fill="#ffffff">1.11</text>
+<rect x="472" y="140" width="44" height="18" fill="#7b99e9"/>
+<text x="494" y="153" font-size="9" text-anchor="middle" fill="#111827">1.04</text>
+<rect x="518" y="140" width="44" height="18" fill="#92acee"/>
+<rect x="519" y="141" width="42" height="16" fill="none" stroke="#dc2626" stroke-width="1.5"/>
+<text x="540" y="153" font-size="9" text-anchor="middle" fill="#111827">0.92</text>
+<rect x="564" y="140" width="44" height="18" fill="#9eb5f0"/>
+<rect x="565" y="141" width="42" height="16" fill="none" stroke="#dc2626" stroke-width="1.5"/>
+<text x="586" y="153" font-size="9" text-anchor="middle" fill="#111827">0.85</text>
+<text x="144" y="174" font-size="10" text-anchor="end" fill="#111827">DPS_08</text>
+<rect x="150" y="160" width="44" height="18" fill="#f3f4f6"/>
+<text x="172" y="173" font-size="9" text-anchor="middle" fill="#111827">—</text>
+<rect x="196" y="160" width="44" height="18" fill="#f3f4f6"/>
+<text x="218" y="173" font-size="9" text-anchor="middle" fill="#111827">—</text>
+<rect x="242" y="160" width="44" height="18" fill="#f3f4f6"/>
+<text x="264" y="173" font-size="9" text-anchor="middle" fill="#111827">—</text>
+<rect x="288" y="160" width="44" height="18" fill="#f3f4f6"/>
+<text x="310" y="173" font-size="9" text-anchor="middle" fill="#111827">—</text>
+<rect x="334" y="160" width="44" height="18" fill="#f3f4f6"/>
+<text x="356" y="173" font-size="9" text-anchor="middle" fill="#111827">—</text>
+<rect x="380" y="160" width="44" height="18" fill="#f3f4f6"/>
+<text x="402" y="173" font-size="9" text-anchor="middle" fill="#111827">—</text>
+<rect x="426" y="160" width="44" height="18" fill="#f3f4f6"/>
+<text x="448" y="173" font-size="9" text-anchor="middle" fill="#111827">—</text>
+<rect x="472" y="160" width="44" height="18" fill="#5379e2"/>
+<text x="494" y="173" font-size="9" text-anchor="middle" fill="#ffffff">1.25</text>
+<rect x="518" y="160" width="44" height="18" fill="#6285e5"/>
+<text x="540" y="173" font-size="9" text-anchor="middle" fill="#ffffff">1.17</text>
+<rect x="564" y="160" width="44" height="18" fill="#7090e7"/>
+<text x="586" y="173" font-size="9" text-anchor="middle" fill="#ffffff">1.09</text>
+<text x="144" y="194" font-size="10" text-anchor="end" fill="#111827">DPS_09</text>
+<rect x="150" y="180" width="44" height="18" fill="#f3f4f6"/>
+<text x="172" y="193" font-size="9" text-anchor="middle" fill="#111827">—</text>
+<rect x="196" y="180" width="44" height="18" fill="#f3f4f6"/>
+<text x="218" y="193" font-size="9" text-anchor="middle" fill="#111827">—</text>
+<rect x="242" y="180" width="44" height="18" fill="#f3f4f6"/>
+<text x="264" y="193" font-size="9" text-anchor="middle" fill="#111827">—</text>
+<rect x="288" y="180" width="44" height="18" fill="#f3f4f6"/>
+<text x="310" y="193" font-size="9" text-anchor="middle" fill="#111827">—</text>
+<rect x="334" y="180" width="44" height="18" fill="#f3f4f6"/>
+<text x="356" y="193" font-size="9" text-anchor="middle" fill="#111827">—</text>
+<rect x="380" y="180" width="44" height="18" fill="#f3f4f6"/>
+<text x="402" y="193" font-size="9" text-anchor="middle" fill="#111827">—</text>
+<rect x="426" y="180" width="44" height="18" fill="#f3f4f6"/>
+<text x="448" y="193" font-size="9" text-anchor="middle" fill="#111827">—</text>
+<rect x="472" y="180" width="44" height="18" fill="#f3f4f6"/>
+<text x="494" y="193" font-size="9" text-anchor="middle" fill="#111827">—</text>
+<rect x="518" y="180" width="44" height="18" fill="#6487e5"/>
+<text x="540" y="193" font-size="9" text-anchor="middle" fill="#ffffff">1.16</text>
+<rect x="564" y="180" width="44" height="18" fill="#698be6"/>
+<text x="586" y="193" font-size="9" text-anchor="middle" fill="#ffffff">1.13</text>
+<text x="144" y="214" font-size="10" text-anchor="end" fill="#111827">DPS_10</text>
+<rect x="150" y="200" width="44" height="18" fill="#f3f4f6"/>
+<text x="172" y="213" font-size="9" text-anchor="middle" fill="#111827">—</text>
+<rect x="196" y="200" width="44" height="18" fill="#f3f4f6"/>
+<text x="218" y="213" font-size="9" text-anchor="middle" fill="#111827">—</text>
+<rect x="242" y="200" width="44" height="18" fill="#f3f4f6"/>
+<text x="264" y="213" font-size="9" text-anchor="middle" fill="#111827">—</text>
+<rect x="288" y="200" width="44" height="18" fill="#f3f4f6"/>
+<text x="310" y="213" font-size="9" text-anchor="middle" fill="#111827">—</text>
+<rect x="334" y="200" width="44" height="18" fill="#f3f4f6"/>
+<text x="356" y="213" font-size="9" text-anchor="middle" fill="#111827">—</text>
+<rect x="380" y="200" width="44" height="18" fill="#f3f4f6"/>
+<text x="402" y="213" font-size="9" text-anchor="middle" fill="#111827">—</text>
+<rect x="426" y="200" width="44" height="18" fill="#f3f4f6"/>
+<text x="448" y="213" font-size="9" text-anchor="middle" fill="#111827">—</text>
+<rect x="472" y="200" width="44" height="18" fill="#f3f4f6"/>
+<text x="494" y="213" font-size="9" text-anchor="middle" fill="#111827">—</text>
+<rect x="518" y="200" width="44" height="18" fill="#f3f4f6"/>
+<text x="540" y="213" font-size="9" text-anchor="middle" fill="#111827">—</text>
+<rect x="564" y="200" width="44" height="18" fill="#4f76e1"/>
+<text x="586" y="213" font-size="9" text-anchor="middle" fill="#ffffff">1.27</text>
+</svg>

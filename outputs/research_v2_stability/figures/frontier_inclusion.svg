@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="435" viewBox="0 0 920 435" role="img" aria-label="模拟 20 期：哪些候选在复核种子中进入收入—留存前沿？">
+<rect width="920" height="435" rx="16" fill="#fff"/>
+<g font-family="'Microsoft YaHei','Noto Sans CJK SC','PingFang SC',sans-serif" fill="#172033">
+<text x="28" y="34" font-size="19" font-weight="700">模拟 20 期：哪些候选在复核种子中进入收入—留存前沿？</text>
+<text x="28" y="60" font-size="12" fill="#667085">单元格=入选种子数/复核种子数；频率描述本轮有限种子，不是最优策略的概率</text>
+<text x="225.0" y="105" text-anchor="middle" font-size="13">a=0.8</text>
+<text x="355.0" y="105" text-anchor="middle" font-size="13">a=1</text>
+<text x="485.0" y="105" text-anchor="middle" font-size="13">a=1.2</text>
+<text x="615.0" y="105" text-anchor="middle" font-size="13">a=1.4</text>
+<text x="745.0" y="105" text-anchor="middle" font-size="13">a=1.6</text>
+<text x="140" y="155" text-anchor="end" font-size="13">λ=0</text>
+<rect x="160" y="120" width="124" height="51" rx="8" fill="rgb(201,236,226)"/>
+<text x="222.0" y="152" text-anchor="middle" font-size="18" font-weight="700">1/3</text>
+<rect x="290" y="120" width="124" height="51" rx="8" fill="rgb(159,225,201)"/>
+<text x="352.0" y="152" text-anchor="middle" font-size="18" font-weight="700">2/3</text>
+<rect x="420" y="120" width="124" height="51" rx="8" fill="rgb(244,247,250)"/>
+<text x="482.0" y="152" text-anchor="middle" font-size="18" font-weight="700">0/3</text>
+<rect x="550" y="120" width="124" height="51" rx="8" fill="rgb(201,236,226)"/>
+<text x="612.0" y="152" text-anchor="middle" font-size="18" font-weight="700">1/3</text>
+<rect x="680" y="120" width="124" height="51" rx="8" fill="rgb(244,247,250)"/>
+<text x="742.0" y="152" text-anchor="middle" font-size="18" font-weight="700">0/3</text>
+<text x="140" y="212" text-anchor="end" font-size="13">λ=0.5</text>
+<rect x="160" y="177" width="124" height="51" rx="8" fill="rgb(201,236,226)"/>
+<text x="222.0" y="209" text-anchor="middle" font-size="18" font-weight="700">1/3</text>
+<rect x="290" y="177" width="124" height="51" rx="8" fill="rgb(244,247,250)"/>
+<text x="352.0" y="209" text-anchor="middle" font-size="18" font-weight="700">0/3</text>
+<rect x="420" y="177" width="124" height="51" rx="8" fill="rgb(159,225,201)"/>
+<text x="482.0" y="209" text-anchor="middle" font-size="18" font-weight="700">2/3</text>
+<rect x="550" y="177" width="124" height="51" rx="8" fill="rgb(201,236,226)"/>
+<text x="612.0" y="209" text-anchor="middle" font-size="18" font-weight="700">1/3</text>
+<rect x="680" y="177" width="124" height="51" rx="8" fill="rgb(244,247,250)"/>
+<text x="742.0" y="209" text-anchor="middle" font-size="18" font-weight="700">0/3</text>
+<text x="140" y="269" text-anchor="end" font-size="13">λ=1</text>
+<rect x="160" y="234" width="124" height="51" rx="8" fill="rgb(244,247,250)"/>
+<text x="222.0" y="266" text-anchor="middle" font-size="18" font-weight="700">0/3</text>
+<rect x="290" y="234" width="124" height="51" rx="8" fill="rgb(201,236,226)"/>
+<text x="352.0" y="266" text-anchor="middle" font-size="18" font-weight="700">1/3</text>
+<rect x="420" y="234" width="124" height="51" rx="8" fill="rgb(244,247,250)"/>
+<text x="482.0" y="266" text-anchor="middle" font-size="18" font-weight="700">0/3</text>
+<rect x="550" y="234" width="124" height="51" rx="8" fill="rgb(244,247,250)"/>
+<text x="612.0" y="266" text-anchor="middle" font-size="18" font-weight="700">0/3</text>
+<rect x="680" y="234" width="124" height="51" rx="8" fill="rgb(244,247,250)"/>
+<text x="742.0" y="266" text-anchor="middle" font-size="18" font-weight="700">0/3</text>
+<text x="140" y="326" text-anchor="end" font-size="13">λ=1.5</text>
+<rect x="160" y="291" width="124" height="51" rx="8" fill="rgb(244,247,250)"/>
+<text x="222.0" y="323" text-anchor="middle" font-size="18" font-weight="700">0/3</text>
+<rect x="290" y="291" width="124" height="51" rx="8" fill="rgb(244,247,250)"/>
+<text x="352.0" y="323" text-anchor="middle" font-size="18" font-weight="700">0/3</text>
+<rect x="420" y="291" width="124" height="51" rx="8" fill="rgb(244,247,250)"/>
+<text x="482.0" y="323" text-anchor="middle" font-size="18" font-weight="700">0/3</text>
+<rect x="550" y="291" width="124" height="51" rx="8" fill="rgb(244,247,250)"/>
+<text x="612.0" y="323" text-anchor="middle" font-size="18" font-weight="700">0/3</text>
+<rect x="680" y="291" width="124" height="51" rx="8" fill="rgb(244,247,250)"/>
+<text x="742.0" y="323" text-anchor="middle" font-size="18" font-weight="700">0/3</text>
+<text x="140" y="383" text-anchor="end" font-size="13">λ=2</text>
+<rect x="160" y="348" width="124" height="51" rx="8" fill="rgb(244,247,250)"/>
+<text x="222.0" y="380" text-anchor="middle" font-size="18" font-weight="700">0/3</text>
+<rect x="290" y="348" width="124" height="51" rx="8" fill="rgb(244,247,250)"/>
+<text x="352.0" y="380" text-anchor="middle" font-size="18" font-weight="700">0/3</text>
+<rect x="420" y="348" width="124" height="51" rx="8" fill="rgb(244,247,250)"/>
+<text x="482.0" y="380" text-anchor="middle" font-size="18" font-weight="700">0/3</text>
+<rect x="550" y="348" width="124" height="51" rx="8" fill="rgb(244,247,250)"/>
+<text x="612.0" y="380" text-anchor="middle" font-size="18" font-weight="700">0/3</text>
+<rect x="680" y="348" width="124" height="51" rx="8" fill="rgb(244,247,250)"/>
+<text x="742.0" y="380" text-anchor="middle" font-size="18" font-weight="700">0/3</text>
+</g></svg>

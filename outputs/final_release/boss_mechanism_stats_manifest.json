@@ -1,0 +1,1048 @@
+{
+  "status": "completed",
+  "created_at_utc": "2026-10-29T13:08:35+00:00",
+  "source_database": "outputs/final_release/observations/observations.sqlite",
+  "source_mode": "deadly_assault",
+  "stage_mapping": {
+    "1-1": "S1",
+    "1-2": "S2",
+    "1-3": "S3",
+    "2-1": "ADV"
+  },
+  "stage_mapping_basis": "adapter_shiyu.py: raw floor 1/2/3 -> 1-1/1-2/1-3; raw floor>3 -> 2-1 (advanced)",
+  "association_basis": "combat_season + stage_slot, confirmed against each raw-row boss label or registered identity alias",
+  "unassigned_policy": "Raw boss-label conflicts remain in season and historical-era totals, excluded from definite room/boss/mechanism aggregates.",
+  "raw_conflict_audit": "boss_association_issues.csv",
+  "raw_conflict_records": 210,
+  "history_season_count": 47,
+  "history_room_count": 147,
+  "observed_season_count": 35,
+  "observed_snapshot_count": 36,
+  "history_unobserved_seasons": [
+    "1.5.3",
+    "1.6.1",
+    "1.7.1",
+    "2.0.1",
+    "2.1.1",
+    "2.1.3",
+    "2.2.3",
+    "2.3.3",
+    "2.4.2",
+    "2.5.3",
+    "2.6.3",
+    "2.7.3"
+  ],
+  "observed_seasons": [
+    "1.4.1",
+    "1.4.2",
+    "1.5.1",
+    "1.5.2",
+    "1.5.4",
+    "1.6.2",
+    "1.6.3",
+    "1.7.2",
+    "1.7.3",
+    "2.0.2",
+    "2.0.3",
+    "2.1.2",
+    "2.2.1",
+    "2.2.2",
+    "2.3.1",
+    "2.3.2",
+    "2.4.1",
+    "2.5.1",
+    "2.5.2",
+    "2.6.1",
+    "2.6.2",
+    "2.7.1",
+    "2.7.2",
+    "2.8.1",
+    "2.8.2",
+    "2.8.3",
+    "3.0.1",
+    "3.0.2",
+    "3.0.3",
+    "3.1.1",
+    "3.1.2",
+    "3.1.3",
+    "3.2.1",
+    "3.2.2",
+    "3.2.3"
+  ],
+  "history_seasons": [
+    "1.4.1",
+    "1.4.2",
+    "1.5.1",
+    "1.5.2",
+    "1.5.3",
+    "1.5.4",
+    "1.6.1",
+    "1.6.2",
+    "1.6.3",
+    "1.7.1",
+    "1.7.2",
+    "1.7.3",
+    "2.0.1",
+    "2.0.2",
+    "2.0.3",
+    "2.1.1",
+    "2.1.2",
+    "2.1.3",
+    "2.2.1",
+    "2.2.2",
+    "2.2.3",
+    "2.3.1",
+    "2.3.2",
+    "2.3.3",
+    "2.4.1",
+    "2.4.2",
+    "2.5.1",
+    "2.5.2",
+    "2.5.3",
+    "2.6.1",
+    "2.6.2",
+    "2.6.3",
+    "2.7.1",
+    "2.7.2",
+    "2.7.3",
+    "2.8.1",
+    "2.8.2",
+    "2.8.3",
+    "3.0.1",
+    "3.0.2",
+    "3.0.3",
+    "3.1.1",
+    "3.1.2",
+    "3.1.3",
+    "3.2.1",
+    "3.2.2",
+    "3.2.3"
+  ],
+  "eligible_records": 1393965,
+  "matched_boss_records": 1393755,
+  "unassigned_boss_records": 210,
+  "stage_scope_totals": {
+    "normal": {
+      "eligible_records": 1343460,
+      "valid_3man_records": 1338468,
+      "known_score_records": 1343460,
+      "matched_boss_records": 1343250,
+      "unassigned_boss_records": 210
+    },
+    "advanced": {
+      "eligible_records": 50505,
+      "valid_3man_records": 50485,
+      "known_score_records": 50505,
+      "matched_boss_records": 50505,
+      "unassigned_boss_records": 0
+    }
+  },
+  "regime_basis": "Five historical eras. Each era contains legacy bosses as well as new mechanics.",
+  "archetype_groups": [
+    "常规直伤/失衡",
+    "异常/紊乱异放",
+    "追加攻击",
+    "命破贯穿",
+    "帷幕无视失衡",
+    "耀变体系",
+    "锐化防御"
+  ],
+  "denominator": "archetype_share uses identity-valid, distinct full three-agent eligible records within the same scope and track",
+  "overlap": "A multi-core battle may appear in multiple mechanism groups; shares cannot be added or stacked to 100%.",
+  "score_medians": "Exact median of known score values in each eligible scope; archetype medians use only valid full-three-agent records in that group. Missing scores remain missing, not zero.",
+  "advanced_policy": "Normal rooms and advanced rooms remain separate in every aggregate and median.",
+  "snapshot_policy": "Records are pooled across fixed snapshots; player identities are not joined or deduplicated across collections. Two 2.5.1 combat-season collections remain distinct records.",
+  "sources": [
+    {
+      "snapshot_id": "SHIYU_HF_324c95d5fb05:1.3.3",
+      "collection_period": "1.3.3",
+      "combat_season": "1.4.1",
+      "raw_file": "1.3.3_da.csv",
+      "raw_boss_counts": [
+        {
+          "stage_slot": "S1",
+          "raw_boss_en": "Sacrifice - Bringer",
+          "raw_records": 4232
+        },
+        {
+          "stage_slot": "S2",
+          "raw_boss_en": "Corrupted Overlord - Pompey",
+          "raw_records": 4064
+        },
+        {
+          "stage_slot": "S3",
+          "raw_boss_en": "Notorious - Marionette",
+          "raw_records": 4136
+        }
+      ]
+    },
+    {
+      "snapshot_id": "SHIYU_HF_324c95d5fb05:1.4.3",
+      "collection_period": "1.4.3",
+      "combat_season": "1.4.2",
+      "raw_file": "1.4.3_da.csv",
+      "raw_boss_counts": [
+        {
+          "stage_slot": "S1",
+          "raw_boss_en": "Sacrifice - Bringer",
+          "raw_records": 4452
+        },
+        {
+          "stage_slot": "S2",
+          "raw_boss_en": "Autonomous Assault Unit - Typhon Destroyer",
+          "raw_records": 4034
+        },
+        {
+          "stage_slot": "S3",
+          "raw_boss_en": "Dead End Butcher",
+          "raw_records": 4355
+        }
+      ]
+    },
+    {
+      "snapshot_id": "SHIYU_HF_324c95d5fb05:1.5.2",
+      "collection_period": "1.5.2",
+      "combat_season": "1.5.1",
+      "raw_file": "1.5.2_da.csv",
+      "raw_boss_counts": [
+        {
+          "stage_slot": "S1",
+          "raw_boss_en": "Notorious - Dead End Butcher",
+          "raw_records": 5323
+        },
+        {
+          "stage_slot": "S2",
+          "raw_boss_en": "Unknown Corruption Complex",
+          "raw_records": 4947
+        },
+        {
+          "stage_slot": "S3",
+          "raw_boss_en": "Corrupted Overlord - Pompey",
+          "raw_records": 4701
+        }
+      ]
+    },
+    {
+      "snapshot_id": "SHIYU_HF_324c95d5fb05:1.5.3",
+      "collection_period": "1.5.3",
+      "combat_season": "1.5.2",
+      "raw_file": "1.5.3_da.csv",
+      "raw_boss_counts": [
+        {
+          "stage_slot": "S1",
+          "raw_boss_en": "Notorious - Dead End Butcher",
+          "raw_records": 5401
+        },
+        {
+          "stage_slot": "S2",
+          "raw_boss_en": "Autonomous Assault Unit - Typhon Destroyer",
+          "raw_records": 4826
+        },
+        {
+          "stage_slot": "S3",
+          "raw_boss_en": "Notorious - Marionette",
+          "raw_records": 5054
+        }
+      ]
+    },
+    {
+      "snapshot_id": "SHIYU_HF_324c95d5fb05:1.6.1",
+      "collection_period": "1.6.1",
+      "combat_season": "1.5.4",
+      "raw_file": "1.6.1_da.csv",
+      "raw_boss_counts": [
+        {
+          "stage_slot": "S1",
+          "raw_boss_en": "Unknown Corruption Complex",
+          "raw_records": 5369
+        },
+        {
+          "stage_slot": "S2",
+          "raw_boss_en": "Sacrifice - Bringer",
+          "raw_records": 5483
+        },
+        {
+          "stage_slot": "S3",
+          "raw_boss_en": "Notorious - Pompey",
+          "raw_records": 5169
+        }
+      ]
+    },
+    {
+      "snapshot_id": "SHIYU_HF_324c95d5fb05:1.6.2",
+      "collection_period": "1.6.2",
+      "combat_season": "1.6.2",
+      "raw_file": "1.6.2_da.csv",
+      "raw_boss_counts": [
+        {
+          "stage_slot": "S1",
+          "raw_boss_en": "Notorious - Marionette",
+          "raw_records": 5107
+        },
+        {
+          "stage_slot": "S2",
+          "raw_boss_en": "Autonomous Assault Unit - Typhon Destroyer",
+          "raw_records": 4808
+        },
+        {
+          "stage_slot": "S3",
+          "raw_boss_en": "Notorious - Pompey",
+          "raw_records": 4816
+        }
+      ]
+    },
+    {
+      "snapshot_id": "SHIYU_HF_324c95d5fb05:1.7.1",
+      "collection_period": "1.7.1",
+      "combat_season": "1.6.3",
+      "raw_file": "1.7.1_da.csv",
+      "raw_boss_counts": [
+        {
+          "stage_slot": "S1",
+          "raw_boss_en": "Dead End Butcher",
+          "raw_records": 5586
+        },
+        {
+          "stage_slot": "S2",
+          "raw_boss_en": "Sacrifice - Bringer",
+          "raw_records": 5168
+        },
+        {
+          "stage_slot": "S3",
+          "raw_boss_en": "Unknown Corruption Complex",
+          "raw_records": 5469
+        }
+      ]
+    },
+    {
+      "snapshot_id": "SHIYU_HF_324c95d5fb05:1.7.2",
+      "collection_period": "1.7.2",
+      "combat_season": "1.7.2",
+      "raw_file": "1.7.2_da.csv",
+      "raw_boss_counts": [
+        {
+          "stage_slot": "S1",
+          "raw_boss_en": "Notorious - Marionette",
+          "raw_records": 4061
+        },
+        {
+          "stage_slot": "S2",
+          "raw_boss_en": "Notorious - Dead End Butcher",
+          "raw_records": 3995
+        },
+        {
+          "stage_slot": "S3",
+          "raw_boss_en": "Autonomous Assault Unit - Typhon Destroyer",
+          "raw_records": 3911
+        }
+      ]
+    },
+    {
+      "snapshot_id": "SHIYU_HF_324c95d5fb05:2.0.1",
+      "collection_period": "2.0.1",
+      "combat_season": "1.7.3",
+      "raw_file": "2.0.1_da.csv",
+      "raw_boss_counts": [
+        {
+          "stage_slot": "S1",
+          "raw_boss_en": "Notorious - Marionette",
+          "raw_records": 6118
+        },
+        {
+          "stage_slot": "S2",
+          "raw_boss_en": "Sacrifice - Bringer",
+          "raw_records": 5830
+        },
+        {
+          "stage_slot": "S3",
+          "raw_boss_en": "Notorious - Pompey",
+          "raw_records": 5640
+        }
+      ]
+    },
+    {
+      "snapshot_id": "SHIYU_HF_324c95d5fb05:2.0.2",
+      "collection_period": "2.0.2",
+      "combat_season": "2.0.2",
+      "raw_file": "2.0.2_da.csv",
+      "raw_boss_counts": [
+        {
+          "stage_slot": "S1",
+          "raw_boss_en": "Notorious - Pompey",
+          "raw_records": 4403
+        },
+        {
+          "stage_slot": "S2",
+          "raw_boss_en": "Unknown Corruption Complex",
+          "raw_records": 4665
+        },
+        {
+          "stage_slot": "S3",
+          "raw_boss_en": "Sacrifice - Bringer",
+          "raw_records": 4586
+        }
+      ]
+    },
+    {
+      "snapshot_id": "SHIYU_HF_324c95d5fb05:2.1.1",
+      "collection_period": "2.1.1",
+      "combat_season": "2.0.3",
+      "raw_file": "2.1.1_da.csv",
+      "raw_boss_counts": [
+        {
+          "stage_slot": "S1",
+          "raw_boss_en": "Miasma Priest",
+          "raw_records": 6212
+        },
+        {
+          "stage_slot": "S2",
+          "raw_boss_en": "Corrupted Overlord - Pompey",
+          "raw_records": 5782
+        },
+        {
+          "stage_slot": "S3",
+          "raw_boss_en": "Notorious - Dead End Butcher",
+          "raw_records": 6323
+        }
+      ]
+    },
+    {
+      "snapshot_id": "SHIYU_HF_324c95d5fb05:2.1.2",
+      "collection_period": "2.1.2",
+      "combat_season": "2.1.2",
+      "raw_file": "2.1.2_da.csv",
+      "raw_boss_counts": [
+        {
+          "stage_slot": "S1",
+          "raw_boss_en": "Miasmic Fiend - Unfathomable",
+          "raw_records": 20449
+        },
+        {
+          "stage_slot": "S2",
+          "raw_boss_en": "Notorious - Dead End Butcher",
+          "raw_records": 20579
+        },
+        {
+          "stage_slot": "S3",
+          "raw_boss_en": "Notorious - Marionette",
+          "raw_records": 20617
+        }
+      ]
+    },
+    {
+      "snapshot_id": "SHIYU_HF_324c95d5fb05:2.2.1",
+      "collection_period": "2.2.1",
+      "combat_season": "2.2.1",
+      "raw_file": "2.2.1_da.csv",
+      "raw_boss_counts": [
+        {
+          "stage_slot": "S1",
+          "raw_boss_en": "The Defiler",
+          "raw_records": 18844
+        },
+        {
+          "stage_slot": "S2",
+          "raw_boss_en": "Miasmic Fiend - Unfathomable",
+          "raw_records": 20885
+        },
+        {
+          "stage_slot": "S3",
+          "raw_boss_en": "Miasma Priest",
+          "raw_records": 20147
+        }
+      ]
+    },
+    {
+      "snapshot_id": "SHIYU_HF_324c95d5fb05:2.2.2",
+      "collection_period": "2.2.2",
+      "combat_season": "2.2.2",
+      "raw_file": "2.2.2_da.csv",
+      "raw_boss_counts": [
+        {
+          "stage_slot": "S1",
+          "raw_boss_en": "The Defiler",
+          "raw_records": 23136
+        },
+        {
+          "stage_slot": "S2",
+          "raw_boss_en": "Notorious - Dead End Butcher",
+          "raw_records": 25249
+        },
+        {
+          "stage_slot": "S3",
+          "raw_boss_en": "Notorious - Pompey",
+          "raw_records": 23942
+        }
+      ]
+    },
+    {
+      "snapshot_id": "SHIYU_HF_324c95d5fb05:2.3.1",
+      "collection_period": "2.3.1",
+      "combat_season": "2.3.1",
+      "raw_file": "2.3.1_da.csv",
+      "raw_boss_counts": [
+        {
+          "stage_slot": "S1",
+          "raw_boss_en": "Miasma Priest",
+          "raw_records": 20713
+        },
+        {
+          "stage_slot": "S2",
+          "raw_boss_en": "The Defiler",
+          "raw_records": 19825
+        },
+        {
+          "stage_slot": "S3",
+          "raw_boss_en": "Notorious - Dead End Butcher",
+          "raw_records": 21546
+        }
+      ]
+    },
+    {
+      "snapshot_id": "SHIYU_HF_324c95d5fb05:2.3.2",
+      "collection_period": "2.3.2",
+      "combat_season": "2.3.2",
+      "raw_file": "2.3.2_da.csv",
+      "raw_boss_counts": [
+        {
+          "stage_slot": "S1",
+          "raw_boss_en": "Wandering Hunter",
+          "raw_records": 21696
+        },
+        {
+          "stage_slot": "S2",
+          "raw_boss_en": "Miasmic Fiend - Unfathomable",
+          "raw_records": 21889
+        },
+        {
+          "stage_slot": "S3",
+          "raw_boss_en": "The Defiler",
+          "raw_records": 20426
+        }
+      ]
+    },
+    {
+      "snapshot_id": "SHIYU_HF_324c95d5fb05:2.4.1",
+      "collection_period": "2.4.1",
+      "combat_season": "2.4.1",
+      "raw_file": "2.4.1_da.csv",
+      "raw_boss_counts": [
+        {
+          "stage_slot": "S1",
+          "raw_boss_en": "Notorious - Marionette",
+          "raw_records": 20555
+        },
+        {
+          "stage_slot": "S2",
+          "raw_boss_en": "??? the Thrall",
+          "raw_records": 17883
+        },
+        {
+          "stage_slot": "S3",
+          "raw_boss_en": "Miasmic Fiend - Unfathomable",
+          "raw_records": 19764
+        }
+      ]
+    },
+    {
+      "snapshot_id": "SHIYU_HF_324c95d5fb05:2.5.1",
+      "collection_period": "2.5.1",
+      "combat_season": "2.5.1",
+      "raw_file": "2.5.1_da.csv",
+      "raw_boss_counts": [
+        {
+          "stage_slot": "S1",
+          "raw_boss_en": "Primordial Nightmare",
+          "raw_records": 18368
+        },
+        {
+          "stage_slot": "S2",
+          "raw_boss_en": "Miasmic Fiend - Unfathomable",
+          "raw_records": 20059
+        },
+        {
+          "stage_slot": "S3",
+          "raw_boss_en": "Wandering Hunter",
+          "raw_records": 19897
+        }
+      ]
+    },
+    {
+      "snapshot_id": "SHIYU_HF_324c95d5fb05:2.5.2",
+      "collection_period": "2.5.2",
+      "combat_season": "2.5.1",
+      "raw_file": "2.5.2_da.csv",
+      "raw_boss_counts": [
+        {
+          "stage_slot": "S1",
+          "raw_boss_en": "Primordial Nightmare",
+          "raw_records": 24366
+        },
+        {
+          "stage_slot": "S2",
+          "raw_boss_en": "Miasmic Fiend - Unfathomable",
+          "raw_records": 25504
+        },
+        {
+          "stage_slot": "S3",
+          "raw_boss_en": "Wandering Hunter",
+          "raw_records": 25356
+        }
+      ]
+    },
+    {
+      "snapshot_id": "SHIYU_HF_324c95d5fb05:2.5.3",
+      "collection_period": "2.5.3",
+      "combat_season": "2.5.2",
+      "raw_file": "2.5.3_da.csv",
+      "raw_boss_counts": [
+        {
+          "stage_slot": "S1",
+          "raw_boss_en": "The Defiler",
+          "raw_records": 24006
+        },
+        {
+          "stage_slot": "S2",
+          "raw_boss_en": "Notorious - Marionette",
+          "raw_records": 24194
+        },
+        {
+          "stage_slot": "S3",
+          "raw_boss_en": "Miasma Priest",
+          "raw_records": 23399
+        }
+      ]
+    },
+    {
+      "snapshot_id": "SHIYU_HF_324c95d5fb05:2.6.1",
+      "collection_period": "2.6.1",
+      "combat_season": "2.6.1",
+      "raw_file": "2.6.1_da.csv",
+      "raw_boss_counts": [
+        {
+          "stage_slot": "S1",
+          "raw_boss_en": "Primordial Nightmare",
+          "raw_records": 2089
+        },
+        {
+          "stage_slot": "S1",
+          "raw_boss_en": "Primordial Nightmare - \"The Creator\"",
+          "raw_records": 16444
+        },
+        {
+          "stage_slot": "S2",
+          "raw_boss_en": "Miasma Priest",
+          "raw_records": 18148
+        },
+        {
+          "stage_slot": "S3",
+          "raw_boss_en": "Notorious - Dead End Butcher",
+          "raw_records": 18727
+        }
+      ]
+    },
+    {
+      "snapshot_id": "SHIYU_HF_324c95d5fb05:2.6.2",
+      "collection_period": "2.6.2",
+      "combat_season": "2.6.2",
+      "raw_file": "2.6.2_da.csv",
+      "raw_boss_counts": [
+        {
+          "stage_slot": "S1",
+          "raw_boss_en": "Discordant Solo - ???",
+          "raw_records": 7033
+        },
+        {
+          "stage_slot": "S1",
+          "raw_boss_en": "Discordant Solo - Vesper",
+          "raw_records": 14067
+        },
+        {
+          "stage_slot": "S2",
+          "raw_boss_en": "The Defiler",
+          "raw_records": 22355
+        },
+        {
+          "stage_slot": "S3",
+          "raw_boss_en": "Wandering Hunter",
+          "raw_records": 22095
+        }
+      ]
+    },
+    {
+      "snapshot_id": "SHIYU_HF_324c95d5fb05:2.7.1",
+      "collection_period": "2.7.1",
+      "combat_season": "2.7.1",
+      "raw_file": "2.7.1_da.csv",
+      "raw_boss_counts": [
+        {
+          "stage_slot": "S1",
+          "raw_boss_en": "Sanguine Sweeper",
+          "raw_records": 16866
+        },
+        {
+          "stage_slot": "S2",
+          "raw_boss_en": "Miasma Priest",
+          "raw_records": 17909
+        },
+        {
+          "stage_slot": "S3",
+          "raw_boss_en": "Notorious - Marionette",
+          "raw_records": 18104
+        }
+      ]
+    },
+    {
+      "snapshot_id": "SHIYU_HF_324c95d5fb05:2.7.2",
+      "collection_period": "2.7.2",
+      "combat_season": "2.7.2",
+      "raw_file": "2.7.2_da.csv",
+      "raw_boss_counts": [
+        {
+          "stage_slot": "S1",
+          "raw_boss_en": "??? the Thrall",
+          "raw_records": 33
+        },
+        {
+          "stage_slot": "S1",
+          "raw_boss_en": "Discordant Solo - ???",
+          "raw_records": 3836
+        },
+        {
+          "stage_slot": "S1",
+          "raw_boss_en": "Discordant Solo - Vesper",
+          "raw_records": 16408
+        },
+        {
+          "stage_slot": "S2",
+          "raw_boss_en": "??? the Thrall",
+          "raw_records": 270
+        },
+        {
+          "stage_slot": "S2",
+          "raw_boss_en": "Unknown Corruption Complex",
+          "raw_records": 20978
+        },
+        {
+          "stage_slot": "S3",
+          "raw_boss_en": "??? the Thrall",
+          "raw_records": 1513
+        },
+        {
+          "stage_slot": "S3",
+          "raw_boss_en": "Ye Shiyuan the Thrall",
+          "raw_records": 19233
+        }
+      ]
+    },
+    {
+      "snapshot_id": "SHIYU_HF_324c95d5fb05:2.8.1",
+      "collection_period": "2.8.1",
+      "combat_season": "2.8.1",
+      "raw_file": "2.8.1_da.csv",
+      "raw_boss_counts": [
+        {
+          "stage_slot": "S1",
+          "raw_boss_en": "Phaethon of the Scorched Horizon",
+          "raw_records": 16326
+        },
+        {
+          "stage_slot": "S2",
+          "raw_boss_en": "Wandering Hunter",
+          "raw_records": 16306
+        },
+        {
+          "stage_slot": "S3",
+          "raw_boss_en": "The Defiler",
+          "raw_records": 16615
+        }
+      ]
+    },
+    {
+      "snapshot_id": "SHIYU_HF_324c95d5fb05:2.8.2",
+      "collection_period": "2.8.2",
+      "combat_season": "2.8.2",
+      "raw_file": "2.8.2_da.csv",
+      "raw_boss_counts": [
+        {
+          "stage_slot": "S1",
+          "raw_boss_en": "Notorious - Dead End Butcher",
+          "raw_records": 18124
+        },
+        {
+          "stage_slot": "S2",
+          "raw_boss_en": "Ye Shiyuan the Thrall",
+          "raw_records": 17824
+        },
+        {
+          "stage_slot": "S3",
+          "raw_boss_en": "Discordant Solo - Vesper",
+          "raw_records": 16834
+        }
+      ]
+    },
+    {
+      "snapshot_id": "SHIYU_HF_324c95d5fb05:2.8.3",
+      "collection_period": "2.8.3",
+      "combat_season": "2.8.3",
+      "raw_file": "2.8.3_da.csv",
+      "raw_boss_counts": [
+        {
+          "stage_slot": "S1",
+          "raw_boss_en": "Miasmic Fiend - Unfathomable",
+          "raw_records": 19520
+        },
+        {
+          "stage_slot": "S2",
+          "raw_boss_en": "Ye Shiyuan the Thrall",
+          "raw_records": 19355
+        },
+        {
+          "stage_slot": "S3",
+          "raw_boss_en": "The Defiler",
+          "raw_records": 18845
+        }
+      ]
+    },
+    {
+      "snapshot_id": "SHIYU_HF_324c95d5fb05:3.0.1",
+      "collection_period": "3.0.1",
+      "combat_season": "3.0.1",
+      "raw_file": "3.0.1_da.csv",
+      "raw_boss_counts": [
+        {
+          "stage_slot": "S1",
+          "raw_boss_en": "Girtablullu",
+          "raw_records": 15364
+        },
+        {
+          "stage_slot": "S2",
+          "raw_boss_en": "Notorious - Marionette",
+          "raw_records": 16508
+        },
+        {
+          "stage_slot": "S3",
+          "raw_boss_en": "Ye Shiyuan the Thrall",
+          "raw_records": 16459
+        }
+      ]
+    },
+    {
+      "snapshot_id": "SHIYU_HF_324c95d5fb05:3.0.2",
+      "collection_period": "3.0.2",
+      "combat_season": "3.0.2",
+      "raw_file": "3.0.2_da.csv",
+      "raw_boss_counts": [
+        {
+          "stage_slot": "S1",
+          "raw_boss_en": "Girtablullu",
+          "raw_records": 16046
+        },
+        {
+          "stage_slot": "S2",
+          "raw_boss_en": "Primordial Nightmare - \"The Creator\"",
+          "raw_records": 15786
+        },
+        {
+          "stage_slot": "S3",
+          "raw_boss_en": "Ye Shiyuan the Thrall",
+          "raw_records": 15528
+        }
+      ]
+    },
+    {
+      "snapshot_id": "SHIYU_HF_324c95d5fb05:3.0.3",
+      "collection_period": "3.0.3",
+      "combat_season": "3.0.3",
+      "raw_file": "3.0.3_da.csv",
+      "raw_boss_counts": [
+        {
+          "stage_slot": "S1",
+          "raw_boss_en": "Phaethon of the Scorched Horizon",
+          "raw_records": 15986
+        },
+        {
+          "stage_slot": "S2",
+          "raw_boss_en": "Notorious - Pompey",
+          "raw_records": 15894
+        },
+        {
+          "stage_slot": "S3",
+          "raw_boss_en": "Miasmic Fiend - Unfathomable",
+          "raw_records": 15822
+        }
+      ]
+    },
+    {
+      "snapshot_id": "SHIYU_HF_324c95d5fb05:3.1.1",
+      "collection_period": "3.1.1",
+      "combat_season": "3.1.1",
+      "raw_file": "3.1.1_da.csv",
+      "raw_boss_counts": [
+        {
+          "stage_slot": "ADV",
+          "raw_boss_en": "Integrated - Girtablullu",
+          "raw_records": 10251
+        },
+        {
+          "stage_slot": "S1",
+          "raw_boss_en": "Girtablullu - Stagnant Aberrant",
+          "raw_records": 19351
+        },
+        {
+          "stage_slot": "S2",
+          "raw_boss_en": "Notorious - Dead End Butcher",
+          "raw_records": 20520
+        },
+        {
+          "stage_slot": "S3",
+          "raw_boss_en": "Unknown Corruption Complex",
+          "raw_records": 20567
+        }
+      ]
+    },
+    {
+      "snapshot_id": "SHIYU_HF_324c95d5fb05:3.1.2",
+      "collection_period": "3.1.2",
+      "combat_season": "3.1.2",
+      "raw_file": "3.1.2_da.csv",
+      "raw_boss_counts": [
+        {
+          "stage_slot": "ADV",
+          "raw_boss_en": "Rewritten - Sanguine Sweeper",
+          "raw_records": 9527
+        },
+        {
+          "stage_slot": "S1",
+          "raw_boss_en": "Girtablullu - Stagnant Aberrant",
+          "raw_records": 16044
+        },
+        {
+          "stage_slot": "S2",
+          "raw_boss_en": "Ye Shiyuan the Thrall",
+          "raw_records": 15843
+        },
+        {
+          "stage_slot": "S3",
+          "raw_boss_en": "Miasma Priest",
+          "raw_records": 15665
+        }
+      ]
+    },
+    {
+      "snapshot_id": "SHIYU_HF_324c95d5fb05:3.1.3",
+      "collection_period": "3.1.3",
+      "combat_season": "3.1.3",
+      "raw_file": "3.1.3_da.csv",
+      "raw_boss_counts": [
+        {
+          "stage_slot": "ADV",
+          "raw_boss_en": "Rewritten - Sanguine Sweeper",
+          "raw_records": 7721
+        },
+        {
+          "stage_slot": "S1",
+          "raw_boss_en": "Dead End Butcher",
+          "raw_records": 14429
+        },
+        {
+          "stage_slot": "S2",
+          "raw_boss_en": "Girtablullu",
+          "raw_records": 14341
+        },
+        {
+          "stage_slot": "S3",
+          "raw_boss_en": "Primordial Nightmare - \"The Creator\"",
+          "raw_records": 14054
+        }
+      ]
+    },
+    {
+      "snapshot_id": "SHIYU_HF_324c95d5fb05:3.2.1",
+      "collection_period": "3.2.1",
+      "combat_season": "3.2.1",
+      "raw_file": "3.2.1_da.csv",
+      "raw_boss_counts": [
+        {
+          "stage_slot": "ADV",
+          "raw_boss_en": "Integrated - Scorched Horizon",
+          "raw_records": 7750
+        },
+        {
+          "stage_slot": "S1",
+          "raw_boss_en": "Kusarikku",
+          "raw_records": 14836
+        },
+        {
+          "stage_slot": "S2",
+          "raw_boss_en": "Girtablullu - Stagnant Aberrant",
+          "raw_records": 16509
+        },
+        {
+          "stage_slot": "S3",
+          "raw_boss_en": "Ye Shiyuan the Thrall",
+          "raw_records": 16245
+        }
+      ]
+    },
+    {
+      "snapshot_id": "SHIYU_HF_324c95d5fb05:3.2.2",
+      "collection_period": "3.2.2",
+      "combat_season": "3.2.2",
+      "raw_file": "3.2.2_da.csv",
+      "raw_boss_counts": [
+        {
+          "stage_slot": "ADV",
+          "raw_boss_en": "Integrated - Scorched Horizon",
+          "raw_records": 7675
+        },
+        {
+          "stage_slot": "S1",
+          "raw_boss_en": "Kusarikku",
+          "raw_records": 14615
+        },
+        {
+          "stage_slot": "S2",
+          "raw_boss_en": "Miasmic Fiend - Unfathomable",
+          "raw_records": 15721
+        },
+        {
+          "stage_slot": "S3",
+          "raw_boss_en": "Ye Shiyuan the Thrall",
+          "raw_records": 15455
+        }
+      ]
+    },
+    {
+      "snapshot_id": "SHIYU_HF_324c95d5fb05:3.2.3",
+      "collection_period": "3.2.3",
+      "combat_season": "3.2.3",
+      "raw_file": "3.2.3_da.csv",
+      "raw_boss_counts": [
+        {
+          "stage_slot": "ADV",
+          "raw_boss_en": "Integrated - Girtablullu",
+          "raw_records": 7581
+        },
+        {
+          "stage_slot": "S1",
+          "raw_boss_en": "Phaethon of the Scorched Horizon",
+          "raw_records": 15187
+        },
+        {
+          "stage_slot": "S2",
+          "raw_boss_en": "Infernal Revenant",
+          "raw_records": 14819
+        },
+        {
+          "stage_slot": "S3",
+          "raw_boss_en": "Kusarikku",
+          "raw_records": 14652
+        }
+      ]
+    }
+  ],
+  "observation_sources_unchanged": true,
+  "query_and_aggregation_seconds": 121.57,
+  "valid_3man_records": 1388953
+}

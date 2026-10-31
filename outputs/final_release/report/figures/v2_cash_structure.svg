@@ -1,0 +1,95 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400" width="800" height="400" font-family="'Noto Sans CJK SC','Microsoft YaHei','PingFang SC','Source Han Sans SC',sans-serif" role="img" aria-label="模拟｜基准情景的三类现金从哪里来？">
+<rect width="800" height="400" fill="#ffffff"/>
+<text x="16" y="24" font-size="15" font-weight="600" fill="#111827">模拟｜基准情景的三类现金从哪里来？</text>
+<text x="16" y="42" font-size="11" fill="#6b7280">λ=1、a=1；3 组复核种子均值；现金按实际付款计入，囤抽消耗不重复计收</text>
+<line x1="64" x2="650" y1="352.0" y2="352.0" stroke="#e5e7eb"/>
+<text x="58" y="356.0" font-size="10" text-anchor="end" fill="#6b7280">0</text>
+<line x1="64" x2="650" y1="279.8" y2="279.8" stroke="#e5e7eb"/>
+<text x="58" y="283.8" font-size="10" text-anchor="end" fill="#6b7280">25</text>
+<line x1="64" x2="650" y1="207.5" y2="207.5" stroke="#e5e7eb"/>
+<text x="58" y="211.5" font-size="10" text-anchor="end" fill="#6b7280">50</text>
+<line x1="64" x2="650" y1="135.3" y2="135.3" stroke="#e5e7eb"/>
+<text x="58" y="139.3" font-size="10" text-anchor="end" fill="#6b7280">75</text>
+<line x1="64" x2="650" y1="63.0" y2="63.0" stroke="#e5e7eb"/>
+<text x="58" y="67.0" font-size="10" text-anchor="end" fill="#6b7280">100</text>
+<text x="110.3" y="368" font-size="10" text-anchor="middle" fill="#6b7280">2.5</text>
+<text x="187.4" y="368" font-size="10" text-anchor="middle" fill="#6b7280">5</text>
+<text x="264.5" y="368" font-size="10" text-anchor="middle" fill="#6b7280">7.5</text>
+<text x="341.6" y="368" font-size="10" text-anchor="middle" fill="#6b7280">10</text>
+<text x="418.7" y="368" font-size="10" text-anchor="middle" fill="#6b7280">12.5</text>
+<text x="495.8" y="368" font-size="10" text-anchor="middle" fill="#6b7280">15</text>
+<text x="572.9" y="368" font-size="10" text-anchor="middle" fill="#6b7280">17.5</text>
+<text x="650.0" y="368" font-size="10" text-anchor="middle" fill="#6b7280">20</text>
+<line x1="64" x2="650" y1="352" y2="352" stroke="#6b7280"/>
+<text x="357" y="390" font-size="11" text-anchor="middle" fill="#6b7280">物理期数（每期 42 天）</text>
+<text x="14" y="204" font-size="11" fill="#6b7280" transform="rotate(-90 14 204)" text-anchor="middle">累计现金（万元）</text>
+<path d="M64.0,320.5 L94.8,293.7 L125.7,277.0 L156.5,277.0 L187.4,273.0 L218.2,269.4 L249.1,269.4 L279.9,267.0 L310.7,264.4 L341.6,262.5 L372.4,258.7 L403.3,254.6 L434.1,247.9 L464.9,247.9 L495.8,246.0 L526.6,243.9 L557.5,243.9 L588.3,242.7 L619.2,241.9 L650.0,240.1" fill="none" stroke="#2563eb" stroke-width="2"/>
+<circle cx="64.0" cy="320.5" r="2.5" fill="#2563eb"/>
+<circle cx="94.8" cy="293.7" r="2.5" fill="#2563eb"/>
+<circle cx="125.7" cy="277.0" r="2.5" fill="#2563eb"/>
+<circle cx="156.5" cy="277.0" r="2.5" fill="#2563eb"/>
+<circle cx="187.4" cy="273.0" r="2.5" fill="#2563eb"/>
+<circle cx="218.2" cy="269.4" r="2.5" fill="#2563eb"/>
+<circle cx="249.1" cy="269.4" r="2.5" fill="#2563eb"/>
+<circle cx="279.9" cy="267.0" r="2.5" fill="#2563eb"/>
+<circle cx="310.7" cy="264.4" r="2.5" fill="#2563eb"/>
+<circle cx="341.6" cy="262.5" r="2.5" fill="#2563eb"/>
+<circle cx="372.4" cy="258.7" r="2.5" fill="#2563eb"/>
+<circle cx="403.3" cy="254.6" r="2.5" fill="#2563eb"/>
+<circle cx="434.1" cy="247.9" r="2.5" fill="#2563eb"/>
+<circle cx="464.9" cy="247.9" r="2.5" fill="#2563eb"/>
+<circle cx="495.8" cy="246.0" r="2.5" fill="#2563eb"/>
+<circle cx="526.6" cy="243.9" r="2.5" fill="#2563eb"/>
+<circle cx="557.5" cy="243.9" r="2.5" fill="#2563eb"/>
+<circle cx="588.3" cy="242.7" r="2.5" fill="#2563eb"/>
+<circle cx="619.2" cy="241.9" r="2.5" fill="#2563eb"/>
+<circle cx="650.0" cy="240.1" r="2.5" fill="#2563eb"/>
+<rect x="658" y="62" width="10" height="3" fill="#2563eb"/>
+<text x="672" y="67" font-size="10" fill="#111827">新主 C 池直购</text>
+<path d="M64.0,352.0 L94.8,352.0 L125.7,352.0 L156.5,351.3 L187.4,351.3 L218.2,351.3 L249.1,351.0 L279.9,351.0 L310.7,351.0 L341.6,351.0 L372.4,351.0 L403.3,351.0 L434.1,351.0 L464.9,350.8 L495.8,350.8 L526.6,350.8 L557.5,350.7 L588.3,350.7 L619.2,350.7 L650.0,350.7" fill="none" stroke="#d97706" stroke-width="2"/>
+<circle cx="64.0" cy="352.0" r="2.5" fill="#d97706"/>
+<circle cx="94.8" cy="352.0" r="2.5" fill="#d97706"/>
+<circle cx="125.7" cy="352.0" r="2.5" fill="#d97706"/>
+<circle cx="156.5" cy="351.3" r="2.5" fill="#d97706"/>
+<circle cx="187.4" cy="351.3" r="2.5" fill="#d97706"/>
+<circle cx="218.2" cy="351.3" r="2.5" fill="#d97706"/>
+<circle cx="249.1" cy="351.0" r="2.5" fill="#d97706"/>
+<circle cx="279.9" cy="351.0" r="2.5" fill="#d97706"/>
+<circle cx="310.7" cy="351.0" r="2.5" fill="#d97706"/>
+<circle cx="341.6" cy="351.0" r="2.5" fill="#d97706"/>
+<circle cx="372.4" cy="351.0" r="2.5" fill="#d97706"/>
+<circle cx="403.3" cy="351.0" r="2.5" fill="#d97706"/>
+<circle cx="434.1" cy="351.0" r="2.5" fill="#d97706"/>
+<circle cx="464.9" cy="350.8" r="2.5" fill="#d97706"/>
+<circle cx="495.8" cy="350.8" r="2.5" fill="#d97706"/>
+<circle cx="526.6" cy="350.8" r="2.5" fill="#d97706"/>
+<circle cx="557.5" cy="350.7" r="2.5" fill="#d97706"/>
+<circle cx="588.3" cy="350.7" r="2.5" fill="#d97706"/>
+<circle cx="619.2" cy="350.7" r="2.5" fill="#d97706"/>
+<circle cx="650.0" cy="350.7" r="2.5" fill="#d97706"/>
+<rect x="658" y="78" width="10" height="3" fill="#d97706"/>
+<text x="672" y="83" font-size="10" fill="#111827">专拐池直购</text>
+<path d="M64.0,335.5 L94.8,319.1 L125.7,302.8 L156.5,286.8 L187.4,272.2 L218.2,257.4 L249.1,242.9 L279.9,228.9 L310.7,215.2 L341.6,201.6 L372.4,188.1 L403.3,174.7 L434.1,161.3 L464.9,148.0 L495.8,134.9 L526.6,121.8 L557.5,108.8 L588.3,96.0 L619.2,83.0 L650.0,70.1" fill="none" stroke="#059669" stroke-width="2"/>
+<circle cx="64.0" cy="335.5" r="2.5" fill="#059669"/>
+<circle cx="94.8" cy="319.1" r="2.5" fill="#059669"/>
+<circle cx="125.7" cy="302.8" r="2.5" fill="#059669"/>
+<circle cx="156.5" cy="286.8" r="2.5" fill="#059669"/>
+<circle cx="187.4" cy="272.2" r="2.5" fill="#059669"/>
+<circle cx="218.2" cy="257.4" r="2.5" fill="#059669"/>
+<circle cx="249.1" cy="242.9" r="2.5" fill="#059669"/>
+<circle cx="279.9" cy="228.9" r="2.5" fill="#059669"/>
+<circle cx="310.7" cy="215.2" r="2.5" fill="#059669"/>
+<circle cx="341.6" cy="201.6" r="2.5" fill="#059669"/>
+<circle cx="372.4" cy="188.1" r="2.5" fill="#059669"/>
+<circle cx="403.3" cy="174.7" r="2.5" fill="#059669"/>
+<circle cx="434.1" cy="161.3" r="2.5" fill="#059669"/>
+<circle cx="464.9" cy="148.0" r="2.5" fill="#059669"/>
+<circle cx="495.8" cy="134.9" r="2.5" fill="#059669"/>
+<circle cx="526.6" cy="121.8" r="2.5" fill="#059669"/>
+<circle cx="557.5" cy="108.8" r="2.5" fill="#059669"/>
+<circle cx="588.3" cy="96.0" r="2.5" fill="#059669"/>
+<circle cx="619.2" cy="83.0" r="2.5" fill="#059669"/>
+<circle cx="650.0" cy="70.1" r="2.5" fill="#059669"/>
+<rect x="658" y="94" width="10" height="3" fill="#059669"/>
+<text x="672" y="99" font-size="10" fill="#111827">月卡续订</text>
+</svg>

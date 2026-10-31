@@ -1,0 +1,36 @@
+{
+  "schema_version": "1.0.0",
+  "model_version": "population_v1",
+  "n_players": 3000,
+  "tiers": [
+    {
+      "id": "Budget_0",
+      "share": 0.4,
+      "paid_pulls_per_standard_span": 0,
+      "subscribed": false
+    },
+    {
+      "id": "Budget_40",
+      "share": 0.4,
+      "paid_pulls_per_standard_span": 40,
+      "subscribed": true
+    },
+    {
+      "id": "Budget_160",
+      "share": 0.15,
+      "paid_pulls_per_standard_span": 160,
+      "subscribed": true
+    },
+    {
+      "id": "Budget_500",
+      "share": 0.05,
+      "paid_pulls_per_standard_span": 500,
+      "subscribed": true
+    }
+  ],
+  "core_retention_tier": "Budget_40",
+  "allow_new_players": false,
+  "allow_return": false,
+  "provenance": "scenario_assumed"
+}
+

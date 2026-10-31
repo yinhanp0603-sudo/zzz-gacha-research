@@ -1,0 +1,394 @@
+{
+  "schema_version": "1.0.0",
+  "design_version": "1.1.0",
+  "default_profile": "config/experiment.json",
+  "modules": [
+    {
+      "id": "M-SCOPE",
+      "version": "1.0.0",
+      "title": "项目范围与证据边界",
+      "document": "docs/design/modules/scope.md",
+      "dependencies": [],
+      "configuration_files": [],
+      "legacy_sections": [
+        0,
+        17
+      ],
+      "api_version": "1.0.0",
+      "requires_contract": "1.x",
+      "consumes_outputs_of": []
+    },
+    {
+      "id": "M-SOURCE",
+      "version": "1.0.0",
+      "title": "外部来源与许可",
+      "document": "docs/design/modules/provenance.md",
+      "dependencies": [
+        "M-CONTRACT"
+      ],
+      "configuration_files": [],
+      "legacy_sections": [
+        1
+      ],
+      "api_version": "1.0.0",
+      "requires_contract": "1.x",
+      "consumes_outputs_of": []
+    },
+    {
+      "id": "M-CONTRACT",
+      "version": "1.1.0",
+      "title": "公共类型、时间与运行身份",
+      "document": "docs/design/modules/contracts.md",
+      "dependencies": [],
+      "configuration_files": [],
+      "legacy_sections": [
+        2
+      ],
+      "api_version": "1.1.0",
+      "requires_contract": "1.x",
+      "consumes_outputs_of": []
+    },
+    {
+      "id": "M-OBS",
+      "version": "1.0.1",
+      "title": "公开样本观测",
+      "document": "docs/design/modules/observations.md",
+      "dependencies": [
+        "M-CONTRACT",
+        "M-SOURCE"
+      ],
+      "configuration_files": [],
+      "legacy_sections": [
+        3
+      ],
+      "api_version": "1.0.0",
+      "requires_contract": "1.x",
+      "consumes_outputs_of": []
+    },
+    {
+      "id": "M-COMBAT",
+      "version": "1.0.1",
+      "title": "战斗代理与固定基准",
+      "document": "docs/design/modules/combat.md",
+      "dependencies": [
+        "M-CONTRACT"
+      ],
+      "configuration_files": [
+        "config/modules/combat.json"
+      ],
+      "legacy_sections": [
+        4
+      ],
+      "api_version": "1.0.0",
+      "requires_contract": "1.x",
+      "consumes_outputs_of": [
+        "M-CONFIG"
+      ]
+    },
+    {
+      "id": "M-CONFIG",
+      "version": "1.0.2",
+      "title": "配置、商品与情景",
+      "document": "docs/design/modules/scenario_config.md",
+      "dependencies": [
+        "M-CONTRACT",
+        "M-RNG"
+      ],
+      "configuration_files": [
+        "config/experiment.json",
+        "config/modules/population.json",
+        "config/modules/scenarios.json"
+      ],
+      "legacy_sections": [
+        5
+      ],
+      "api_version": "1.0.0",
+      "requires_contract": "1.x",
+      "consumes_outputs_of": []
+    },
+    {
+      "id": "M-GACHA",
+      "version": "1.0.0",
+      "title": "概率与单抽状态机",
+      "document": "docs/design/modules/gacha.md",
+      "dependencies": [
+        "M-CONTRACT"
+      ],
+      "configuration_files": [
+        "config/modules/gacha.json"
+      ],
+      "legacy_sections": [
+        6
+      ],
+      "api_version": "1.0.0",
+      "requires_contract": "1.x",
+      "consumes_outputs_of": []
+    },
+    {
+      "id": "M-WALLET",
+      "version": "1.0.1",
+      "title": "钱包与现金账",
+      "document": "docs/design/modules/wallet.md",
+      "dependencies": [
+        "M-CONTRACT"
+      ],
+      "configuration_files": [
+        "config/modules/economy.json"
+      ],
+      "legacy_sections": [
+        7
+      ],
+      "api_version": "1.0.0",
+      "requires_contract": "1.x",
+      "consumes_outputs_of": []
+    },
+    {
+      "id": "M-BEHAVIOR",
+      "version": "1.0.1",
+      "title": "购买效用与生命周期",
+      "document": "docs/design/modules/behavior.md",
+      "dependencies": [
+        "M-CONTRACT"
+      ],
+      "configuration_files": [
+        "config/modules/behavior.json"
+      ],
+      "legacy_sections": [
+        "8.2",
+        "8.4"
+      ],
+      "api_version": "1.0.0",
+      "requires_contract": "1.x",
+      "consumes_outputs_of": [
+        "M-PLANNER",
+        "M-COMBAT"
+      ]
+    },
+    {
+      "id": "M-PLANNER",
+      "version": "1.0.1",
+      "title": "决策前期望规划",
+      "document": "docs/design/modules/planner.md",
+      "dependencies": [
+        "M-CONTRACT",
+        "M-GACHA",
+        "M-COMBAT"
+      ],
+      "configuration_files": [],
+      "legacy_sections": [
+        "8.3"
+      ],
+      "api_version": "1.0.0",
+      "requires_contract": "1.x",
+      "consumes_outputs_of": [
+        "M-ROSTER",
+        "M-WALLET"
+      ]
+    },
+    {
+      "id": "M-RNG",
+      "version": "1.0.1",
+      "title": "事件索引公共随机数",
+      "document": "docs/design/modules/randomness.md",
+      "dependencies": [
+        "M-CONTRACT"
+      ],
+      "configuration_files": [
+        "config/modules/randomness.json"
+      ],
+      "legacy_sections": [
+        9
+      ],
+      "api_version": "1.0.0",
+      "requires_contract": "1.x",
+      "consumes_outputs_of": []
+    },
+    {
+      "id": "M-ROSTER",
+      "version": "1.0.1",
+      "title": "资产、库存与配置冻结",
+      "document": "docs/design/modules/roster.md",
+      "dependencies": [
+        "M-CONTRACT"
+      ],
+      "configuration_files": [],
+      "legacy_sections": [],
+      "api_version": "1.0.0",
+      "requires_contract": "1.x",
+      "consumes_outputs_of": [
+        "M-GACHA",
+        "M-CONFIG"
+      ]
+    },
+    {
+      "id": "M-RUNTIME",
+      "version": "1.0.1",
+      "title": "六步编排与状态提交",
+      "document": "docs/design/modules/runtime.md",
+      "dependencies": [
+        "M-CONTRACT",
+        "M-COMBAT",
+        "M-GACHA",
+        "M-WALLET",
+        "M-ROSTER",
+        "M-PLANNER",
+        "M-BEHAVIOR",
+        "M-RNG"
+      ],
+      "configuration_files": [],
+      "legacy_sections": [
+        "8.1"
+      ],
+      "api_version": "1.0.0",
+      "requires_contract": "1.x",
+      "consumes_outputs_of": [
+        "M-CONFIG"
+      ]
+    },
+    {
+      "id": "M-STORAGE",
+      "version": "1.0.1",
+      "title": "数据表与持久化",
+      "document": "docs/design/modules/storage.md",
+      "dependencies": [
+        "M-CONTRACT"
+      ],
+      "configuration_files": [],
+      "legacy_sections": [
+        10
+      ],
+      "api_version": "1.0.0",
+      "requires_contract": "1.x",
+      "consumes_outputs_of": [
+        "M-OBS",
+        "M-COMBAT",
+        "M-RUNTIME"
+      ]
+    },
+    {
+      "id": "M-STATS",
+      "version": "1.0.1",
+      "title": "统计口径与生存描述",
+      "document": "docs/design/modules/statistics.md",
+      "dependencies": [
+        "M-CONTRACT",
+        "M-STORAGE"
+      ],
+      "configuration_files": [],
+      "legacy_sections": [
+        11
+      ],
+      "api_version": "1.0.0",
+      "requires_contract": "1.x",
+      "consumes_outputs_of": [
+        "M-OBS",
+        "M-COMBAT",
+        "M-STORAGE",
+        "M-RUNTIME"
+      ]
+    },
+    {
+      "id": "M-SEARCH",
+      "version": "1.0.1",
+      "title": "搜索与稳健性",
+      "document": "docs/design/modules/experiments.md",
+      "dependencies": [
+        "M-CONTRACT",
+        "M-RUNTIME",
+        "M-STORAGE",
+        "M-STATS"
+      ],
+      "configuration_files": [
+        "config/modules/experiments.json"
+      ],
+      "legacy_sections": [
+        12
+      ],
+      "api_version": "1.0.0",
+      "requires_contract": "1.x",
+      "consumes_outputs_of": [
+        "M-CONFIG",
+        "M-RUNTIME",
+        "M-STATS"
+      ]
+    },
+    {
+      "id": "M-ENGINEERING",
+      "version": "1.0.1",
+      "title": "目录、接口与实施里程碑",
+      "document": "docs/design/modules/engineering.md",
+      "dependencies": [
+        "M-CONFIG",
+        "M-OBS",
+        "M-RUNTIME",
+        "M-STORAGE",
+        "M-STATS",
+        "M-SEARCH",
+        "M-PRESENTATION"
+      ],
+      "configuration_files": [],
+      "legacy_sections": [
+        13,
+        16
+      ],
+      "api_version": "1.0.0",
+      "requires_contract": "1.x",
+      "consumes_outputs_of": []
+    },
+    {
+      "id": "M-PRESENTATION",
+      "version": "1.0.1",
+      "title": "报告与看板",
+      "document": "docs/design/modules/presentation.md",
+      "dependencies": [
+        "M-CONTRACT",
+        "M-STORAGE",
+        "M-STATS",
+        "M-SEARCH"
+      ],
+      "configuration_files": [],
+      "legacy_sections": [
+        14
+      ],
+      "api_version": "1.0.0",
+      "requires_contract": "1.x",
+      "consumes_outputs_of": [
+        "M-OBS",
+        "M-COMBAT",
+        "M-STATS",
+        "M-SEARCH"
+      ]
+    },
+    {
+      "id": "M-VALIDATION",
+      "version": "1.0.0",
+      "title": "验证与性能",
+      "document": "docs/design/modules/validation.md",
+      "dependencies": [
+        "M-CONFIG",
+        "M-OBS",
+        "M-COMBAT",
+        "M-GACHA",
+        "M-WALLET",
+        "M-ROSTER",
+        "M-PLANNER",
+        "M-BEHAVIOR",
+        "M-RNG",
+        "M-RUNTIME",
+        "M-STORAGE",
+        "M-STATS",
+        "M-SEARCH",
+        "M-PRESENTATION"
+      ],
+      "configuration_files": [],
+      "legacy_sections": [
+        15
+      ],
+      "api_version": "1.0.0",
+      "requires_contract": "1.x",
+      "consumes_outputs_of": []
+    }
+  ],
+  "legacy_archive": "docs/design/archive/full_spec_v1.0.md",
+  "contract_version": "1.1.0"
+}

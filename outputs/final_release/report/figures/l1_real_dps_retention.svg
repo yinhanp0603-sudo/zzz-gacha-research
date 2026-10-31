@@ -1,0 +1,303 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400" width="800" height="400" font-family="'Noto Sans CJK SC','Microsoft YaHei','PingFang SC','Source Han Sans SC',sans-serif" role="img" aria-label="实证｜真实主C的危局出场占比相对自身峰值">
+<rect width="800" height="400" fill="#ffffff"/>
+<text x="16" y="24" font-size="15" font-weight="600" fill="#111827">实证｜真实主C的危局出场占比相对自身峰值</text>
+<text x="16" y="42" font-size="11" fill="#6b7280">分母为当期合法完整三人记录；曲线为含当期的 3 期滑动均值，Δt 从首次进入危局合格样本起算，每期约 14 天</text>
+<line x1="64" x2="650" y1="352.0" y2="352.0" stroke="#e5e7eb"/>
+<text x="58" y="356.0" font-size="10" text-anchor="end" fill="#6b7280">0</text>
+<line x1="64" x2="650" y1="292.8" y2="292.8" stroke="#e5e7eb"/>
+<text x="58" y="296.8" font-size="10" text-anchor="end" fill="#6b7280">20</text>
+<line x1="64" x2="650" y1="233.6" y2="233.6" stroke="#e5e7eb"/>
+<text x="58" y="237.6" font-size="10" text-anchor="end" fill="#6b7280">40</text>
+<line x1="64" x2="650" y1="174.4" y2="174.4" stroke="#e5e7eb"/>
+<text x="58" y="178.4" font-size="10" text-anchor="end" fill="#6b7280">60</text>
+<line x1="64" x2="650" y1="115.2" y2="115.2" stroke="#e5e7eb"/>
+<text x="58" y="119.2" font-size="10" text-anchor="end" fill="#6b7280">80</text>
+<line x1="64" x2="650" y1="56.0" y2="56.0" stroke="#e5e7eb"/>
+<text x="58" y="60.0" font-size="10" text-anchor="end" fill="#6b7280">100</text>
+<text x="64.0" y="368" font-size="10" text-anchor="middle" fill="#6b7280">0</text>
+<text x="150.2" y="368" font-size="10" text-anchor="middle" fill="#6b7280">5</text>
+<text x="236.4" y="368" font-size="10" text-anchor="middle" fill="#6b7280">10</text>
+<text x="322.5" y="368" font-size="10" text-anchor="middle" fill="#6b7280">15</text>
+<text x="408.7" y="368" font-size="10" text-anchor="middle" fill="#6b7280">20</text>
+<text x="494.9" y="368" font-size="10" text-anchor="middle" fill="#6b7280">25</text>
+<text x="581.1" y="368" font-size="10" text-anchor="middle" fill="#6b7280">30</text>
+<line x1="64" x2="650" y1="352" y2="352" stroke="#6b7280"/>
+<text x="357" y="390" font-size="11" text-anchor="middle" fill="#6b7280">距首发的危局赛季数 Δt</text>
+<text x="14" y="204" font-size="11" fill="#6b7280" transform="rotate(-90 14 204)" text-anchor="middle">出场占比 / 自身峰值（%）</text>
+<line x1="64" x2="650" y1="204.0" y2="204.0" stroke="#111827" stroke-width="1" stroke-dasharray="5,4"/>
+<text x="654" y="208.0" font-size="10" fill="#111827">半衰线 50%</text>
+<line x1="64" x2="650" y1="278.0" y2="278.0" stroke="#111827" stroke-width="1" stroke-dasharray="2,3"/>
+<text x="654" y="282.0" font-size="10" fill="#111827">25% 线</text>
+<path d="M64.0,76.2 L81.2,75.7 L98.5,138.0 L115.7,131.3 L132.9,206.6 L150.2,207.4 L167.4,244.6 L184.6,227.2 L201.9,216.0 L219.1,266.3 L236.4,292.6 L253.6,302.7 L270.8,311.7 L288.1,315.6 L305.3,344.0 L322.5,343.0 L339.8,320.3 L357.0,318.4 L374.2,313.3 L391.5,339.0 L408.7,340.3 L425.9,337.3 L443.2,330.9 L460.4,330.5 L477.6,337.6 L494.9,339.8 L512.1,331.5 L529.4,327.2 L546.6,329.9 L563.8,339.6 L581.1,340.5 L598.3,334.0 L615.5,328.7 L632.8,333.4 L650.0,336.1" fill="none" stroke="#2563eb" stroke-width="2"/>
+<circle cx="64.0" cy="76.2" r="2.5" fill="#2563eb"/>
+<circle cx="81.2" cy="75.7" r="2.5" fill="#2563eb"/>
+<circle cx="98.5" cy="138.0" r="2.5" fill="#2563eb"/>
+<circle cx="115.7" cy="131.3" r="2.5" fill="#2563eb"/>
+<circle cx="132.9" cy="206.6" r="2.5" fill="#2563eb"/>
+<circle cx="150.2" cy="207.4" r="2.5" fill="#2563eb"/>
+<circle cx="167.4" cy="244.6" r="2.5" fill="#2563eb"/>
+<circle cx="184.6" cy="227.2" r="2.5" fill="#2563eb"/>
+<circle cx="201.9" cy="216.0" r="2.5" fill="#2563eb"/>
+<circle cx="219.1" cy="266.3" r="2.5" fill="#2563eb"/>
+<circle cx="236.4" cy="292.6" r="2.5" fill="#2563eb"/>
+<circle cx="253.6" cy="302.7" r="2.5" fill="#2563eb"/>
+<circle cx="270.8" cy="311.7" r="2.5" fill="#2563eb"/>
+<circle cx="288.1" cy="315.6" r="2.5" fill="#2563eb"/>
+<circle cx="305.3" cy="344.0" r="2.5" fill="#2563eb"/>
+<circle cx="322.5" cy="343.0" r="2.5" fill="#2563eb"/>
+<circle cx="339.8" cy="320.3" r="2.5" fill="#2563eb"/>
+<circle cx="357.0" cy="318.4" r="2.5" fill="#2563eb"/>
+<circle cx="374.2" cy="313.3" r="2.5" fill="#2563eb"/>
+<circle cx="391.5" cy="339.0" r="2.5" fill="#2563eb"/>
+<circle cx="408.7" cy="340.3" r="2.5" fill="#2563eb"/>
+<circle cx="425.9" cy="337.3" r="2.5" fill="#2563eb"/>
+<circle cx="443.2" cy="330.9" r="2.5" fill="#2563eb"/>
+<circle cx="460.4" cy="330.5" r="2.5" fill="#2563eb"/>
+<circle cx="477.6" cy="337.6" r="2.5" fill="#2563eb"/>
+<circle cx="494.9" cy="339.8" r="2.5" fill="#2563eb"/>
+<circle cx="512.1" cy="331.5" r="2.5" fill="#2563eb"/>
+<circle cx="529.4" cy="327.2" r="2.5" fill="#2563eb"/>
+<circle cx="546.6" cy="329.9" r="2.5" fill="#2563eb"/>
+<circle cx="563.8" cy="339.6" r="2.5" fill="#2563eb"/>
+<circle cx="581.1" cy="340.5" r="2.5" fill="#2563eb"/>
+<circle cx="598.3" cy="334.0" r="2.5" fill="#2563eb"/>
+<circle cx="615.5" cy="328.7" r="2.5" fill="#2563eb"/>
+<circle cx="632.8" cy="333.4" r="2.5" fill="#2563eb"/>
+<circle cx="650.0" cy="336.1" r="2.5" fill="#2563eb"/>
+<rect x="658" y="62" width="10" height="3" fill="#2563eb"/>
+<text x="672" y="67" font-size="10" fill="#111827">艾莲</text>
+<path d="M64.0,302.9 L81.2,179.5 L98.5,141.5 L115.7,105.5 L132.9,174.8 L150.2,184.3 L167.4,155.2 L184.6,115.3 L201.9,186.3 L219.1,233.2 L236.4,216.6 L253.6,200.1 L270.8,202.0 L288.1,261.8 L305.3,281.6 L322.5,305.4 L339.8,325.2 L357.0,328.8 L374.2,334.1 L391.5,333.6 L408.7,337.4 L425.9,338.9 L443.2,341.3 L460.4,343.8 L477.6,336.7 L494.9,288.5 L512.1,288.8 L529.4,295.4 L546.6,346.4 L563.8,342.9 L581.1,341.9 L598.3,338.5" fill="none" stroke="#d97706" stroke-width="2"/>
+<circle cx="64.0" cy="302.9" r="2.5" fill="#d97706"/>
+<circle cx="81.2" cy="179.5" r="2.5" fill="#d97706"/>
+<circle cx="98.5" cy="141.5" r="2.5" fill="#d97706"/>
+<circle cx="115.7" cy="105.5" r="2.5" fill="#d97706"/>
+<circle cx="132.9" cy="174.8" r="2.5" fill="#d97706"/>
+<circle cx="150.2" cy="184.3" r="2.5" fill="#d97706"/>
+<circle cx="167.4" cy="155.2" r="2.5" fill="#d97706"/>
+<circle cx="184.6" cy="115.3" r="2.5" fill="#d97706"/>
+<circle cx="201.9" cy="186.3" r="2.5" fill="#d97706"/>
+<circle cx="219.1" cy="233.2" r="2.5" fill="#d97706"/>
+<circle cx="236.4" cy="216.6" r="2.5" fill="#d97706"/>
+<circle cx="253.6" cy="200.1" r="2.5" fill="#d97706"/>
+<circle cx="270.8" cy="202.0" r="2.5" fill="#d97706"/>
+<circle cx="288.1" cy="261.8" r="2.5" fill="#d97706"/>
+<circle cx="305.3" cy="281.6" r="2.5" fill="#d97706"/>
+<circle cx="322.5" cy="305.4" r="2.5" fill="#d97706"/>
+<circle cx="339.8" cy="325.2" r="2.5" fill="#d97706"/>
+<circle cx="357.0" cy="328.8" r="2.5" fill="#d97706"/>
+<circle cx="374.2" cy="334.1" r="2.5" fill="#d97706"/>
+<circle cx="391.5" cy="333.6" r="2.5" fill="#d97706"/>
+<circle cx="408.7" cy="337.4" r="2.5" fill="#d97706"/>
+<circle cx="425.9" cy="338.9" r="2.5" fill="#d97706"/>
+<circle cx="443.2" cy="341.3" r="2.5" fill="#d97706"/>
+<circle cx="460.4" cy="343.8" r="2.5" fill="#d97706"/>
+<circle cx="477.6" cy="336.7" r="2.5" fill="#d97706"/>
+<circle cx="494.9" cy="288.5" r="2.5" fill="#d97706"/>
+<circle cx="512.1" cy="288.8" r="2.5" fill="#d97706"/>
+<circle cx="529.4" cy="295.4" r="2.5" fill="#d97706"/>
+<circle cx="546.6" cy="346.4" r="2.5" fill="#d97706"/>
+<circle cx="563.8" cy="342.9" r="2.5" fill="#d97706"/>
+<circle cx="581.1" cy="341.9" r="2.5" fill="#d97706"/>
+<circle cx="598.3" cy="338.5" r="2.5" fill="#d97706"/>
+<rect x="658" y="78" width="10" height="3" fill="#d97706"/>
+<text x="672" y="83" font-size="10" fill="#111827">伊芙琳</text>
+<path d="M64.0,56.0 L81.2,118.1 L98.5,110.4 L115.7,169.5 L132.9,199.7 L150.2,255.2 L167.4,262.8 L184.6,236.7 L201.9,230.3 L219.1,239.0 L236.4,237.3 L253.6,200.5 L270.8,157.4 L288.1,184.9 L305.3,244.2 L322.5,256.8 L339.8,231.7 L357.0,194.3 L374.2,241.9 L391.5,285.6 L408.7,327.2 L425.9,328.1 L443.2,329.1 L460.4,338.2 L477.6,339.2 L494.9,330.6 L512.1,306.9 L529.4,282.2 L546.6,276.3 L563.8,226.6 L581.1,200.5 L598.3,164.9 L615.5,184.4 L632.8,175.2 L650.0,204.6" fill="none" stroke="#059669" stroke-width="2"/>
+<circle cx="64.0" cy="56.0" r="2.5" fill="#059669"/>
+<circle cx="81.2" cy="118.1" r="2.5" fill="#059669"/>
+<circle cx="98.5" cy="110.4" r="2.5" fill="#059669"/>
+<circle cx="115.7" cy="169.5" r="2.5" fill="#059669"/>
+<circle cx="132.9" cy="199.7" r="2.5" fill="#059669"/>
+<circle cx="150.2" cy="255.2" r="2.5" fill="#059669"/>
+<circle cx="167.4" cy="262.8" r="2.5" fill="#059669"/>
+<circle cx="184.6" cy="236.7" r="2.5" fill="#059669"/>
+<circle cx="201.9" cy="230.3" r="2.5" fill="#059669"/>
+<circle cx="219.1" cy="239.0" r="2.5" fill="#059669"/>
+<circle cx="236.4" cy="237.3" r="2.5" fill="#059669"/>
+<circle cx="253.6" cy="200.5" r="2.5" fill="#059669"/>
+<circle cx="270.8" cy="157.4" r="2.5" fill="#059669"/>
+<circle cx="288.1" cy="184.9" r="2.5" fill="#059669"/>
+<circle cx="305.3" cy="244.2" r="2.5" fill="#059669"/>
+<circle cx="322.5" cy="256.8" r="2.5" fill="#059669"/>
+<circle cx="339.8" cy="231.7" r="2.5" fill="#059669"/>
+<circle cx="357.0" cy="194.3" r="2.5" fill="#059669"/>
+<circle cx="374.2" cy="241.9" r="2.5" fill="#059669"/>
+<circle cx="391.5" cy="285.6" r="2.5" fill="#059669"/>
+<circle cx="408.7" cy="327.2" r="2.5" fill="#059669"/>
+<circle cx="425.9" cy="328.1" r="2.5" fill="#059669"/>
+<circle cx="443.2" cy="329.1" r="2.5" fill="#059669"/>
+<circle cx="460.4" cy="338.2" r="2.5" fill="#059669"/>
+<circle cx="477.6" cy="339.2" r="2.5" fill="#059669"/>
+<circle cx="494.9" cy="330.6" r="2.5" fill="#059669"/>
+<circle cx="512.1" cy="306.9" r="2.5" fill="#059669"/>
+<circle cx="529.4" cy="282.2" r="2.5" fill="#059669"/>
+<circle cx="546.6" cy="276.3" r="2.5" fill="#059669"/>
+<circle cx="563.8" cy="226.6" r="2.5" fill="#059669"/>
+<circle cx="581.1" cy="200.5" r="2.5" fill="#059669"/>
+<circle cx="598.3" cy="164.9" r="2.5" fill="#059669"/>
+<circle cx="615.5" cy="184.4" r="2.5" fill="#059669"/>
+<circle cx="632.8" cy="175.2" r="2.5" fill="#059669"/>
+<circle cx="650.0" cy="204.6" r="2.5" fill="#059669"/>
+<rect x="658" y="94" width="10" height="3" fill="#059669"/>
+<text x="672" y="99" font-size="10" fill="#111827">简</text>
+<path d="M64.0,92.1 L81.2,84.7 L98.5,82.4 L115.7,70.4 L132.9,73.7 L150.2,80.0 L167.4,102.2 L184.6,106.4 L201.9,105.1 L219.1,108.4 L236.4,121.7 L253.6,130.3 L270.8,166.8 L288.1,161.0 L305.3,165.2 L322.5,165.8 L339.8,182.2 L357.0,228.1 L374.2,199.0 L391.5,192.5 L408.7,206.6 L425.9,210.1 L443.2,255.9 L460.4,221.1 L477.6,229.6 L494.9,219.6 L512.1,232.3 L529.4,265.9 L546.6,262.1 L563.8,248.0 L581.1,254.2 L598.3,245.8 L615.5,283.4 L632.8,287.6 L650.0,291.0" fill="none" stroke="#dc2626" stroke-width="2"/>
+<circle cx="64.0" cy="92.1" r="2.5" fill="#dc2626"/>
+<circle cx="81.2" cy="84.7" r="2.5" fill="#dc2626"/>
+<circle cx="98.5" cy="82.4" r="2.5" fill="#dc2626"/>
+<circle cx="115.7" cy="70.4" r="2.5" fill="#dc2626"/>
+<circle cx="132.9" cy="73.7" r="2.5" fill="#dc2626"/>
+<circle cx="150.2" cy="80.0" r="2.5" fill="#dc2626"/>
+<circle cx="167.4" cy="102.2" r="2.5" fill="#dc2626"/>
+<circle cx="184.6" cy="106.4" r="2.5" fill="#dc2626"/>
+<circle cx="201.9" cy="105.1" r="2.5" fill="#dc2626"/>
+<circle cx="219.1" cy="108.4" r="2.5" fill="#dc2626"/>
+<circle cx="236.4" cy="121.7" r="2.5" fill="#dc2626"/>
+<circle cx="253.6" cy="130.3" r="2.5" fill="#dc2626"/>
+<circle cx="270.8" cy="166.8" r="2.5" fill="#dc2626"/>
+<circle cx="288.1" cy="161.0" r="2.5" fill="#dc2626"/>
+<circle cx="305.3" cy="165.2" r="2.5" fill="#dc2626"/>
+<circle cx="322.5" cy="165.8" r="2.5" fill="#dc2626"/>
+<circle cx="339.8" cy="182.2" r="2.5" fill="#dc2626"/>
+<circle cx="357.0" cy="228.1" r="2.5" fill="#dc2626"/>
+<circle cx="374.2" cy="199.0" r="2.5" fill="#dc2626"/>
+<circle cx="391.5" cy="192.5" r="2.5" fill="#dc2626"/>
+<circle cx="408.7" cy="206.6" r="2.5" fill="#dc2626"/>
+<circle cx="425.9" cy="210.1" r="2.5" fill="#dc2626"/>
+<circle cx="443.2" cy="255.9" r="2.5" fill="#dc2626"/>
+<circle cx="460.4" cy="221.1" r="2.5" fill="#dc2626"/>
+<circle cx="477.6" cy="229.6" r="2.5" fill="#dc2626"/>
+<circle cx="494.9" cy="219.6" r="2.5" fill="#dc2626"/>
+<circle cx="512.1" cy="232.3" r="2.5" fill="#dc2626"/>
+<circle cx="529.4" cy="265.9" r="2.5" fill="#dc2626"/>
+<circle cx="546.6" cy="262.1" r="2.5" fill="#dc2626"/>
+<circle cx="563.8" cy="248.0" r="2.5" fill="#dc2626"/>
+<circle cx="581.1" cy="254.2" r="2.5" fill="#dc2626"/>
+<circle cx="598.3" cy="245.8" r="2.5" fill="#dc2626"/>
+<circle cx="615.5" cy="283.4" r="2.5" fill="#dc2626"/>
+<circle cx="632.8" cy="287.6" r="2.5" fill="#dc2626"/>
+<circle cx="650.0" cy="291.0" r="2.5" fill="#dc2626"/>
+<rect x="658" y="110" width="10" height="3" fill="#dc2626"/>
+<text x="672" y="115" font-size="10" fill="#111827">星见雅</text>
+<path d="M64.0,262.1 L81.2,159.1 L98.5,133.8 L115.7,67.3 L132.9,151.8 L150.2,205.3 L167.4,294.5 L184.6,291.8 L201.9,242.1 L219.1,165.2 L236.4,88.1 L253.6,79.0 L270.8,146.7 L288.1,229.3 L305.3,294.7 L322.5,302.1 L339.8,253.2 L357.0,275.0 L374.2,221.2 L391.5,245.5 L408.7,250.4 L425.9,267.4 L443.2,300.1 L460.4,295.8 L477.6,338.2 L494.9,316.7 L512.1,319.7 L529.4,318.6 L546.6,321.3 L563.8,309.2 L581.1,298.6" fill="none" stroke="#7c3aed" stroke-width="2"/>
+<circle cx="64.0" cy="262.1" r="2.5" fill="#7c3aed"/>
+<circle cx="81.2" cy="159.1" r="2.5" fill="#7c3aed"/>
+<circle cx="98.5" cy="133.8" r="2.5" fill="#7c3aed"/>
+<circle cx="115.7" cy="67.3" r="2.5" fill="#7c3aed"/>
+<circle cx="132.9" cy="151.8" r="2.5" fill="#7c3aed"/>
+<circle cx="150.2" cy="205.3" r="2.5" fill="#7c3aed"/>
+<circle cx="167.4" cy="294.5" r="2.5" fill="#7c3aed"/>
+<circle cx="184.6" cy="291.8" r="2.5" fill="#7c3aed"/>
+<circle cx="201.9" cy="242.1" r="2.5" fill="#7c3aed"/>
+<circle cx="219.1" cy="165.2" r="2.5" fill="#7c3aed"/>
+<circle cx="236.4" cy="88.1" r="2.5" fill="#7c3aed"/>
+<circle cx="253.6" cy="79.0" r="2.5" fill="#7c3aed"/>
+<circle cx="270.8" cy="146.7" r="2.5" fill="#7c3aed"/>
+<circle cx="288.1" cy="229.3" r="2.5" fill="#7c3aed"/>
+<circle cx="305.3" cy="294.7" r="2.5" fill="#7c3aed"/>
+<circle cx="322.5" cy="302.1" r="2.5" fill="#7c3aed"/>
+<circle cx="339.8" cy="253.2" r="2.5" fill="#7c3aed"/>
+<circle cx="357.0" cy="275.0" r="2.5" fill="#7c3aed"/>
+<circle cx="374.2" cy="221.2" r="2.5" fill="#7c3aed"/>
+<circle cx="391.5" cy="245.5" r="2.5" fill="#7c3aed"/>
+<circle cx="408.7" cy="250.4" r="2.5" fill="#7c3aed"/>
+<circle cx="425.9" cy="267.4" r="2.5" fill="#7c3aed"/>
+<circle cx="443.2" cy="300.1" r="2.5" fill="#7c3aed"/>
+<circle cx="460.4" cy="295.8" r="2.5" fill="#7c3aed"/>
+<circle cx="477.6" cy="338.2" r="2.5" fill="#7c3aed"/>
+<circle cx="494.9" cy="316.7" r="2.5" fill="#7c3aed"/>
+<circle cx="512.1" cy="319.7" r="2.5" fill="#7c3aed"/>
+<circle cx="529.4" cy="318.6" r="2.5" fill="#7c3aed"/>
+<circle cx="546.6" cy="321.3" r="2.5" fill="#7c3aed"/>
+<circle cx="563.8" cy="309.2" r="2.5" fill="#7c3aed"/>
+<circle cx="581.1" cy="298.6" r="2.5" fill="#7c3aed"/>
+<rect x="658" y="126" width="10" height="3" fill="#7c3aed"/>
+<text x="672" y="131" font-size="10" fill="#111827">零号·安比</text>
+<path d="M64.0,77.9 L81.2,82.3 L98.5,76.7 L115.7,71.0 L132.9,112.8 L150.2,110.8 L167.4,135.9 L184.6,97.8 L201.9,104.9 L219.1,95.8 L236.4,81.9 L253.6,110.4 L270.8,140.9 L288.1,169.7 L305.3,156.6 L322.5,137.3 L339.8,137.3 L357.0,171.9" fill="none" stroke="#0891b2" stroke-width="2"/>
+<circle cx="64.0" cy="77.9" r="2.5" fill="#0891b2"/>
+<circle cx="81.2" cy="82.3" r="2.5" fill="#0891b2"/>
+<circle cx="98.5" cy="76.7" r="2.5" fill="#0891b2"/>
+<circle cx="115.7" cy="71.0" r="2.5" fill="#0891b2"/>
+<circle cx="132.9" cy="112.8" r="2.5" fill="#0891b2"/>
+<circle cx="150.2" cy="110.8" r="2.5" fill="#0891b2"/>
+<circle cx="167.4" cy="135.9" r="2.5" fill="#0891b2"/>
+<circle cx="184.6" cy="97.8" r="2.5" fill="#0891b2"/>
+<circle cx="201.9" cy="104.9" r="2.5" fill="#0891b2"/>
+<circle cx="219.1" cy="95.8" r="2.5" fill="#0891b2"/>
+<circle cx="236.4" cy="81.9" r="2.5" fill="#0891b2"/>
+<circle cx="253.6" cy="110.4" r="2.5" fill="#0891b2"/>
+<circle cx="270.8" cy="140.9" r="2.5" fill="#0891b2"/>
+<circle cx="288.1" cy="169.7" r="2.5" fill="#0891b2"/>
+<circle cx="305.3" cy="156.6" r="2.5" fill="#0891b2"/>
+<circle cx="322.5" cy="137.3" r="2.5" fill="#0891b2"/>
+<circle cx="339.8" cy="137.3" r="2.5" fill="#0891b2"/>
+<circle cx="357.0" cy="171.9" r="2.5" fill="#0891b2"/>
+<rect x="658" y="142" width="10" height="3" fill="#0891b2"/>
+<text x="672" y="147" font-size="10" fill="#111827">叶瞬光</text>
+<path d="M64.0,250.2 L81.2,180.4 L98.5,139.0 L115.7,96.8 L132.9,84.5 L150.2,141.0 L167.4,124.1 L184.6,134.2 L201.9,89.1 L219.1,110.4 L236.4,110.8 L253.6,110.0 L270.8,109.0 L288.1,99.9 L305.3,141.7 L322.5,140.7 L339.8,190.6 L357.0,198.4 L374.2,213.5 L391.5,206.7 L408.7,211.5 L425.9,252.2 L443.2,234.9 L460.4,255.4 L477.6,252.7 L494.9,294.0 L512.1,294.1" fill="none" stroke="#be185d" stroke-width="2"/>
+<circle cx="64.0" cy="250.2" r="2.5" fill="#be185d"/>
+<circle cx="81.2" cy="180.4" r="2.5" fill="#be185d"/>
+<circle cx="98.5" cy="139.0" r="2.5" fill="#be185d"/>
+<circle cx="115.7" cy="96.8" r="2.5" fill="#be185d"/>
+<circle cx="132.9" cy="84.5" r="2.5" fill="#be185d"/>
+<circle cx="150.2" cy="141.0" r="2.5" fill="#be185d"/>
+<circle cx="167.4" cy="124.1" r="2.5" fill="#be185d"/>
+<circle cx="184.6" cy="134.2" r="2.5" fill="#be185d"/>
+<circle cx="201.9" cy="89.1" r="2.5" fill="#be185d"/>
+<circle cx="219.1" cy="110.4" r="2.5" fill="#be185d"/>
+<circle cx="236.4" cy="110.8" r="2.5" fill="#be185d"/>
+<circle cx="253.6" cy="110.0" r="2.5" fill="#be185d"/>
+<circle cx="270.8" cy="109.0" r="2.5" fill="#be185d"/>
+<circle cx="288.1" cy="99.9" r="2.5" fill="#be185d"/>
+<circle cx="305.3" cy="141.7" r="2.5" fill="#be185d"/>
+<circle cx="322.5" cy="140.7" r="2.5" fill="#be185d"/>
+<circle cx="339.8" cy="190.6" r="2.5" fill="#be185d"/>
+<circle cx="357.0" cy="198.4" r="2.5" fill="#be185d"/>
+<circle cx="374.2" cy="213.5" r="2.5" fill="#be185d"/>
+<circle cx="391.5" cy="206.7" r="2.5" fill="#be185d"/>
+<circle cx="408.7" cy="211.5" r="2.5" fill="#be185d"/>
+<circle cx="425.9" cy="252.2" r="2.5" fill="#be185d"/>
+<circle cx="443.2" cy="234.9" r="2.5" fill="#be185d"/>
+<circle cx="460.4" cy="255.4" r="2.5" fill="#be185d"/>
+<circle cx="477.6" cy="252.7" r="2.5" fill="#be185d"/>
+<circle cx="494.9" cy="294.0" r="2.5" fill="#be185d"/>
+<circle cx="512.1" cy="294.1" r="2.5" fill="#be185d"/>
+<rect x="658" y="158" width="10" height="3" fill="#be185d"/>
+<text x="672" y="163" font-size="10" fill="#111827">仪玄</text>
+<path d="M64.0,65.1 L81.2,60.6 L98.5,62.5 L115.7,87.1 L132.9,113.1 L150.2,177.0 L167.4,168.0 L184.6,208.9 L201.9,203.0 L219.1,266.0 L236.4,287.0 L253.6,315.8 L270.8,324.4 L288.1,332.7 L305.3,336.7 L322.5,343.5 L339.8,339.8 L357.0,343.4 L374.2,343.0 L391.5,348.1 L408.7,348.4 L425.9,349.6 L443.2,349.9 L460.4,350.1 L477.6,350.9 L494.9,351.5 L512.1,350.6 L529.4,350.7 L546.6,350.7 L563.8,351.3 L581.1,350.8 L598.3,350.7 L615.5,351.0 L632.8,351.4 L650.0,351.6" fill="none" stroke="#4b5563" stroke-width="2"/>
+<circle cx="64.0" cy="65.1" r="2.5" fill="#4b5563"/>
+<circle cx="81.2" cy="60.6" r="2.5" fill="#4b5563"/>
+<circle cx="98.5" cy="62.5" r="2.5" fill="#4b5563"/>
+<circle cx="115.7" cy="87.1" r="2.5" fill="#4b5563"/>
+<circle cx="132.9" cy="113.1" r="2.5" fill="#4b5563"/>
+<circle cx="150.2" cy="177.0" r="2.5" fill="#4b5563"/>
+<circle cx="167.4" cy="168.0" r="2.5" fill="#4b5563"/>
+<circle cx="184.6" cy="208.9" r="2.5" fill="#4b5563"/>
+<circle cx="201.9" cy="203.0" r="2.5" fill="#4b5563"/>
+<circle cx="219.1" cy="266.0" r="2.5" fill="#4b5563"/>
+<circle cx="236.4" cy="287.0" r="2.5" fill="#4b5563"/>
+<circle cx="253.6" cy="315.8" r="2.5" fill="#4b5563"/>
+<circle cx="270.8" cy="324.4" r="2.5" fill="#4b5563"/>
+<circle cx="288.1" cy="332.7" r="2.5" fill="#4b5563"/>
+<circle cx="305.3" cy="336.7" r="2.5" fill="#4b5563"/>
+<circle cx="322.5" cy="343.5" r="2.5" fill="#4b5563"/>
+<circle cx="339.8" cy="339.8" r="2.5" fill="#4b5563"/>
+<circle cx="357.0" cy="343.4" r="2.5" fill="#4b5563"/>
+<circle cx="374.2" cy="343.0" r="2.5" fill="#4b5563"/>
+<circle cx="391.5" cy="348.1" r="2.5" fill="#4b5563"/>
+<circle cx="408.7" cy="348.4" r="2.5" fill="#4b5563"/>
+<circle cx="425.9" cy="349.6" r="2.5" fill="#4b5563"/>
+<circle cx="443.2" cy="349.9" r="2.5" fill="#4b5563"/>
+<circle cx="460.4" cy="350.1" r="2.5" fill="#4b5563"/>
+<circle cx="477.6" cy="350.9" r="2.5" fill="#4b5563"/>
+<circle cx="494.9" cy="351.5" r="2.5" fill="#4b5563"/>
+<circle cx="512.1" cy="350.6" r="2.5" fill="#4b5563"/>
+<circle cx="529.4" cy="350.7" r="2.5" fill="#4b5563"/>
+<circle cx="546.6" cy="350.7" r="2.5" fill="#4b5563"/>
+<circle cx="563.8" cy="351.3" r="2.5" fill="#4b5563"/>
+<circle cx="581.1" cy="350.8" r="2.5" fill="#4b5563"/>
+<circle cx="598.3" cy="350.7" r="2.5" fill="#4b5563"/>
+<circle cx="615.5" cy="351.0" r="2.5" fill="#4b5563"/>
+<circle cx="632.8" cy="351.4" r="2.5" fill="#4b5563"/>
+<circle cx="650.0" cy="351.6" r="2.5" fill="#4b5563"/>
+<rect x="658" y="174" width="10" height="3" fill="#4b5563"/>
+<text x="672" y="179" font-size="10" fill="#111827">朱鸢</text>
+</svg>

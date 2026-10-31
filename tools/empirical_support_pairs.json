@@ -1,0 +1,28 @@
+{
+  "definition": "Prespecified component comparisons; component status is observed equipment and roster membership, not ownership or purchase.",
+  "signatures": {
+    "Ye Shunguang": {"weapon": "Cloudcleave Radiance", "source_url": "https://senseos.gg/wiki/zenless-zone-zero/w-engines/cloudcleave-radiance/"},
+    "Yixuan": {"weapon": "Qingming Birdcage", "source_url": "https://zenless-zone-zero.fandom.com/wiki/Yixuan"},
+    "Miyabi": {"weapon": "Hailstorm Shrine", "source_url": "https://zenless-zone-zero.fandom.com/wiki/Hoshimi_Miyabi"},
+    "Seed": {"weapon": "Cordis Germina", "source_url": "https://zenless-zone-zero.fandom.com/wiki/Cordis_Germina"},
+    "Aria": {"weapon": "Angel in the Shell", "source_url": "https://www.prydwen.gg/zenless/characters/aria"},
+    "Nangong Yu": {"weapon": "Neon Fantasies", "source_url": "https://metammo.com/zenless-zone-zero-guide/agents/nangong-yu"},
+    "Yidhari": {"weapon": "Kraken's Cradle", "source_url": "https://zenless-zone-zero.fandom.com/wiki/Yidhari_Murphy"},
+    "Remielle": {"weapon": "Ode of Resurrected Wings", "source_url": "https://www.icy-veins.com/zenless-zone-zero/w-engines/14158"},
+    "Claret": {"weapon": "Crimson Thirst", "source_url": "https://www.prydwen.gg/zenless/characters/claret"}
+  },
+  "pairs": {
+    "Ye Shunguang": ["Zhao", "Sunna"],
+    "Yixuan": ["Lucia", "Pan Yinhu"],
+    "Miyabi": ["Yuzuha", "Astra Yao"],
+    "Seed": ["Cissia"],
+    "Aria": ["Sunna"],
+    "Nangong Yu": ["Sunna"],
+    "Yidhari": ["Lucia", "Pan Yinhu"],
+    "Remielle": ["Velina"],
+    "Claret": ["Roxy"]
+  },
+  "stable_descriptive_min_per_arm": 20,
+  "baseline_rule": "No listed component. Replacement is A/Standard S/Free S or a support/subdps released before the earliest target component. Fixed-third design additionally requires the replacement and target to share official specialty.",
+  "not_controlled": ["disc substats", "weapon level and overclock", "skill levels", "support investment", "player execution", "team gold cost", "equipment changes between the battle and collection"]
+}

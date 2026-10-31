@@ -1,0 +1,113 @@
+{
+  "status": "completed",
+  "release_date": "2026-10-28",
+  "completed_at_utc": "2026-10-28T11:15:52.008680+00:00",
+  "base_config_id": "201e32cee97caef9497448020d7b43e13065e268548a5e3e089d879f87f29964",
+  "B_ref_first": 126.875,
+  "players": 200,
+  "intervals": 10,
+  "layers": {
+    "layer1": {
+      "action": "preserved_original_files_no_import_no_download",
+      "n_battles": 4013856,
+      "n_eligible": 2876445,
+      "files_preserved": 11,
+      "file_identity_size_mtime_unchanged": true,
+      "historical_import_seconds": 1878.0
+    },
+    "layer2": {
+      "action": "rebuilt_from_frozen_config"
+    },
+    "layer3": {
+      "action": "reaggregated_three_existing_full_reference_runs",
+      "reference_summaries": [
+        {
+          "config_id": "0ed763da27a9ed1802cb1bdd9a937f6f532502534cec637f8c23d6938326199f",
+          "run_id": "4064609bccb27ff99b3bc24a535b0b906a069672e96e8f9ab0d01094be8b7e52",
+          "scenario": "Ref_HP",
+          "seed": 1101,
+          "n_players": 200,
+          "path": "outputs/final_release/reference/Ref_HP_seed1101.sqlite",
+          "overrides": {
+            "population.n_players": 200,
+            "experiments.base_scenario": "Ref_HP"
+          },
+          "total_revenue_fen": 17334400,
+          "core_retention_end": 0.4657534246575342,
+          "retention_end_all": 0.435,
+          "core_initial": 73
+        },
+        {
+          "config_id": "34e357bd9bae89548dfb2ad778d7c74bbf0c74ca4f6c6e16728ad9af946efb4d",
+          "run_id": "c208ea77e6d7633e4d5f80ac7352907b5e64ecbb3a4a7afafade3e2d3e06b498",
+          "scenario": "Ref_Mechanism",
+          "seed": 1101,
+          "n_players": 200,
+          "path": "outputs/final_release/reference/Ref_Mechanism_seed1101.sqlite",
+          "overrides": {
+            "population.n_players": 200,
+            "experiments.base_scenario": "Ref_Mechanism"
+          },
+          "total_revenue_fen": 19154000,
+          "core_retention_end": 0.8082191780821918,
+          "retention_end_all": 0.73,
+          "core_initial": 73
+        },
+        {
+          "config_id": "f97afa50a600c0b5272f3e3c597bc550010fea532b2b60af244e294166c4a0d9",
+          "run_id": "a2ec5fa0e9cdf51712d23a4cbcea095e1c2749fa4cb70a47599fefb267863344",
+          "scenario": "Ref_Support",
+          "seed": 1101,
+          "n_players": 200,
+          "path": "outputs/final_release/reference/Ref_Support_seed1101.sqlite",
+          "overrides": {
+            "population.n_players": 200,
+            "experiments.base_scenario": "Ref_Support"
+          },
+          "total_revenue_fen": 19676000,
+          "core_retention_end": 0.8493150684931506,
+          "retention_end_all": 0.78,
+          "core_initial": 73
+        }
+      ]
+    },
+    "search": {
+      "action": "reexported_from_existing_merged_database",
+      "experiment_id": "search_9a1dba50e1f4",
+      "completed_runs_reused": 650
+    }
+  },
+  "protection_checks": {
+    "data": true,
+    "config": true,
+    "src/zzz_research": true,
+    "tests": true,
+    "docs/design": true
+  },
+  "regenerated_csvs_equal_to_latest_source": 26,
+  "tests": {
+    "command": ".\\.venv\\Scripts\\python.exe -m pytest -q",
+    "passed": 314,
+    "seconds": 35.63,
+    "exit_code": 0
+  },
+  "presentation_checks": {
+    "report_sections": 7,
+    "valid_svg_files": 10,
+    "readme_link_targets": 14,
+    "active_manifest_paths": 11
+  },
+  "archive": ".archive_trash/release_2026-10-28",
+  "movement_log": ".archive_trash/release_2026-10-28/directory_cleanup.json",
+  "path_mappings": {
+    "outputs/benchmark_n200": "outputs/final_release",
+    "outputs/benchmark_n200/verification": ".archive_trash/release_2026-10-28/source_verification",
+    "outputs/benchmark_n200_refresh_201e32cee97c": ".archive_trash/release_2026-10-28/old_outputs/benchmark_n200_refresh_201e32cee97c"
+  },
+  "import_manifest_note": "Imported observation files are retained verbatim; their original absolute path is historical and resolves through path_mappings.",
+  "scientific_evidence": {
+    "prior_checks": ".archive_trash/release_2026-10-28/source_verification/calibrated_final_checks.json",
+    "prior_database_audit": ".archive_trash/release_2026-10-28/source_verification/database_audit.json"
+  },
+  "source_change": "report.py reproducibility commands now reuse existing artifacts; numerical model, config, tests and module design were not changed."
+}

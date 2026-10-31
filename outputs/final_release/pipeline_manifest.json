@@ -1,0 +1,145 @@
+{
+  "pipeline_version": "pipeline_v1",
+  "created_at": "2026-10-28T05:49:19+00:00",
+  "environment": {
+    "python": "3.12.3",
+    "platform": "Windows-10-10.0.19045-SP0"
+  },
+  "stages": {
+    "validate_config": {
+      "status": "completed",
+      "started_at": "2026-10-28T11:12:39+00:00",
+      "ended_at": "2026-10-28T11:12:39+00:00",
+      "wall_seconds": 0.012,
+      "config_id": "201e32cee97caef9497448020d7b43e13065e268548a5e3e089d879f87f29964",
+      "n_parameters": 149,
+      "n_periods": 10,
+      "n_units": 13
+    },
+    "build_benchmarks": {
+      "status": "completed",
+      "started_at": "2026-10-28T11:12:39+00:00",
+      "ended_at": "2026-10-28T11:12:40+00:00",
+      "wall_seconds": 1.227,
+      "config_id": "201e32cee97caef9497448020d7b43e13065e268548a5e3e089d879f87f29964",
+      "n_panel_rows": 4860,
+      "n_pairs": 2160,
+      "n_reference_obs": 792,
+      "n_km_groups": 18,
+      "path": "outputs/final_release/benchmarks/benchmarks.sqlite"
+    },
+    "prepare_observations": {
+      "status": "completed",
+      "data_status": "imported_with_issues",
+      "started_at": "2026-10-27T19:40:43+00:00",
+      "ended_at": "2026-10-27T20:12:01+00:00",
+      "wall_seconds": 1878.0,
+      "n_collection_periods": 49,
+      "n_periods_complete": 48,
+      "n_battles": 4013856,
+      "n_eligible": 2876445,
+      "n_scopes": 81,
+      "n_import_batches": 81,
+      "snapshot_id": "SHIYU_HF_324c95d5fb05",
+      "revision": "324c95d5fb05961fa8926168de8768acc8500c1b",
+      "data_license": "mit",
+      "quality_issues": [
+        "eligible_without_result:50795"
+      ],
+      "path": "outputs/final_release/observations/observations.sqlite",
+      "preserved_existing": true
+    },
+    "simulate_Ref_HP": {
+      "status": "completed",
+      "started_at": "2026-10-28T05:49:21+00:00",
+      "ended_at": "2026-10-28T05:49:30+00:00",
+      "wall_seconds": 9.493,
+      "config_id": "0ed763da27a9ed1802cb1bdd9a937f6f532502534cec637f8c23d6938326199f",
+      "run_id": "4064609bccb27ff99b3bc24a535b0b906a069672e96e8f9ab0d01094be8b7e52",
+      "n_players": 200,
+      "path": "outputs/final_release/reference/Ref_HP_seed1101.sqlite",
+      "reused_existing": true
+    },
+    "aggregate_Ref_HP": {
+      "status": "completed",
+      "started_at": "2026-10-28T11:12:40+00:00",
+      "ended_at": "2026-10-28T11:12:40+00:00",
+      "wall_seconds": 0.123,
+      "run_id": "4064609bccb27ff99b3bc24a535b0b906a069672e96e8f9ab0d01094be8b7e52",
+      "n_cohort_rows": 44
+    },
+    "simulate_Ref_Mechanism": {
+      "status": "completed",
+      "started_at": "2026-10-28T05:49:30+00:00",
+      "ended_at": "2026-10-28T05:49:41+00:00",
+      "wall_seconds": 10.993,
+      "config_id": "34e357bd9bae89548dfb2ad778d7c74bbf0c74ca4f6c6e16728ad9af946efb4d",
+      "run_id": "c208ea77e6d7633e4d5f80ac7352907b5e64ecbb3a4a7afafade3e2d3e06b498",
+      "n_players": 200,
+      "path": "outputs/final_release/reference/Ref_Mechanism_seed1101.sqlite",
+      "reused_existing": true
+    },
+    "aggregate_Ref_Mechanism": {
+      "status": "completed",
+      "started_at": "2026-10-28T11:12:40+00:00",
+      "ended_at": "2026-10-28T11:12:41+00:00",
+      "wall_seconds": 0.122,
+      "run_id": "c208ea77e6d7633e4d5f80ac7352907b5e64ecbb3a4a7afafade3e2d3e06b498",
+      "n_cohort_rows": 44
+    },
+    "simulate_Ref_Support": {
+      "status": "completed",
+      "started_at": "2026-10-28T05:49:41+00:00",
+      "ended_at": "2026-10-28T05:49:53+00:00",
+      "wall_seconds": 11.077,
+      "config_id": "f97afa50a600c0b5272f3e3c597bc550010fea532b2b60af244e294166c4a0d9",
+      "run_id": "a2ec5fa0e9cdf51712d23a4cbcea095e1c2749fa4cb70a47599fefb267863344",
+      "n_players": 200,
+      "path": "outputs/final_release/reference/Ref_Support_seed1101.sqlite",
+      "reused_existing": true
+    },
+    "aggregate_Ref_Support": {
+      "status": "completed",
+      "started_at": "2026-10-28T11:12:41+00:00",
+      "ended_at": "2026-10-28T11:12:41+00:00",
+      "wall_seconds": 0.127,
+      "run_id": "a2ec5fa0e9cdf51712d23a4cbcea095e1c2749fa4cb70a47599fefb267863344",
+      "n_cohort_rows": 44
+    },
+    "search": {
+      "status": "completed",
+      "started_at": "2026-10-28T05:49:53+00:00",
+      "ended_at": "2026-10-28T06:02:01+00:00",
+      "wall_seconds": 728.317,
+      "experiment_id": "search_9a1dba50e1f4",
+      "scale": "reduced_scale",
+      "n_logical_runs": 650,
+      "n_unique_runs": 650,
+      "reused_existing": true
+    },
+    "report": {
+      "status": "completed",
+      "started_at": "2026-10-28T11:12:41+00:00",
+      "ended_at": "2026-10-28T11:12:41+00:00",
+      "wall_seconds": 0.112,
+      "path": "outputs/final_release/report/REPORT.md",
+      "n_figures": 10
+    },
+    "dashboard": {
+      "status": "completed",
+      "started_at": "2026-10-28T11:12:41+00:00",
+      "ended_at": "2026-10-28T11:12:41+00:00",
+      "wall_seconds": 0.037,
+      "path": "outputs/final_release/dashboard/index.html"
+    },
+    "refresh_search_exports": {
+      "status": "completed",
+      "started_at": "2026-10-28T11:12:41+00:00",
+      "ended_at": "2026-10-28T11:12:41+00:00",
+      "wall_seconds": 0.035,
+      "experiment_id": "search_9a1dba50e1f4",
+      "n_unique_runs": 650,
+      "path": "outputs/final_release/search/search.sqlite"
+    }
+  }
+}

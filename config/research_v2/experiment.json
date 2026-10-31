@@ -1,0 +1,21 @@
+{
+  "schema_version": "1.0.0",
+  "profile_id": "fixed_cohort_research_v2",
+  "mode": "synthetic_scenario",
+  "modules": {
+    "combat": "modules/combat.json",
+    "gacha": "modules/gacha.json",
+    "economy": "modules/economy.json",
+    "population": "modules/population.json",
+    "behavior": "modules/behavior.json",
+    "scenarios": "modules/scenarios.json",
+    "randomness": "modules/randomness.json",
+    "experiments": "modules/experiments.json"
+  },
+  "execution": {
+    "log_mode": "full",
+    "output_root": "outputs/research_v2",
+    "allow_network_during_run": false
+  },
+  "description": "机制锁与售后支援：同供给、同价格、同基础膨胀路径的固定队列情景实验。"
+}

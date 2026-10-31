@@ -1,0 +1,28 @@
+{
+  "schema_version": "1.0.0",
+  "model_version": "wallet_v1",
+  "credit_minor_per_pull": 160,
+  "standard_span_days": 42,
+  "free_pulls_per_standard_span": 85,
+  "subscription": {
+    "renewal_days": 42,
+    "price_fen": 9800,
+    "grant_pulls_immediately": 40,
+    "unused_credit_rollover": true
+  },
+  "topup": {
+    "price_fen_per_pull": 1600,
+    "instant_whole_pull_only": true,
+    "balance_rollover": false
+  },
+  "spend_priority": [
+    "historical_free_fifo",
+    "current_free",
+    "subscription_fifo",
+    "instant_topup"
+  ],
+  "allow_mixed_existing_provenance_payment": true,
+  "paid_budget_rollover": false,
+  "provenance": "scenario_assumed"
+}
+

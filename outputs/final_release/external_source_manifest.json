@@ -1,0 +1,183 @@
+{
+  "schema": "source_manifest fields: source_id, url, revision, retrieved_at, sha256, license, coverage, status, usage, limits",
+  "retrieved_at": "2026-10-31",
+  "sources": [
+    {
+      "source_id": "SRC_REVENUE_TRACKER",
+      "name": "Gacha Revenue Tracker",
+      "url": "https://derkein.github.io/gacha-tracker-/#zzz",
+      "revision": "tracker data updated 2026-10-30",
+      "retrieved_at": "2026-10-31",
+      "sha256": null,
+      "license": "fan-made, non-commercial analytics view; figures are third-party estimates",
+      "coverage": "Zenless Zone Zero, 40 banners, game-i Japan per-banner estimate total ¥22.81B",
+      "status": "read_data_files",
+      "usage": "40-banner game-i JPY and Qimai China-iPhone USD per banner window, JP/CN best grossing rank; support vs main-C revenue ratios and the simulator revenue-structure benchmark",
+      "limits": "Japan mobile only; rebuilt from top-grossing ranks with day weights; excludes PC and the official payment-center top-up channel; double-UP banners share one window. Not a per-player spending truth.",
+      "tables": [
+        "external_gacha_banner_revenue.csv",
+        "external_banner_category_ratios.csv",
+        "external_sim_benchmarks.csv"
+      ],
+      "snapshot": "data/external/gacha_tracker_zzz_2026-10-31.json",
+      "url_data": [
+        "https://derkein.github.io/gacha-tracker-/data/zzz.json",
+        "https://derkein.github.io/gacha-tracker-/data/qimai.json",
+        "https://derkein.github.io/gacha-tracker-/data/ranks/cn_ios_series.json"
+      ]
+    },
+    {
+      "source_id": "SRC_GAMEI",
+      "name": "game-i (ゲーム・アプリ売上予測)",
+      "url": "https://game-i.daa.jp/",
+      "revision": null,
+      "retrieved_at": "2026-10-31",
+      "sha256": null,
+      "license": "third-party estimate",
+      "coverage": "Japan iOS/Google Play daily revenue estimate in yen, aggregated per banner by SRC_REVENUE_TRACKER",
+      "status": "referenced_via_SRC_REVENUE_TRACKER",
+      "usage": "underlying basis of the 40-banner JPY series",
+      "limits": "rank below ~200 counted as zero by the aggregator; Japan only"
+    },
+    {
+      "source_id": "SRC_QIMAI",
+      "name": "七麦数据 Qimai",
+      "url": "https://www.qimai.cn/",
+      "revision": null,
+      "retrieved_at": "2026-10-31",
+      "sha256": null,
+      "license": "third-party estimate",
+      "coverage": "China App Store (iPhone) daily grossing rank and USD estimate, surfaced as a layer of SRC_REVENUE_TRACKER",
+      "status": "read_via_SRC_REVENUE_TRACKER",
+      "usage": "China iPhone daily revenue estimate summed per banner window and best top-grossing rank (via tracker data files)",
+      "limits": "iPhone only, China only, model estimate; on overlapping banner days the tracker splits the day by game-i proportions"
+    },
+    {
+      "source_id": "SRC_SENSORTOWER",
+      "name": "Sensor Tower app overview",
+      "url": "https://app.sensortower.com/overview/6626a822a9cba85698402d6b/1606356401?country=WW",
+      "revision": null,
+      "retrieved_at": "2026-10-31",
+      "sha256": null,
+      "license": "commercial estimate",
+      "coverage": "worldwide monthly mobile revenue; per-banner split in SRC_REVENUE_TRACKER is an apportionment",
+      "status": "registered_not_used_for_numbers",
+      "usage": "monthly cross-check index only",
+      "limits": "per-banner figures are not reported by the source"
+    },
+    {
+      "source_id": "SRC_GACHAREVENUE",
+      "name": "GachaRevenue",
+      "url": "https://revenue.ennead.cc/revenue",
+      "revision": null,
+      "retrieved_at": "2026-10-31",
+      "sha256": null,
+      "license": "third-party estimate",
+      "coverage": "monthly gacha revenue summaries",
+      "status": "registered_not_used_for_numbers",
+      "usage": "monthly cross-check index only",
+      "limits": "monthly totals; not banner-level"
+    },
+    {
+      "source_id": "SRC_RNGMOE",
+      "name": "rng.moe Zenless Zone Zero global signal statistics",
+      "url": "https://zzz.rng.moe/en/tracker/global",
+      "revision": null,
+      "retrieved_at": "2026-10-31",
+      "sha256": null,
+      "license": "fan-made; see https://zzz.rng.moe/en/privacy",
+      "coverage": "26 limited agent banners and 26 W-Engine banners from 2024-07 to 2026-01 (statistics last updated 2026-01-30; later banners have no statistics while the tracker is in maintenance); standard channel 268,841 users",
+      "status": "read_public_api",
+      "usage": "per-banner users and total pulls, 50/50 outcomes, 5-star chance by pull number; anchors the simulated pity curve, W-Engine/agent pull ratio and support/main pull demand",
+      "limits": "opt-in contributors are engaged players; pulls include free currency; no spending amounts",
+      "snapshot": "data/external/rngmoe_zzz_global_2026-10-31.json",
+      "url_data": [
+        "https://zzz.rng.moe/api/v1/gacha/config?game=zzz",
+        "https://zzz.rng.moe/api/v1/gacha/global/{banner_id}?game=zzz"
+      ],
+      "tables": [
+        "external_rngmoe_banner_stats.csv",
+        "external_rngmoe_pity_curve.csv",
+        "external_sim_benchmarks.csv"
+      ]
+    },
+    {
+      "source_id": "SRC_STARDB",
+      "name": "StarDB ZZZ Signal Tracker",
+      "url": "https://stardb.gg/en/zzz/signal-tracker",
+      "revision": null,
+      "retrieved_at": "2026-10-31",
+      "sha256": null,
+      "license": "fan-made",
+      "coverage": "personal imported signal history with per-banner pity counters",
+      "status": "read_page",
+      "usage": "checked for global aggregates: the Signal Tracker shows only the signed-in user's imported history, so it provides no global statistics",
+      "limits": "personal view only"
+    },
+    {
+      "source_id": "SRC_LIT_TS_CHURN",
+      "name": "Fernández del Río, Guitart, Periáñez. A Time Series Approach To Player Churn and Conversion in Videogames. Intelligent Data Analysis 25(1):177–203, 2021 (arXiv:2003.10287)",
+      "url": "https://arxiv.org/abs/2003.10287",
+      "revision": "v1",
+      "retrieved_at": "2026-10-31",
+      "sha256": null,
+      "license": "arXiv",
+      "coverage": "Age of Ishtaria (mobile freemium RPG), 2014-09-25 to 2017-05-09, ~2.1M players, 33,194 payers",
+      "status": "read_page",
+      "usage": "behavior-model reference: login churn (9 days absent) and purchase churn (paying user with 50 days without purchase) are modelled as separate daily series with different event and calendar covariates",
+      "limits": "different game and market; supports the two-state structure, not any coefficient of this model"
+    },
+    {
+      "source_id": "SRC_LIT_F2P_CHURN",
+      "name": "Mustač, Bačić, Skorin-Kapov, Sužnjević. Predicting Player Churn of a Free-to-Play Mobile Video Game Using Supervised Machine Learning. Applied Sciences 12(6):2795, 2022",
+      "url": "https://www.mdpi.com/2076-3417/12/6/2795",
+      "revision": "doi:10.3390/app12062795",
+      "retrieved_at": "2026-10-31",
+      "sha256": null,
+      "license": "CC BY (MDPI open access)",
+      "coverage": "four years of player records of a multiple-choice storytelling F2P mobile game",
+      "status": "read_abstract",
+      "usage": "behavior-model reference for login churn as its own prediction target in F2P games",
+      "limits": "predicts player churn only; does not model purchase churn"
+    },
+    {
+      "source_id": "SRC_LIT_GACHA_SPENDING",
+      "name": "Lakić, Bernik, Čep. Addiction and Spending in Gacha Games. Information 14(7):399, 2023",
+      "url": "https://www.mdpi.com/2078-2489/14/7/399",
+      "revision": "doi:10.3390/info14070399",
+      "retrieved_at": "2026-10-31",
+      "sha256": null,
+      "license": "CC BY (MDPI open access)",
+      "coverage": "online survey of 713 gacha players (Reddit); 612 open answers on reasons for spending",
+      "status": "read_article",
+      "usage": "spending motives: unlock a character/weapon 77.7%, skins 39.3%, progress faster 20.5%, competitive advantage 5.8%; 53.8% spent for a limited-time character or weapon — evidence on gap-driven (M0) vs novelty/collection-driven (M2) purchase structure",
+      "limits": "self-selected Reddit sample, self-report, mixed gacha titles; 'unlock a character' does not separate attachment from strength"
+    },
+    {
+      "source_id": "SRC_KAGGLE_RETENTION",
+      "name": "Mobile Game Retention & Churn Analysis (Kaggle, rajatsurana979)",
+      "url": "https://www.kaggle.com/datasets/rajatsurana979/mobile-game-retention-and-churn-analysis",
+      "revision": null,
+      "retrieved_at": "2026-10-31",
+      "sha256": null,
+      "license": "Apache 2.0",
+      "coverage": "events.xlsx, 27,291 rows x 3 columns of daily user activity from an unnamed LiveOps mobile game",
+      "status": "assessed_not_used",
+      "usage": "none",
+      "limits": "no spending fields, no game identity or collection provenance, D1/D7/D30 scale does not map to 42-day periods of an existing cohort; download requires a Kaggle account"
+    },
+    {
+      "source_id": "SRC_FIGSHARE_SEARCH",
+      "name": "Figshare search for gacha spending / psychology survey data",
+      "url": "https://api.figshare.com/v2/articles/search",
+      "revision": "queries: gacha; gacha spending; loot box spending survey; microtransaction survey",
+      "retrieved_at": "2026-10-31",
+      "sha256": null,
+      "license": "n/a",
+      "coverage": "returns supplementary PDFs of Frontiers in Psychiatry 2026 (adolescent gacha players and problem gambling), a Hong Kong problem-gambling article and loot-box correlation tables; no respondent-level gacha spending motive data",
+      "status": "assessed_not_used",
+      "usage": "none",
+      "limits": "available items concern problem-gambling severity, not stop-paying vs quitting or purchase motives"
+    }
+  ]
+}

@@ -1,0 +1,877 @@
+{
+  "config_id": "38ac505e61920e78eff1d52043892dc6c48332f53843205867c7dbc87441c7f8",
+  "science": {
+    "algorithm_versions": {
+      "behavior.model_version": "behavior_v2_spending",
+      "combat.model_version": "proxy_v2_observed_anchor",
+      "config.canonicalization": "json_canonical_v1",
+      "contract": "1.1.0",
+      "economy.model_version": "wallet_v1",
+      "experiments.protocol_version": "fixed_cohort_policy_v2",
+      "gacha.curve_version": "assumed_empirical_v1",
+      "gacha.model_version": "gacha_v1",
+      "planner": "planner_dp_v2",
+      "population.model_version": "population_v1",
+      "randomness.event_key_version": "event_keys_v1",
+      "randomness.rng_version": "hash_counter_v1",
+      "runtime": "runtime_six_step_spending_v3",
+      "scenario_resolver": "scenario_resolve_v2_observed_anchor_assumed",
+      "scenarios.model_version": "scenario_v2_observed_anchor"
+    },
+    "canonicalization_version": "json_canonical_v1",
+    "contract_version": "1.1.0",
+    "input_digests": {
+      "behavior": "e241ee5d9a469ee728e602d29f3641c2d1731ec3047517df07af82b5d4cb064c",
+      "combat": "1ebf13a43f89c6c8dd6a4365eca7c73ec6def5272f265da77a5c2b55b22848d6",
+      "economy": "c82cdfd450433dbb84884ab8d5d9213076f44bb52592ccb8fccdd7a26b344e8f",
+      "experiments": "0d6623b0130db2ecd8291ebfd8ffbdae346d5491d2e9520593250345493d039e",
+      "gacha": "b9d6d307f5451365a4190f63dcd9ab24abd94dbfa27d00654905a2099a91cb17",
+      "population": "c6236f6f62f1ef4b7f615cec5da2d21f1b5d8b4a231351efc96a30e0ccbb35b1",
+      "randomness": "d148a2b8366ef900465fc9795949769acdeb1be288e592e8f80c9ea349772590",
+      "scenarios": "b5b6ea258612909b1ff74d05707a2876cc8bfa9bb6b4afbca48280d4dea7c5c7"
+    },
+    "mode": "synthetic_scenario",
+    "modules": {
+      "behavior": {
+        "churn": {
+          "base_hazard": 0.005,
+          "fatigue_sensitivity": 1.5
+        },
+        "comfort_threshold": 0.95,
+        "fatigue": {
+          "budget_weight": 0.2,
+          "decay_rate": 0.25,
+          "failure_span_cap": 3,
+          "failure_weight": 0.8,
+          "gap_weight": 2,
+          "max": 5,
+          "min": 0,
+          "success_recovery": 0.3
+        },
+        "full_star_threshold": 1,
+        "hoarding": {
+          "decay_base": 0.85,
+          "gap_weight": 0.25,
+          "max": 1,
+          "min": 0,
+          "success_recovery": 0.1
+        },
+        "initial": {
+          "failure_span": 0,
+          "fatigue": 0
+        },
+        "model_version": "behavior_v2_spending",
+        "research_v2": {
+          "spending": {
+            "subscription": {
+              "failure_weight": 0.35,
+              "fatigue_weight": 1.1,
+              "hoarding_weight": 0.3,
+              "intercept": 2.8,
+              "paid_failure_weight": 1.5,
+              "persistence_bonus": 0.8
+            },
+            "topup": {
+              "cost_weight": 1.2,
+              "failure_weight": 0.35,
+              "fatigue_weight": 0.9,
+              "gain_weight": 0.6,
+              "hoarding_weight": 0.6,
+              "intercept": 1.4,
+              "paid_failure_weight": 1.2,
+              "persistence_bonus": 0.6
+            }
+          }
+        },
+        "support_target": "support_body",
+        "temperature": 0.03,
+        "tier_policy": {
+          "Budget_0": {
+            "alpha": -3,
+            "dps_target": "0+1",
+            "initial_hoarding": 0.5
+          },
+          "Budget_160": {
+            "alpha": -2,
+            "dps_target": "2+1",
+            "initial_hoarding": 0.3
+          },
+          "Budget_40": {
+            "alpha": -2.5,
+            "dps_target": "0+1",
+            "initial_hoarding": 0.4
+          },
+          "Budget_500": {
+            "alpha": -1,
+            "dps_target": "2+1",
+            "initial_hoarding": 0.05
+          }
+        },
+        "utility": {
+          "beta_comfort": 2,
+          "beta_gain": 4,
+          "beta_hoarding": 2,
+          "beta_paid_cost": 2,
+          "beta_resource_cost": 1
+        }
+      },
+      "combat": {
+        "default_defense_reduction": {
+          "flat": 0,
+          "ratio": 0
+        },
+        "default_penetration": {
+          "flat": 0,
+          "ratio": 0
+        },
+        "gear_growth": {
+          "max_bonus": 0.16,
+          "time_constant_days": 84
+        },
+        "investment": {
+          "cinema_multipliers": [
+            1,
+            1.12,
+            1.25
+          ],
+          "signature_weapon_multiplier": 1.15
+        },
+        "model_version": "proxy_v2_observed_anchor",
+        "reference": {
+          "attacker_level": 60,
+          "attacker_level_coefficient": 794,
+          "enemy_defense": 952.8,
+          "hp_index": 100,
+          "time_limit_seconds": 120
+        },
+        "research_v2": {
+          "mechanism_strength": 1,
+          "mechanisms": {
+            "barrier": {
+              "penalty": 0.9
+            },
+            "defense": {
+              "penalty": 1
+            },
+            "window": {
+              "penalty": 0.32
+            }
+          },
+          "support_pairs": {
+            "DPS_01": {
+              "S_A": {
+                "match_lift": {
+                  "barrier": 0.15,
+                  "defense": 0.15,
+                  "window": 0.15
+                },
+                "net_gain": 0.23
+              },
+              "S_B": {
+                "match_lift": {
+                  "barrier": 0.15,
+                  "defense": 0.15,
+                  "window": 0.15
+                },
+                "net_gain": 0.23
+              }
+            },
+            "DPS_02": {
+              "S_A": {
+                "match_lift": {
+                  "barrier": 0.05,
+                  "defense": 0.05,
+                  "window": 0.05
+                },
+                "net_gain": 0.05
+              }
+            },
+            "DPS_03": {
+              "S_A": {
+                "match_lift": {
+                  "barrier": 0.15,
+                  "defense": 0.15,
+                  "window": 0.15
+                },
+                "net_gain": 0.23
+              },
+              "S_B": {
+                "match_lift": {
+                  "barrier": 0.15,
+                  "defense": 0.15,
+                  "window": 0.15
+                },
+                "net_gain": 0.23
+              }
+            },
+            "DPS_05": {
+              "S_B": {
+                "match_lift": {
+                  "barrier": 0.05,
+                  "defense": 0.05,
+                  "window": 0.05
+                },
+                "net_gain": 0.05
+              }
+            },
+            "DPS_06": {
+              "S_B": {
+                "match_lift": {
+                  "barrier": 0.15,
+                  "defense": 0.15,
+                  "window": 0.15
+                },
+                "net_gain": 0.23
+              }
+            },
+            "DPS_08": {
+              "S_C": {
+                "match_lift": {
+                  "barrier": 0.05,
+                  "defense": 0.05,
+                  "window": 0.05
+                },
+                "net_gain": 0.05
+              },
+              "S_D": {
+                "match_lift": {
+                  "barrier": 0.05,
+                  "defense": 0.05,
+                  "window": 0.05
+                },
+                "net_gain": 0.05
+              }
+            },
+            "DPS_09": {
+              "S_C": {
+                "match_lift": {
+                  "barrier": 0.15,
+                  "defense": 0.15,
+                  "window": 0.15
+                },
+                "net_gain": 0.23
+              },
+              "S_D": {
+                "match_lift": {
+                  "barrier": 0.15,
+                  "defense": 0.15,
+                  "window": 0.15
+                },
+                "net_gain": 0.23
+              }
+            },
+            "DPS_10": {
+              "S_C": {
+                "match_lift": {
+                  "barrier": 0.05,
+                  "defense": 0.05,
+                  "window": 0.05
+                },
+                "net_gain": 0.05
+              }
+            },
+            "DPS_11": {
+              "S_C": {
+                "match_lift": {
+                  "barrier": 0.15,
+                  "defense": 0.15,
+                  "window": 0.15
+                },
+                "net_gain": 0.23
+              },
+              "S_D": {
+                "match_lift": {
+                  "barrier": 0.15,
+                  "defense": 0.15,
+                  "window": 0.15
+                },
+                "net_gain": 0.23
+              }
+            },
+            "DPS_12": {
+              "S_C": {
+                "match_lift": {
+                  "barrier": 0.05,
+                  "defense": 0.05,
+                  "window": 0.05
+                },
+                "net_gain": 0.05
+              }
+            },
+            "DPS_13": {
+              "S_C": {
+                "match_lift": {
+                  "barrier": 0.15,
+                  "defense": 0.15,
+                  "window": 0.15
+                },
+                "net_gain": 0.23
+              },
+              "S_D": {
+                "match_lift": {
+                  "barrier": 0.15,
+                  "defense": 0.15,
+                  "window": 0.15
+                },
+                "net_gain": 0.23
+              }
+            },
+            "DPS_15": {
+              "S_D": {
+                "match_lift": {
+                  "barrier": 0.05,
+                  "defense": 0.05,
+                  "window": 0.05
+                },
+                "net_gain": 0.05
+              }
+            },
+            "DPS_16": {
+              "S_D": {
+                "match_lift": {
+                  "barrier": 0.15,
+                  "defense": 0.15,
+                  "window": 0.15
+                },
+                "net_gain": 0.23
+              }
+            }
+          },
+          "unit_profiles": {
+            "DPS_01": {
+              "affinities": {
+                "barrier": 0.1,
+                "defense": 0.75,
+                "window": 0.1
+              }
+            },
+            "DPS_02": {
+              "affinities": {
+                "barrier": 0.45,
+                "defense": 0.55,
+                "window": 0.45
+              }
+            },
+            "DPS_03": {
+              "affinities": {
+                "barrier": 0.1,
+                "defense": 0.75,
+                "window": 0.1
+              }
+            },
+            "DPS_05": {
+              "affinities": {
+                "barrier": 0.45,
+                "defense": 0.55,
+                "window": 0.45
+              }
+            },
+            "DPS_06": {
+              "affinities": {
+                "barrier": 0.1,
+                "defense": 0.1,
+                "window": 0.75
+              }
+            },
+            "DPS_08": {
+              "affinities": {
+                "barrier": 0.45,
+                "defense": 0.45,
+                "window": 0.55
+              }
+            },
+            "DPS_09": {
+              "affinities": {
+                "barrier": 0.1,
+                "defense": 0.1,
+                "window": 0.75
+              }
+            },
+            "DPS_10": {
+              "affinities": {
+                "barrier": 0.45,
+                "defense": 0.45,
+                "window": 0.55
+              }
+            },
+            "DPS_11": {
+              "affinities": {
+                "barrier": 0.75,
+                "defense": 0.1,
+                "window": 0.1
+              }
+            },
+            "DPS_12": {
+              "affinities": {
+                "barrier": 0.55,
+                "defense": 0.45,
+                "window": 0.45
+              }
+            },
+            "DPS_13": {
+              "affinities": {
+                "barrier": 0.75,
+                "defense": 0.1,
+                "window": 0.1
+              }
+            },
+            "DPS_15": {
+              "affinities": {
+                "barrier": 0.55,
+                "defense": 0.45,
+                "window": 0.45
+              }
+            },
+            "DPS_16": {
+              "affinities": {
+                "barrier": 0.1,
+                "defense": 0.75,
+                "window": 0.1
+              }
+            },
+            "DPS_18": {
+              "affinities": {
+                "barrier": 0.45,
+                "defense": 0.55,
+                "window": 0.45
+              }
+            },
+            "DPS_19": {
+              "affinities": {
+                "barrier": 0.1,
+                "defense": 0.75,
+                "window": 0.1
+              }
+            },
+            "DPS_20": {
+              "affinities": {
+                "barrier": 0.45,
+                "defense": 0.55,
+                "window": 0.45
+              }
+            },
+            "starter_dps": {
+              "affinities": {
+                "barrier": 0.15,
+                "defense": 0.15,
+                "window": 0.15
+              }
+            }
+          }
+        },
+        "shield": {
+          "alignment_values": [
+            0.7,
+            1,
+            1.3
+          ],
+          "damage_reduction": 0.25,
+          "default_alignment": 1,
+          "defense_bonus": 0.8
+        },
+        "support": {
+          "default_gain_scale": 1,
+          "gains": {
+            "S_A": 0.35,
+            "S_B": 0.45,
+            "S_C": 0.35,
+            "S_D": 0.45
+          }
+        }
+      },
+      "economy": {
+        "allow_mixed_existing_provenance_payment": true,
+        "credit_minor_per_pull": 160,
+        "free_pulls_per_standard_span": 85,
+        "model_version": "wallet_v1",
+        "paid_budget_rollover": false,
+        "spend_priority": [
+          "historical_free_fifo",
+          "current_free",
+          "subscription_fifo",
+          "instant_topup"
+        ],
+        "standard_span_days": 42,
+        "subscription": {
+          "grant_pulls_immediately": 40,
+          "price_fen": 9800,
+          "renewal_days": 42,
+          "unused_credit_rollover": true
+        },
+        "topup": {
+          "balance_rollover": false,
+          "instant_whole_pull_only": true,
+          "price_fen_per_pull": 1600
+        }
+      },
+      "experiments": {
+        "base_scenario": "Research",
+        "baseline_grid_point": {
+          "mechanism_strength": 1,
+          "support_gain_scale": 1
+        },
+        "grid": {
+          "mechanism_strength": [
+            0,
+            0.5,
+            1,
+            1.5,
+            2
+          ],
+          "support_gain_scale": [
+            0.8,
+            1,
+            1.2,
+            1.4,
+            1.6
+          ]
+        },
+        "pain_sensitivity": {
+          "factors": [
+            0.75,
+            1,
+            1.25
+          ],
+          "method": "one_factor_at_a_time",
+          "parameters": [
+            "behavior.fatigue.gap_weight",
+            "behavior.fatigue.failure_weight",
+            "behavior.fatigue.budget_weight"
+          ]
+        },
+        "protocol_version": "fixed_cohort_policy_v2"
+      },
+      "gacha": {
+        "curve_version": "assumed_empirical_v1",
+        "model_version": "gacha_v1",
+        "non_s_result": "NON_S",
+        "offrate_combat_enabled": false,
+        "pools": {
+          "character": {
+            "base_s_probability": 0.006,
+            "hard_pity": 90,
+            "pity_group": "limited_character",
+            "soft_increment": 0.06,
+            "soft_pity_start": 74,
+            "up_given_s": 0.5
+          },
+          "weapon": {
+            "base_s_probability": 0.01,
+            "hard_pity": 80,
+            "pity_group": "limited_weapon",
+            "soft_increment": 0.06,
+            "soft_pity_start": 65,
+            "up_given_s": 0.75
+          }
+        },
+        "target_paths": {
+          "0+0": [
+            "body"
+          ],
+          "0+1": [
+            "body",
+            "signature_weapon"
+          ],
+          "2+1": [
+            "body",
+            "signature_weapon",
+            "cinema_1",
+            "cinema_2"
+          ],
+          "support_body": [
+            "body"
+          ]
+        }
+      },
+      "population": {
+        "allow_new_players": false,
+        "allow_return": false,
+        "core_retention_tier": "Budget_40",
+        "model_version": "population_v1",
+        "n_players": 1000,
+        "tiers": [
+          {
+            "id": "Budget_0",
+            "paid_pulls_per_standard_span": 0,
+            "share": 0.4,
+            "subscribed": false
+          },
+          {
+            "id": "Budget_160",
+            "paid_pulls_per_standard_span": 160,
+            "share": 0.15,
+            "subscribed": true
+          },
+          {
+            "id": "Budget_40",
+            "paid_pulls_per_standard_span": 40,
+            "share": 0.4,
+            "subscribed": true
+          },
+          {
+            "id": "Budget_500",
+            "paid_pulls_per_standard_span": 500,
+            "share": 0.05,
+            "subscribed": true
+          }
+        ]
+      },
+      "randomness": {
+        "byte_order": "big",
+        "config_id_in_key": false,
+        "digest": "SHA256",
+        "discard_low_bits": 11,
+        "domain_tag": "zzz_research_rng_v1",
+        "event_key_version": "event_keys_v1",
+        "interval": "[0,1)",
+        "overflow_policy": "stable_key_expand_or_fail",
+        "rng_version": "hash_counter_v1",
+        "strategy_id_in_key": false,
+        "uint_bytes": 8,
+        "uniform_bits": 53
+      },
+      "scenarios": {
+        "events": [
+          {
+            "banner_id": "SYN_P01_A",
+            "event_order": 1,
+            "role": "normal",
+            "t": 1,
+            "theta": 0,
+            "unit_id": "DPS_01",
+            "uptime": 1
+          },
+          {
+            "banner_id": "SYN_P02_A",
+            "event_order": 1,
+            "role": "normal",
+            "t": 2,
+            "theta": 0.05,
+            "unit_id": "DPS_02",
+            "uptime": 0.98
+          },
+          {
+            "banner_id": "SYN_P03_A",
+            "event_order": 1,
+            "role": "piercing",
+            "t": 3,
+            "theta": 0.1,
+            "unit_id": "DPS_03",
+            "uptime": 0.95
+          },
+          {
+            "banner_id": "SYN_P04_A",
+            "event_order": 1,
+            "role": "support",
+            "t": 4,
+            "theta": 0.15,
+            "unit_id": "S_A",
+            "uptime": 0.95
+          },
+          {
+            "banner_id": "SYN_P05_A",
+            "event_order": 1,
+            "role": "piercing",
+            "t": 5,
+            "theta": 0.45,
+            "unit_id": "DPS_05",
+            "uptime": 0.9
+          },
+          {
+            "banner_id": "SYN_P06_A",
+            "event_order": 1,
+            "role": "normal",
+            "t": 6,
+            "theta": 0.4,
+            "unit_id": "DPS_06",
+            "uptime": 0.9
+          },
+          {
+            "banner_id": "SYN_P07_A",
+            "event_order": 1,
+            "role": "support",
+            "t": 7,
+            "theta": 0.45,
+            "unit_id": "S_B",
+            "uptime": 0.9
+          },
+          {
+            "banner_id": "SYN_P08_A",
+            "event_order": 1,
+            "role": "piercing",
+            "t": 8,
+            "theta": 0.4,
+            "unit_id": "DPS_08",
+            "uptime": 0.88
+          },
+          {
+            "banner_id": "SYN_P09_A",
+            "event_order": 1,
+            "role": "normal",
+            "t": 9,
+            "theta": 0.45,
+            "unit_id": "DPS_09",
+            "uptime": 0.88
+          },
+          {
+            "banner_id": "SYN_P10_A",
+            "event_order": 1,
+            "role": "normal",
+            "t": 10,
+            "theta": 0.4,
+            "unit_id": "DPS_10",
+            "uptime": 0.88
+          },
+          {
+            "banner_id": "SYN_P11_A",
+            "event_order": 1,
+            "role": "normal",
+            "t": 11,
+            "theta": 0,
+            "unit_id": "DPS_11",
+            "uptime": 1
+          },
+          {
+            "banner_id": "SYN_P12_A",
+            "event_order": 1,
+            "role": "normal",
+            "t": 12,
+            "theta": 0.05,
+            "unit_id": "DPS_12",
+            "uptime": 0.98
+          },
+          {
+            "banner_id": "SYN_P13_A",
+            "event_order": 1,
+            "role": "piercing",
+            "t": 13,
+            "theta": 0.1,
+            "unit_id": "DPS_13",
+            "uptime": 0.95
+          },
+          {
+            "banner_id": "SYN_P14_A",
+            "event_order": 1,
+            "role": "support",
+            "t": 14,
+            "theta": 0.15,
+            "unit_id": "S_C",
+            "uptime": 0.95
+          },
+          {
+            "banner_id": "SYN_P15_A",
+            "event_order": 1,
+            "role": "piercing",
+            "t": 15,
+            "theta": 0.45,
+            "unit_id": "DPS_15",
+            "uptime": 0.9
+          },
+          {
+            "banner_id": "SYN_P16_A",
+            "event_order": 1,
+            "role": "normal",
+            "t": 16,
+            "theta": 0.4,
+            "unit_id": "DPS_16",
+            "uptime": 0.9
+          },
+          {
+            "banner_id": "SYN_P17_A",
+            "event_order": 1,
+            "role": "support",
+            "t": 17,
+            "theta": 0.45,
+            "unit_id": "S_D",
+            "uptime": 0.9
+          },
+          {
+            "banner_id": "SYN_P18_A",
+            "event_order": 1,
+            "role": "piercing",
+            "t": 18,
+            "theta": 0.4,
+            "unit_id": "DPS_18",
+            "uptime": 0.88
+          },
+          {
+            "banner_id": "SYN_P19_A",
+            "event_order": 1,
+            "role": "normal",
+            "t": 19,
+            "theta": 0.45,
+            "unit_id": "DPS_19",
+            "uptime": 0.88
+          },
+          {
+            "banner_id": "SYN_P20_A",
+            "event_order": 1,
+            "role": "normal",
+            "t": 20,
+            "theta": 0.4,
+            "unit_id": "DPS_20",
+            "uptime": 0.88
+          }
+        ],
+        "initial_assets": {
+          "neutral_units": [
+            "neutral_stun",
+            "neutral_flex"
+          ],
+          "starter_dps": {
+            "B_ref": 110,
+            "acquired_day": 0,
+            "cinema": 0,
+            "disc_multiplier": 1,
+            "pierce_share": 0,
+            "signature_weapon": false
+          }
+        },
+        "model_version": "scenario_v2_observed_anchor",
+        "product_power": {
+          "B_ref_first": 126.875,
+          "growth_per_debut_step": 0.19
+        },
+        "reference_scenarios": {
+          "Research": {
+            "hp_growth": 0.12,
+            "support_gain_scale": 1,
+            "theta_mode": "path",
+            "theta_scale": 1
+          }
+        },
+        "research_v2": {
+          "mechanism_schedule": {
+            "1": "defense",
+            "10": "window",
+            "11": "barrier",
+            "12": "barrier",
+            "13": "barrier",
+            "14": "barrier",
+            "15": "barrier",
+            "16": "defense",
+            "17": "defense",
+            "18": "defense",
+            "19": "defense",
+            "2": "defense",
+            "20": "defense",
+            "3": "defense",
+            "4": "defense",
+            "5": "defense",
+            "6": "window",
+            "7": "window",
+            "8": "window",
+            "9": "window"
+          },
+          "observation_periods": 20
+        },
+        "timeline": {
+          "days_per_period": 42,
+          "evaluation": "period_end",
+          "kind": "synthetic_relative",
+          "n_periods": 20
+        }
+      }
+    }
+  }
+}

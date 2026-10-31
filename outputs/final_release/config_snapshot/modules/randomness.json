@@ -1,0 +1,16 @@
+{
+  "schema_version": "1.0.0",
+  "rng_version": "hash_counter_v1",
+  "domain_tag": "zzz_research_rng_v1",
+  "digest": "SHA256",
+  "uint_bytes": 8,
+  "byte_order": "big",
+  "discard_low_bits": 11,
+  "uniform_bits": 53,
+  "interval": "[0,1)",
+  "strategy_id_in_key": false,
+  "config_id_in_key": false,
+  "event_key_version": "event_keys_v1",
+  "overflow_policy": "stable_key_expand_or_fail"
+}
+

@@ -1,0 +1,380 @@
+{
+  "schema_version": "1.0.0",
+  "model_version": "proxy_v2_observed_anchor",
+  "reference": {
+    "attacker_level": 60,
+    "attacker_level_coefficient": 794,
+    "enemy_defense": 952.8,
+    "hp_index": 100,
+    "time_limit_seconds": 120
+  },
+  "gear_growth": {
+    "max_bonus": 0.16,
+    "time_constant_days": 84
+  },
+  "investment": {
+    "cinema_multipliers": [
+      1,
+      1.12,
+      1.25
+    ],
+    "signature_weapon_multiplier": 1.15
+  },
+  "support": {
+    "gains": {
+      "S_A": 0.35,
+      "S_B": 0.45,
+      "S_C": 0.35,
+      "S_D": 0.45
+    },
+    "default_gain_scale": 1
+  },
+  "shield": {
+    "defense_bonus": 0.8,
+    "damage_reduction": 0.25,
+    "alignment_values": [
+      0.7,
+      1,
+      1.3
+    ],
+    "default_alignment": 1
+  },
+  "default_penetration": {
+    "ratio": 0,
+    "flat": 0
+  },
+  "default_defense_reduction": {
+    "ratio": 0,
+    "flat": 0
+  },
+  "provenance": {
+    "reference_formula": "SRC_ZSIM",
+    "reference_level_coefficient": "SRC_ZSIM",
+    "shield_structure": "community_inspired_scenario_assumption",
+    "other_numeric_values": "scenario_assumed",
+    "research_anchor": "outputs/final_release/empirical_knob1_boss_lock.csv; outputs/final_release/empirical_knob2_support_lift.csv; 条件成绩参照，不是伤害比或因果效应。",
+    "mechanism_penalties": "scenario_assumed; window λ=1无适配保留率 exp(-0.32)=0.726；barrier在覆盖期指数折损。",
+    "net_support_gain": "observationally_anchored_scenario; 强耦合0.23、弱耦合0.05相对已有通用辅助，额外机制通道单独计入。",
+    "affinity_and_pair_catalog": "scenario_assumed; 原型异质与同条件配对，不是对真实角色的因果分类。",
+    "research_v2.mechanisms": "scenario_assumed; 参考 outputs/final_release/empirical_knob1_boss_lock.csv 的条件成绩区间；score比不等于输出保留率，0.32/0.9不是直接拟合值。",
+    "research_v2.unit_profiles": "scenario_assumed; 机制适配原型与商品顺序，未由通关样本估计。",
+    "research_v2.support_pairs": "observationally_anchored_scenario; 参考 outputs/final_release/empirical_knob2_support_lift.csv：部分强绑定0+1条件成绩比1.27–1.32，弱绑定约1.0–1.06；net_gain与match_lift为联合情景分解，非识别出的因果参数。",
+    "research_v2.mechanism_strength": "scenario_assumed; 5档干预轴，λ不对应某个官方数值。"
+  },
+  "description": "参考防御区公式的参数化代理模型。穿透份额与机制适配分离；a仅缩放配对数值净增益。",
+  "research_v2": {
+    "mechanism_strength": 1,
+    "mechanisms": {
+      "defense": {
+        "penalty": 1
+      },
+      "window": {
+        "penalty": 0.32
+      },
+      "barrier": {
+        "penalty": 0.9
+      }
+    },
+    "unit_profiles": {
+      "starter_dps": {
+        "affinities": {
+          "defense": 0.15,
+          "window": 0.15,
+          "barrier": 0.15
+        }
+      },
+      "DPS_01": {
+        "affinities": {
+          "defense": 0.75,
+          "window": 0.1,
+          "barrier": 0.1
+        }
+      },
+      "DPS_02": {
+        "affinities": {
+          "defense": 0.55,
+          "window": 0.45,
+          "barrier": 0.45
+        }
+      },
+      "DPS_03": {
+        "affinities": {
+          "defense": 0.75,
+          "window": 0.1,
+          "barrier": 0.1
+        }
+      },
+      "DPS_05": {
+        "affinities": {
+          "defense": 0.55,
+          "window": 0.45,
+          "barrier": 0.45
+        }
+      },
+      "DPS_06": {
+        "affinities": {
+          "defense": 0.1,
+          "window": 0.75,
+          "barrier": 0.1
+        }
+      },
+      "DPS_08": {
+        "affinities": {
+          "defense": 0.45,
+          "window": 0.55,
+          "barrier": 0.45
+        }
+      },
+      "DPS_09": {
+        "affinities": {
+          "defense": 0.1,
+          "window": 0.75,
+          "barrier": 0.1
+        }
+      },
+      "DPS_10": {
+        "affinities": {
+          "defense": 0.45,
+          "window": 0.55,
+          "barrier": 0.45
+        }
+      },
+      "DPS_11": {
+        "affinities": {
+          "defense": 0.1,
+          "window": 0.1,
+          "barrier": 0.75
+        }
+      },
+      "DPS_12": {
+        "affinities": {
+          "defense": 0.45,
+          "window": 0.45,
+          "barrier": 0.55
+        }
+      },
+      "DPS_13": {
+        "affinities": {
+          "defense": 0.1,
+          "window": 0.1,
+          "barrier": 0.75
+        }
+      },
+      "DPS_15": {
+        "affinities": {
+          "defense": 0.45,
+          "window": 0.45,
+          "barrier": 0.55
+        }
+      },
+      "DPS_16": {
+        "affinities": {
+          "defense": 0.75,
+          "window": 0.1,
+          "barrier": 0.1
+        }
+      },
+      "DPS_18": {
+        "affinities": {
+          "defense": 0.55,
+          "window": 0.45,
+          "barrier": 0.45
+        }
+      },
+      "DPS_19": {
+        "affinities": {
+          "defense": 0.75,
+          "window": 0.1,
+          "barrier": 0.1
+        }
+      },
+      "DPS_20": {
+        "affinities": {
+          "defense": 0.55,
+          "window": 0.45,
+          "barrier": 0.45
+        }
+      }
+    },
+    "support_pairs": {
+      "DPS_01": {
+        "S_A": {
+          "net_gain": 0.23,
+          "match_lift": {
+            "defense": 0.15,
+            "window": 0.15,
+            "barrier": 0.15
+          }
+        },
+        "S_B": {
+          "net_gain": 0.23,
+          "match_lift": {
+            "defense": 0.15,
+            "window": 0.15,
+            "barrier": 0.15
+          }
+        }
+      },
+      "DPS_02": {
+        "S_A": {
+          "net_gain": 0.05,
+          "match_lift": {
+            "defense": 0.05,
+            "window": 0.05,
+            "barrier": 0.05
+          }
+        }
+      },
+      "DPS_03": {
+        "S_A": {
+          "net_gain": 0.23,
+          "match_lift": {
+            "defense": 0.15,
+            "window": 0.15,
+            "barrier": 0.15
+          }
+        },
+        "S_B": {
+          "net_gain": 0.23,
+          "match_lift": {
+            "defense": 0.15,
+            "window": 0.15,
+            "barrier": 0.15
+          }
+        }
+      },
+      "DPS_05": {
+        "S_B": {
+          "net_gain": 0.05,
+          "match_lift": {
+            "defense": 0.05,
+            "window": 0.05,
+            "barrier": 0.05
+          }
+        }
+      },
+      "DPS_06": {
+        "S_B": {
+          "net_gain": 0.23,
+          "match_lift": {
+            "defense": 0.15,
+            "window": 0.15,
+            "barrier": 0.15
+          }
+        }
+      },
+      "DPS_08": {
+        "S_C": {
+          "net_gain": 0.05,
+          "match_lift": {
+            "defense": 0.05,
+            "window": 0.05,
+            "barrier": 0.05
+          }
+        },
+        "S_D": {
+          "net_gain": 0.05,
+          "match_lift": {
+            "defense": 0.05,
+            "window": 0.05,
+            "barrier": 0.05
+          }
+        }
+      },
+      "DPS_09": {
+        "S_C": {
+          "net_gain": 0.23,
+          "match_lift": {
+            "defense": 0.15,
+            "window": 0.15,
+            "barrier": 0.15
+          }
+        },
+        "S_D": {
+          "net_gain": 0.23,
+          "match_lift": {
+            "defense": 0.15,
+            "window": 0.15,
+            "barrier": 0.15
+          }
+        }
+      },
+      "DPS_10": {
+        "S_C": {
+          "net_gain": 0.05,
+          "match_lift": {
+            "defense": 0.05,
+            "window": 0.05,
+            "barrier": 0.05
+          }
+        }
+      },
+      "DPS_11": {
+        "S_C": {
+          "net_gain": 0.23,
+          "match_lift": {
+            "defense": 0.15,
+            "window": 0.15,
+            "barrier": 0.15
+          }
+        },
+        "S_D": {
+          "net_gain": 0.23,
+          "match_lift": {
+            "defense": 0.15,
+            "window": 0.15,
+            "barrier": 0.15
+          }
+        }
+      },
+      "DPS_12": {
+        "S_C": {
+          "net_gain": 0.05,
+          "match_lift": {
+            "defense": 0.05,
+            "window": 0.05,
+            "barrier": 0.05
+          }
+        }
+      },
+      "DPS_13": {
+        "S_C": {
+          "net_gain": 0.23,
+          "match_lift": {
+            "defense": 0.15,
+            "window": 0.15,
+            "barrier": 0.15
+          }
+        },
+        "S_D": {
+          "net_gain": 0.23,
+          "match_lift": {
+            "defense": 0.15,
+            "window": 0.15,
+            "barrier": 0.15
+          }
+        }
+      },
+      "DPS_15": {
+        "S_D": {
+          "net_gain": 0.05,
+          "match_lift": {
+            "defense": 0.05,
+            "window": 0.05,
+            "barrier": 0.05
+          }
+        }
+      },
+      "DPS_16": {
+        "S_D": {
+          "net_gain": 0.23,
+          "match_lift": {
+            "defense": 0.15,
+            "window": 0.15,
+            "barrier": 0.15
+          }
+        }
+      }
+    }
+  }
+}

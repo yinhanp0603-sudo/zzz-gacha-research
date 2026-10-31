@@ -1,0 +1,251 @@
+{
+  "description": "Layer 1 report display names; does not modify observation identifiers or simulation parameters.",
+  "sources": {
+    "shiyu_characters": "https://github.com/LvlUrArti/ShiyuStats/blob/d930cec50bfde460d1a6ebd9acef8b240a676000/data/characters.json",
+    "enka_avatars": "https://github.com/EnkaNetwork/API-docs/blob/master/store/zzz/avatars.json",
+    "enka_localization": "https://github.com/EnkaNetwork/API-docs/blob/master/store/zzz/locs.json"
+  },
+  "lookup": "ShiyuStats character id -> Enka avatar Name -> zh-cn localization; English localization checked for exact agreement.",
+  "characters": {
+    "Corin": {
+      "game_id": "1061",
+      "name_zh": "可琳"
+    },
+    "Soukaku": {
+      "game_id": "1131",
+      "name_zh": "苍角"
+    },
+    "Billy": {
+      "game_id": "1081",
+      "name_zh": "比利"
+    },
+    "Grace": {
+      "game_id": "1181",
+      "name_zh": "格莉丝"
+    },
+    "Anby": {
+      "game_id": "1011",
+      "name_zh": "安比"
+    },
+    "Nicole": {
+      "game_id": "1031",
+      "name_zh": "妮可"
+    },
+    "Piper": {
+      "game_id": "1281",
+      "name_zh": "派派"
+    },
+    "Nekomata": {
+      "game_id": "1021",
+      "name_zh": "猫又"
+    },
+    "Zhu Yuan": {
+      "game_id": "1241",
+      "name_zh": "朱鸢"
+    },
+    "Lycaon": {
+      "game_id": "1141",
+      "name_zh": "莱卡恩"
+    },
+    "Anton": {
+      "game_id": "1111",
+      "name_zh": "安东"
+    },
+    "Soldier 11": {
+      "game_id": "1041",
+      "name_zh": "「11号」"
+    },
+    "Ben": {
+      "game_id": "1121",
+      "name_zh": "本"
+    },
+    "Rina": {
+      "game_id": "1211",
+      "name_zh": "丽娜"
+    },
+    "Lucy": {
+      "game_id": "1151",
+      "name_zh": "露西"
+    },
+    "Koleda": {
+      "game_id": "1101",
+      "name_zh": "珂蕾妲"
+    },
+    "Ellen": {
+      "game_id": "1191",
+      "name_zh": "艾莲"
+    },
+    "Qingyi": {
+      "game_id": "1251",
+      "name_zh": "青衣"
+    },
+    "Jane": {
+      "game_id": "1261",
+      "name_zh": "简"
+    },
+    "Seth": {
+      "game_id": "1271",
+      "name_zh": "赛斯"
+    },
+    "Caesar": {
+      "game_id": "1071",
+      "name_zh": "凯撒"
+    },
+    "Burnice": {
+      "game_id": "1171",
+      "name_zh": "柏妮思"
+    },
+    "Yanagi": {
+      "game_id": "1221",
+      "name_zh": "柳"
+    },
+    "Lighter": {
+      "game_id": "1161",
+      "name_zh": "莱特"
+    },
+    "Harumasa": {
+      "game_id": "1201",
+      "name_zh": "悠真"
+    },
+    "Miyabi": {
+      "game_id": "1091",
+      "name_zh": "雅"
+    },
+    "Astra Yao": {
+      "game_id": "1311",
+      "name_zh": "耀嘉音"
+    },
+    "Evelyn": {
+      "game_id": "1321",
+      "name_zh": "伊芙琳"
+    },
+    "Pulchra": {
+      "game_id": "1351",
+      "name_zh": "波可娜"
+    },
+    "Soldier 0 - Anby": {
+      "game_id": "1381",
+      "name_zh": "零号·安比"
+    },
+    "Trigger": {
+      "game_id": "1361",
+      "name_zh": "「扳机」"
+    },
+    "Vivian": {
+      "game_id": "1331",
+      "name_zh": "薇薇安"
+    },
+    "Hugo": {
+      "game_id": "1291",
+      "name_zh": "雨果"
+    },
+    "Pan Yinhu": {
+      "game_id": "1421",
+      "name_zh": "潘引壶"
+    },
+    "Yixuan": {
+      "game_id": "1371",
+      "name_zh": "仪玄"
+    },
+    "Ju Fufu": {
+      "game_id": "1391",
+      "name_zh": "橘福福"
+    },
+    "Yuzuha": {
+      "game_id": "1411",
+      "name_zh": "柚叶"
+    },
+    "Alice": {
+      "game_id": "1401",
+      "name_zh": "爱丽丝"
+    },
+    "Seed": {
+      "game_id": "1461",
+      "name_zh": "「席德」"
+    },
+    "Orphie & Magus": {
+      "game_id": "1301",
+      "name_zh": "奥菲丝&「鬼火」"
+    },
+    "Lucia": {
+      "game_id": "1451",
+      "name_zh": "卢西娅"
+    },
+    "Manato": {
+      "game_id": "1441",
+      "name_zh": "真斗"
+    },
+    "Yidhari": {
+      "game_id": "1051",
+      "name_zh": "伊德海莉"
+    },
+    "Dialyn": {
+      "game_id": "1481",
+      "name_zh": "琉音"
+    },
+    "Banyue": {
+      "game_id": "1471",
+      "name_zh": "般岳"
+    },
+    "Ye Shunguang": {
+      "game_id": "1431",
+      "name_zh": "叶瞬光"
+    },
+    "Zhao": {
+      "game_id": "1341",
+      "name_zh": "照"
+    },
+    "Sunna": {
+      "game_id": "1491",
+      "name_zh": "千夏"
+    },
+    "Aria": {
+      "game_id": "1501",
+      "name_zh": "爱芮"
+    },
+    "Nangong Yu": {
+      "game_id": "1511",
+      "name_zh": "南宫羽"
+    },
+    "Cissia": {
+      "game_id": "1521",
+      "name_zh": "希希芙"
+    },
+    "Promeia": {
+      "game_id": "1541",
+      "name_zh": "普罗米娅"
+    },
+    "Starlight - Billy": {
+      "game_id": "1531",
+      "name_zh": "星徽·比利"
+    },
+    "Pyrois": {
+      "game_id": "1551",
+      "name_zh": "佩洛伊斯"
+    },
+    "Velina": {
+      "game_id": "1561",
+      "name_zh": "维琳娜"
+    },
+    "Norma": {
+      "game_id": "1571",
+      "name_zh": "诺姆"
+    },
+    "Remielle": {
+      "game_id": "1581",
+      "name_zh": "蕾米埃尔"
+    },
+    "Sigrid": {
+      "game_id": "1591",
+      "name_zh": "希格莉德"
+    },
+    "Claret": {
+      "game_id": "1611",
+      "name_zh": "克拉蕾"
+    },
+    "Roxy": {
+      "game_id": "1621",
+      "name_zh": "洛克茜"
+    }
+  }
+}

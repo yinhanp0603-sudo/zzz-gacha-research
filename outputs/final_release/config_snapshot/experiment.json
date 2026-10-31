@@ -1,0 +1,22 @@
+{
+  "schema_version": "1.0.0",
+  "profile_id": "synthetic_demo_v1",
+  "mode": "synthetic_scenario",
+  "modules": {
+    "combat": "modules/combat.json",
+    "gacha": "modules/gacha.json",
+    "economy": "modules/economy.json",
+    "population": "modules/population.json",
+    "behavior": "modules/behavior.json",
+    "scenarios": "modules/scenarios.json",
+    "randomness": "modules/randomness.json",
+    "experiments": "modules/experiments.json"
+  },
+  "execution": {
+    "log_mode": "full",
+    "output_root": "outputs",
+    "allow_network_during_run": false
+  },
+  "description": "设计配置入口；后续应用尚未实现。模块文件是默认参数的唯一维护源。"
+}
+

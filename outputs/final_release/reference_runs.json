@@ -1,0 +1,50 @@
+[
+  {
+    "config_id": "0ed763da27a9ed1802cb1bdd9a937f6f532502534cec637f8c23d6938326199f",
+    "run_id": "4064609bccb27ff99b3bc24a535b0b906a069672e96e8f9ab0d01094be8b7e52",
+    "scenario": "Ref_HP",
+    "seed": 1101,
+    "n_players": 200,
+    "path": "outputs/final_release/reference/Ref_HP_seed1101.sqlite",
+    "overrides": {
+      "population.n_players": 200,
+      "experiments.base_scenario": "Ref_HP"
+    },
+    "total_revenue_fen": 17334400,
+    "core_retention_end": 0.4657534246575342,
+    "retention_end_all": 0.435,
+    "core_initial": 73
+  },
+  {
+    "config_id": "34e357bd9bae89548dfb2ad778d7c74bbf0c74ca4f6c6e16728ad9af946efb4d",
+    "run_id": "c208ea77e6d7633e4d5f80ac7352907b5e64ecbb3a4a7afafade3e2d3e06b498",
+    "scenario": "Ref_Mechanism",
+    "seed": 1101,
+    "n_players": 200,
+    "path": "outputs/final_release/reference/Ref_Mechanism_seed1101.sqlite",
+    "overrides": {
+      "population.n_players": 200,
+      "experiments.base_scenario": "Ref_Mechanism"
+    },
+    "total_revenue_fen": 19154000,
+    "core_retention_end": 0.8082191780821918,
+    "retention_end_all": 0.73,
+    "core_initial": 73
+  },
+  {
+    "config_id": "f97afa50a600c0b5272f3e3c597bc550010fea532b2b60af244e294166c4a0d9",
+    "run_id": "a2ec5fa0e9cdf51712d23a4cbcea095e1c2749fa4cb70a47599fefb267863344",
+    "scenario": "Ref_Support",
+    "seed": 1101,
+    "n_players": 200,
+    "path": "outputs/final_release/reference/Ref_Support_seed1101.sqlite",
+    "overrides": {
+      "population.n_players": 200,
+      "experiments.base_scenario": "Ref_Support"
+    },
+    "total_revenue_fen": 19676000,
+    "core_retention_end": 0.8493150684931506,
+    "retention_end_all": 0.78,
+    "core_initial": 73
+  }
+]

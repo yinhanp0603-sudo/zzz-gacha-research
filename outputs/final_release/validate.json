@@ -1,0 +1,45 @@
+{
+  "config_id": "201e32cee97caef9497448020d7b43e13065e268548a5e3e089d879f87f29964",
+  "algorithm_versions": {
+    "config.canonicalization": "json_canonical_v1",
+    "contract": "1.1.0",
+    "planner": "planner_dp_v2",
+    "runtime": "runtime_six_step_v2",
+    "scenario_resolver": "scenario_resolve_v1_assumed",
+    "behavior.model_version": "behavior_v1",
+    "combat.model_version": "proxy_v1",
+    "economy.model_version": "wallet_v1",
+    "experiments.protocol_version": "search_v1",
+    "gacha.model_version": "gacha_v1",
+    "gacha.curve_version": "assumed_empirical_v1",
+    "population.model_version": "population_v1",
+    "randomness.rng_version": "hash_counter_v1",
+    "randomness.event_key_version": "event_keys_v1",
+    "scenarios.model_version": "scenario_v1"
+  },
+  "n_parameters": 149,
+  "n_periods": 10,
+  "n_units": 13,
+  "base_scenario": "Ref_Mechanism",
+  "baseline_grid_point": {
+    "mechanism_strength": 1,
+    "support_gain_scale": 1
+  },
+  "fatigue_params": {
+    "budget_weight": 0.2,
+    "success_recovery": 0.3
+  },
+  "module_notes": {
+    "behavior": "2026-10-28 情景标定：churn.base_hazard、churn.fatigue_sensitivity、fatigue.gap_weight、fatigue.failure_weight、utility.beta_hoarding 以标定专用种子 7101/7102（200 人、Ref_Mechanism）为准则选取，目标为基准期末留存落在 0.70–0.85 且流失集中在中期；均为假设值，非由数据估计。",
+    "scenarios": "2026-10-28 情景标定：product_power.growth_per_debut_step 0.12→0.19，使新主输出在 8 次首发/10 期中大致跟上逐期 HP 增长；目标为 0+0/0+1 无支援出道当期与第 1 期 CI≥1、第 2–3 期跌破。B_ref_first 125→126.875（+1.5%），消除 DPS_09 0+0 出道 CI 0.99 例外（标定后最低 1.0052）。假设值，非数据估计。"
+  },
+  "parameter_source_kinds": [
+    "scenario_assumed",
+    "source_code"
+  ],
+  "status": "ok",
+  "execution_overrides": {
+    "population.n_players": 200
+  },
+  "execution_base_config_id": "34e357bd9bae89548dfb2ad778d7c74bbf0c74ca4f6c6e16728ad9af946efb4d"
+}

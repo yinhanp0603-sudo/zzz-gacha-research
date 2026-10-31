@@ -1,0 +1,79 @@
+{
+  "publication_version": "integrated_v2",
+  "primary_study": "n1000",
+  "base_config_id": "38ac505e61920e78eff1d52043892dc6c48332f53843205867c7dbc87441c7f8",
+  "studies": {
+    "n1000": {
+      "source_output": "outputs/research_v2_stability_n1000",
+      "tables": "research/n1000/tables",
+      "manifest": "research/n1000/experiment_manifest.json"
+    },
+    "n200": {
+      "source_output": "outputs/research_v2_stability",
+      "tables": "research/n200/tables",
+      "manifest": "research/n200/experiment_manifest.json"
+    },
+    "fixed": {
+      "source_output": "outputs/research_v2",
+      "tables": "research/fixed/tables",
+      "manifest": "research/fixed/experiment_manifest.json",
+      "reference_condition": {
+        "policy_id": "L1_A1",
+        "combat_variant": "v2",
+        "horizon": 20
+      },
+      "reference_rows": {
+        "l2_reference_panel": 5040,
+        "l2_reference_lifetimes": 480,
+        "l2_support_pair_effects": 384
+      }
+    },
+    "ablation": {
+      "source_output": "outputs/research_v2_behavior_ablation",
+      "tables": "research/ablation/tables",
+      "manifest": "research/ablation/experiment_manifest.json"
+    },
+    "archetype": {
+      "source_output": "outputs/research_v2_archetype",
+      "tables": "research/archetype/tables",
+      "manifest": "research/archetype/experiment_manifest.json"
+    }
+  },
+  "empirical_tables": {
+    "real_dps_longevity": "empirical_real_dps_longevity.csv",
+    "support_event_window": "empirical_support_event_window.csv",
+    "support_lift": "empirical_knob2_support_lift.csv",
+    "support_attach": "empirical_support_attach.csv",
+    "support_archetypes": "empirical_support_archetypes.csv",
+    "anomaly_ecosystem": "empirical_anomaly_ecosystem.csv",
+    "room_archetype_share": "empirical_room_archetype_share.csv"
+  },
+  "external_tables": {
+    "banner_revenue": "external_gacha_banner_revenue.csv",
+    "banner_category_ratios": "external_banner_category_ratios.csv",
+    "rngmoe_banners": "external_rngmoe_banner_stats.csv",
+    "rngmoe_pity_curve": "external_rngmoe_pity_curve.csv",
+    "sim_benchmarks": "external_sim_benchmarks.csv"
+  },
+  "external_sources": "external_source_manifest.json",
+  "evidence_levels": {
+    "L1": "配队流派、机制演替与主核—插件共现：完整三人与危局精确池的描述统计",
+    "L1.5": "专拐与成绩的条件关联：固定主核投资档位与第三人后的分位数对照，非因果净效应",
+    "L2": "角色保值寿命与售后恢复：真实主C经验轨迹＋固定合成参考队受控对照",
+    "L3": "囤抽、付费、停氪、退坑与长期现金：显式行为函数下的反事实情景与结构消融"
+  },
+  "config_snapshot": "research/config_science.json",
+  "observation_database": "observations/observations.sqlite",
+  "layer1_reused": true,
+  "legacy_report": "report/BASELINE_REPORT.md",
+  "legacy_dashboard": "dashboard/baseline.html",
+  "horizon_definition": "10期为同一20期物理运行的前缀，两个窗口不是独立样本。",
+  "cash_unit": "CNY",
+  "timing": {
+    "summed_run_wall_seconds": 16171.35357729999,
+    "physical_runs": 200,
+    "new_runs": 198,
+    "reused_runs": 2,
+    "log_mode": "summary"
+  }
+}

@@ -1,0 +1,1927 @@
+{
+  "schema_version": "observed_boss_catalog_v1",
+  "definition_date": "2026-10-30",
+  "schedule_basis": "47-season supplied schedule, with independent raw-snapshot and cited source correspondence",
+  "regime_basis": "Five historical eras; a regime is a time grouping, not a claim that all bosses in that era share one mechanic.",
+  "favored_archetype_basis": "Mechanism-based research hypotheses, not measured roster shares or exclusive viable teams.",
+  "periods": [
+    {
+      "combat_season": "1.4.1",
+      "start_date": "2024-12-20",
+      "mech_regime": "G1 早期部位/异常交互（1.4–1.7）",
+      "date_source_status": "fandom_history_indexed",
+      "stages": [
+        {
+          "stage_slot": "S1",
+          "boss_zh": "牲鬼·布林格",
+          "mechanism_code": "chant_anomaly_check",
+          "raw_source_url": "https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/1.3.3_da.csv",
+          "source_url": "https://zenless-zone-zero.fandom.com/wiki/Deadly_Assault/2024-12-20 | https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/1.3.3_da.csv",
+          "schedule_source_status": "raw_snapshot_checked"
+        },
+        {
+          "stage_slot": "S2",
+          "boss_zh": "侵蚀统领·庞培",
+          "mechanism_code": "anomaly_strip",
+          "raw_source_url": "https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/1.3.3_da.csv",
+          "source_url": "https://zenless-zone-zero.fandom.com/wiki/Deadly_Assault/2024-12-20 | https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/1.3.3_da.csv",
+          "schedule_source_status": "raw_snapshot_checked"
+        },
+        {
+          "stage_slot": "S3",
+          "boss_zh": "恶名·冥宁芙",
+          "mechanism_code": "clone_destruction",
+          "raw_source_url": "https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/1.3.3_da.csv",
+          "source_url": "https://zenless-zone-zero.fandom.com/wiki/Deadly_Assault/2024-12-20 | https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/1.3.3_da.csv",
+          "schedule_source_status": "raw_snapshot_checked"
+        }
+      ]
+    },
+    {
+      "combat_season": "1.4.2",
+      "start_date": "2025-01-10",
+      "mech_regime": "G1 早期部位/异常交互（1.4–1.7）",
+      "date_source_status": "fandom_history_indexed",
+      "stages": [
+        {
+          "stage_slot": "S1",
+          "boss_zh": "牲鬼·布林格",
+          "mechanism_code": "chant_anomaly_check",
+          "raw_source_url": "https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/1.4.3_da.csv",
+          "source_url": "https://zenless-zone-zero.fandom.com/wiki/Deadly_Assault/2025-01-10 | https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/1.4.3_da.csv",
+          "schedule_source_status": "raw_snapshot_checked"
+        },
+        {
+          "stage_slot": "S2",
+          "boss_zh": "泰丰·挑战者",
+          "mechanism_code": "triple_parry_impair",
+          "raw_source_url": "https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/1.4.3_da.csv",
+          "source_url": "https://zenless-zone-zero.fandom.com/wiki/Deadly_Assault/2025-01-10 | https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/1.4.3_da.csv",
+          "schedule_source_status": "raw_snapshot_checked"
+        },
+        {
+          "stage_slot": "S3",
+          "boss_zh": "死路屠夫",
+          "mechanism_code": "dodge_crit_stack",
+          "raw_source_url": "https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/1.4.3_da.csv",
+          "source_url": "https://zenless-zone-zero.fandom.com/wiki/Deadly_Assault/2025-01-10 | https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/1.4.3_da.csv",
+          "schedule_source_status": "raw_snapshot_checked"
+        }
+      ]
+    },
+    {
+      "combat_season": "1.5.1",
+      "start_date": "2025-01-24",
+      "mech_regime": "G1 早期部位/异常交互（1.4–1.7）",
+      "date_source_status": "fandom_history_indexed",
+      "stages": [
+        {
+          "stage_slot": "S1",
+          "boss_zh": "恶名·死路屠夫",
+          "mechanism_code": "disorder_ether_strip",
+          "raw_source_url": "https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/1.5.2_da.csv",
+          "source_url": "https://zenless-zone-zero.fandom.com/wiki/Deadly_Assault/2025-01-24 | https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/1.5.2_da.csv",
+          "schedule_source_status": "raw_snapshot_checked"
+        },
+        {
+          "stage_slot": "S2",
+          "boss_zh": "未知复合侵蚀体",
+          "mechanism_code": "part_break_legs",
+          "raw_source_url": "https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/1.5.2_da.csv",
+          "source_url": "https://zenless-zone-zero.fandom.com/wiki/Deadly_Assault/2025-01-24 | https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/1.5.2_da.csv",
+          "schedule_source_status": "raw_snapshot_checked"
+        },
+        {
+          "stage_slot": "S3",
+          "boss_zh": "侵蚀统领·庞培",
+          "mechanism_code": "anomaly_strip",
+          "raw_source_url": "https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/1.5.2_da.csv",
+          "source_url": "https://zenless-zone-zero.fandom.com/wiki/Deadly_Assault/2025-01-24 | https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/1.5.2_da.csv",
+          "schedule_source_status": "raw_snapshot_checked"
+        }
+      ]
+    },
+    {
+      "combat_season": "1.5.2",
+      "start_date": "2025-02-07",
+      "mech_regime": "G1 早期部位/异常交互（1.4–1.7）",
+      "date_source_status": "fandom_history_indexed",
+      "stages": [
+        {
+          "stage_slot": "S1",
+          "boss_zh": "恶名·死路屠夫",
+          "mechanism_code": "disorder_ether_strip",
+          "raw_source_url": "https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/1.5.3_da.csv",
+          "source_url": "https://zenless-zone-zero.fandom.com/wiki/Deadly_Assault/2025-02-07 | https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/1.5.3_da.csv",
+          "schedule_source_status": "raw_snapshot_checked"
+        },
+        {
+          "stage_slot": "S2",
+          "boss_zh": "泰丰·挑战者",
+          "mechanism_code": "triple_parry_impair",
+          "raw_source_url": "https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/1.5.3_da.csv",
+          "source_url": "https://zenless-zone-zero.fandom.com/wiki/Deadly_Assault/2025-02-07 | https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/1.5.3_da.csv",
+          "schedule_source_status": "raw_snapshot_checked"
+        },
+        {
+          "stage_slot": "S3",
+          "boss_zh": "恶名·冥宁芙",
+          "mechanism_code": "clone_destruction",
+          "raw_source_url": "https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/1.5.3_da.csv",
+          "source_url": "https://zenless-zone-zero.fandom.com/wiki/Deadly_Assault/2025-02-07 | https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/1.5.3_da.csv",
+          "schedule_source_status": "raw_snapshot_checked"
+        }
+      ]
+    },
+    {
+      "combat_season": "1.5.3",
+      "start_date": "2025-02-21",
+      "mech_regime": "G1 早期部位/异常交互（1.4–1.7）",
+      "date_source_status": "fandom_history_indexed",
+      "stages": [
+        {
+          "stage_slot": "S1",
+          "boss_zh": "恶名·庞培",
+          "mechanism_code": "dodge_crit_stack",
+          "raw_source_url": "",
+          "source_url": "https://zenless-zone-zero.fandom.com/wiki/Deadly_Assault/2025-02-21",
+          "schedule_source_status": "community_history_checked"
+        },
+        {
+          "stage_slot": "S2",
+          "boss_zh": "牲鬼·布林格",
+          "mechanism_code": "chant_anomaly_check",
+          "raw_source_url": "",
+          "source_url": "https://zenless-zone-zero.fandom.com/wiki/Deadly_Assault/2025-02-21",
+          "schedule_source_status": "community_history_checked"
+        },
+        {
+          "stage_slot": "S3",
+          "boss_zh": "死路屠夫",
+          "mechanism_code": "parry_stagger",
+          "raw_source_url": "",
+          "source_url": "https://zenless-zone-zero.fandom.com/wiki/Deadly_Assault/2025-02-21",
+          "schedule_source_status": "community_history_checked"
+        }
+      ]
+    },
+    {
+      "combat_season": "1.5.4",
+      "start_date": "2025-03-07",
+      "mech_regime": "G1 早期部位/异常交互（1.4–1.7）",
+      "date_source_status": "fandom_history_indexed",
+      "stages": [
+        {
+          "stage_slot": "S1",
+          "boss_zh": "未知复合侵蚀体",
+          "mechanism_code": "part_break_legs",
+          "raw_source_url": "https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/1.6.1_da.csv",
+          "source_url": "https://zenless-zone-zero.fandom.com/wiki/Deadly_Assault/2025-03-07 | https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/1.6.1_da.csv",
+          "schedule_source_status": "raw_snapshot_checked"
+        },
+        {
+          "stage_slot": "S2",
+          "boss_zh": "牲鬼·布林格",
+          "mechanism_code": "chant_anomaly_check",
+          "raw_source_url": "https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/1.6.1_da.csv",
+          "source_url": "https://zenless-zone-zero.fandom.com/wiki/Deadly_Assault/2025-03-07 | https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/1.6.1_da.csv",
+          "schedule_source_status": "raw_snapshot_checked"
+        },
+        {
+          "stage_slot": "S3",
+          "boss_zh": "恶名·庞培",
+          "mechanism_code": "parry_stagger",
+          "raw_source_url": "https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/1.6.1_da.csv",
+          "source_url": "https://zenless-zone-zero.fandom.com/wiki/Deadly_Assault/2025-03-07 | https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/1.6.1_da.csv",
+          "schedule_source_status": "raw_snapshot_checked"
+        }
+      ]
+    },
+    {
+      "combat_season": "1.6.1",
+      "start_date": "2025-03-21",
+      "mech_regime": "G1 早期部位/异常交互（1.4–1.7）",
+      "date_source_status": "fandom_history_indexed",
+      "stages": [
+        {
+          "stage_slot": "S1",
+          "boss_zh": "未知复合侵蚀体",
+          "mechanism_code": "part_break_legs",
+          "raw_source_url": "",
+          "source_url": "https://zenless-zone-zero.fandom.com/wiki/Deadly_Assault/2025-03-21",
+          "schedule_source_status": "supplied_schedule"
+        },
+        {
+          "stage_slot": "S2",
+          "boss_zh": "侵蚀统领·庞培",
+          "mechanism_code": "anomaly_strip",
+          "raw_source_url": "",
+          "source_url": "https://zenless-zone-zero.fandom.com/wiki/Deadly_Assault/2025-03-21",
+          "schedule_source_status": "supplied_schedule"
+        },
+        {
+          "stage_slot": "S3",
+          "boss_zh": "泰丰·挑战者",
+          "mechanism_code": "triple_parry_impair",
+          "raw_source_url": "",
+          "source_url": "https://zenless-zone-zero.fandom.com/wiki/Deadly_Assault/2025-03-21",
+          "schedule_source_status": "supplied_schedule"
+        }
+      ]
+    },
+    {
+      "combat_season": "1.6.2",
+      "start_date": "2025-04-04",
+      "mech_regime": "G1 早期部位/异常交互（1.4–1.7）",
+      "date_source_status": "fandom_history_indexed",
+      "stages": [
+        {
+          "stage_slot": "S1",
+          "boss_zh": "恶名·冥宁芙",
+          "mechanism_code": "clone_destruction",
+          "raw_source_url": "https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/1.6.2_da.csv",
+          "source_url": "https://zenless-zone-zero.fandom.com/wiki/Deadly_Assault/2025-04-04 | https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/1.6.2_da.csv",
+          "schedule_source_status": "raw_snapshot_checked"
+        },
+        {
+          "stage_slot": "S2",
+          "boss_zh": "泰丰·挑战者",
+          "mechanism_code": "triple_parry_impair",
+          "raw_source_url": "https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/1.6.2_da.csv",
+          "source_url": "https://zenless-zone-zero.fandom.com/wiki/Deadly_Assault/2025-04-04 | https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/1.6.2_da.csv",
+          "schedule_source_status": "raw_snapshot_checked"
+        },
+        {
+          "stage_slot": "S3",
+          "boss_zh": "恶名·庞培",
+          "mechanism_code": "parry_stagger",
+          "raw_source_url": "https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/1.6.2_da.csv",
+          "source_url": "https://zenless-zone-zero.fandom.com/wiki/Deadly_Assault/2025-04-04 | https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/1.6.2_da.csv",
+          "schedule_source_status": "raw_snapshot_checked"
+        }
+      ]
+    },
+    {
+      "combat_season": "1.6.3",
+      "start_date": "2025-04-18",
+      "mech_regime": "G1 早期部位/异常交互（1.4–1.7）",
+      "date_source_status": "fandom_history_indexed",
+      "stages": [
+        {
+          "stage_slot": "S1",
+          "boss_zh": "死路屠夫",
+          "mechanism_code": "parry_stagger",
+          "raw_source_url": "https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/1.7.1_da.csv",
+          "source_url": "https://zenless-zone-zero.fandom.com/wiki/Deadly_Assault/2025-04-18 | https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/1.7.1_da.csv",
+          "schedule_source_status": "raw_snapshot_checked"
+        },
+        {
+          "stage_slot": "S2",
+          "boss_zh": "牲鬼·布林格",
+          "mechanism_code": "chant_anomaly_check",
+          "raw_source_url": "https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/1.7.1_da.csv",
+          "source_url": "https://zenless-zone-zero.fandom.com/wiki/Deadly_Assault/2025-04-18 | https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/1.7.1_da.csv",
+          "schedule_source_status": "raw_snapshot_checked"
+        },
+        {
+          "stage_slot": "S3",
+          "boss_zh": "未知复合侵蚀体",
+          "mechanism_code": "part_break_legs",
+          "raw_source_url": "https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/1.7.1_da.csv",
+          "source_url": "https://zenless-zone-zero.fandom.com/wiki/Deadly_Assault/2025-04-18 | https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/1.7.1_da.csv",
+          "schedule_source_status": "raw_snapshot_checked"
+        }
+      ]
+    },
+    {
+      "combat_season": "1.7.1",
+      "start_date": "2025-05-02",
+      "mech_regime": "G1 早期部位/异常交互（1.4–1.7）",
+      "date_source_status": "fandom_history_indexed",
+      "stages": [
+        {
+          "stage_slot": "S1",
+          "boss_zh": "牲鬼·布林格",
+          "mechanism_code": "chant_anomaly_check",
+          "raw_source_url": "",
+          "source_url": "https://zenless-zone-zero.fandom.com/wiki/Deadly_Assault/2025-05-02",
+          "schedule_source_status": "community_history_checked"
+        },
+        {
+          "stage_slot": "S2",
+          "boss_zh": "未知复合侵蚀体",
+          "mechanism_code": "part_break_legs",
+          "raw_source_url": "",
+          "source_url": "https://zenless-zone-zero.fandom.com/wiki/Deadly_Assault/2025-05-02",
+          "schedule_source_status": "community_history_checked"
+        },
+        {
+          "stage_slot": "S3",
+          "boss_zh": "侵蚀统领·庞培",
+          "mechanism_code": "anomaly_strip",
+          "raw_source_url": "",
+          "source_url": "https://zenless-zone-zero.fandom.com/wiki/Deadly_Assault/2025-05-02",
+          "schedule_source_status": "community_history_checked"
+        }
+      ]
+    },
+    {
+      "combat_season": "1.7.2",
+      "start_date": "2025-05-16",
+      "mech_regime": "G1 早期部位/异常交互（1.4–1.7）",
+      "date_source_status": "fandom_history_indexed",
+      "stages": [
+        {
+          "stage_slot": "S1",
+          "boss_zh": "恶名·冥宁芙",
+          "mechanism_code": "clone_destruction",
+          "raw_source_url": "https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/1.7.2_da.csv",
+          "source_url": "https://zenless-zone-zero.fandom.com/wiki/Deadly_Assault/2025-05-16 | https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/1.7.2_da.csv",
+          "schedule_source_status": "raw_snapshot_checked"
+        },
+        {
+          "stage_slot": "S2",
+          "boss_zh": "恶名·死路屠夫",
+          "mechanism_code": "disorder_ether_strip",
+          "raw_source_url": "https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/1.7.2_da.csv",
+          "source_url": "https://zenless-zone-zero.fandom.com/wiki/Deadly_Assault/2025-05-16 | https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/1.7.2_da.csv",
+          "schedule_source_status": "raw_snapshot_checked"
+        },
+        {
+          "stage_slot": "S3",
+          "boss_zh": "泰丰·挑战者",
+          "mechanism_code": "triple_parry_impair",
+          "raw_source_url": "https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/1.7.2_da.csv",
+          "source_url": "https://zenless-zone-zero.fandom.com/wiki/Deadly_Assault/2025-05-16 | https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/1.7.2_da.csv",
+          "schedule_source_status": "raw_snapshot_checked"
+        }
+      ]
+    },
+    {
+      "combat_season": "1.7.3",
+      "start_date": "2025-05-30",
+      "mech_regime": "G1 早期部位/异常交互（1.4–1.7）",
+      "date_source_status": "fandom_history_indexed",
+      "stages": [
+        {
+          "stage_slot": "S1",
+          "boss_zh": "恶名·冥宁芙",
+          "mechanism_code": "clone_destruction",
+          "raw_source_url": "https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/2.0.1_da.csv",
+          "source_url": "https://zenless-zone-zero.fandom.com/wiki/Deadly_Assault/2025-05-30 | https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/2.0.1_da.csv",
+          "schedule_source_status": "raw_snapshot_checked"
+        },
+        {
+          "stage_slot": "S2",
+          "boss_zh": "牲鬼·布林格",
+          "mechanism_code": "chant_anomaly_check",
+          "raw_source_url": "https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/2.0.1_da.csv",
+          "source_url": "https://zenless-zone-zero.fandom.com/wiki/Deadly_Assault/2025-05-30 | https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/2.0.1_da.csv",
+          "schedule_source_status": "raw_snapshot_checked"
+        },
+        {
+          "stage_slot": "S3",
+          "boss_zh": "恶名·庞培",
+          "mechanism_code": "parry_stagger",
+          "raw_source_url": "https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/2.0.1_da.csv",
+          "source_url": "https://zenless-zone-zero.fandom.com/wiki/Deadly_Assault/2025-05-30 | https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/2.0.1_da.csv",
+          "schedule_source_status": "raw_snapshot_checked"
+        }
+      ]
+    },
+    {
+      "combat_season": "2.0.1",
+      "start_date": "2025-06-13",
+      "mech_regime": "G2 秽盾/高防壁垒（2.0–2.4）",
+      "date_source_status": "fandom_history_indexed",
+      "stages": [
+        {
+          "stage_slot": "S1",
+          "boss_zh": "秽息司祭",
+          "mechanism_code": "miasma_shield",
+          "raw_source_url": "",
+          "source_url": "https://zenless-zone-zero.fandom.com/wiki/Deadly_Assault/2025-06-13",
+          "schedule_source_status": "supplied_schedule"
+        },
+        {
+          "stage_slot": "S2",
+          "boss_zh": "恶名·冥宁芙",
+          "mechanism_code": "clone_destruction",
+          "raw_source_url": "",
+          "source_url": "https://zenless-zone-zero.fandom.com/wiki/Deadly_Assault/2025-06-13",
+          "schedule_source_status": "supplied_schedule"
+        },
+        {
+          "stage_slot": "S3",
+          "boss_zh": "恶名·庞培",
+          "mechanism_code": "parry_stagger",
+          "raw_source_url": "",
+          "source_url": "https://zenless-zone-zero.fandom.com/wiki/Deadly_Assault/2025-06-13",
+          "schedule_source_status": "supplied_schedule"
+        }
+      ]
+    },
+    {
+      "combat_season": "2.0.2",
+      "start_date": "2025-06-27",
+      "mech_regime": "G2 秽盾/高防壁垒（2.0–2.4）",
+      "date_source_status": "fandom_history_indexed",
+      "stages": [
+        {
+          "stage_slot": "S1",
+          "boss_zh": "恶名·庞培",
+          "mechanism_code": "parry_stagger",
+          "raw_source_url": "https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/2.0.2_da.csv",
+          "source_url": "https://zenless-zone-zero.fandom.com/wiki/Deadly_Assault/2025-06-27 | https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/2.0.2_da.csv",
+          "schedule_source_status": "raw_snapshot_checked"
+        },
+        {
+          "stage_slot": "S2",
+          "boss_zh": "未知复合侵蚀体",
+          "mechanism_code": "part_break_legs",
+          "raw_source_url": "https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/2.0.2_da.csv",
+          "source_url": "https://zenless-zone-zero.fandom.com/wiki/Deadly_Assault/2025-06-27 | https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/2.0.2_da.csv",
+          "schedule_source_status": "raw_snapshot_checked"
+        },
+        {
+          "stage_slot": "S3",
+          "boss_zh": "牲鬼·布林格",
+          "mechanism_code": "chant_anomaly_check",
+          "raw_source_url": "https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/2.0.2_da.csv",
+          "source_url": "https://zenless-zone-zero.fandom.com/wiki/Deadly_Assault/2025-06-27 | https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/2.0.2_da.csv",
+          "schedule_source_status": "raw_snapshot_checked"
+        }
+      ]
+    },
+    {
+      "combat_season": "2.0.3",
+      "start_date": "2025-07-11",
+      "mech_regime": "G2 秽盾/高防壁垒（2.0–2.4）",
+      "date_source_status": "fandom_history_indexed",
+      "stages": [
+        {
+          "stage_slot": "S1",
+          "boss_zh": "秽息司祭",
+          "mechanism_code": "miasma_shield",
+          "raw_source_url": "https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/2.1.1_da.csv",
+          "source_url": "https://zenless-zone-zero.fandom.com/wiki/Deadly_Assault/2025-07-11 | https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/2.1.1_da.csv",
+          "schedule_source_status": "raw_snapshot_checked"
+        },
+        {
+          "stage_slot": "S2",
+          "boss_zh": "侵蚀统领·庞培",
+          "mechanism_code": "anomaly_strip",
+          "raw_source_url": "https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/2.1.1_da.csv",
+          "source_url": "https://zenless-zone-zero.fandom.com/wiki/Deadly_Assault/2025-07-11 | https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/2.1.1_da.csv",
+          "schedule_source_status": "raw_snapshot_checked"
+        },
+        {
+          "stage_slot": "S3",
+          "boss_zh": "恶名·死路屠夫",
+          "mechanism_code": "disorder_ether_strip",
+          "raw_source_url": "https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/2.1.1_da.csv",
+          "source_url": "https://zenless-zone-zero.fandom.com/wiki/Deadly_Assault/2025-07-11 | https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/2.1.1_da.csv",
+          "schedule_source_status": "raw_snapshot_checked"
+        }
+      ]
+    },
+    {
+      "combat_season": "2.1.1",
+      "start_date": "2025-07-25",
+      "mech_regime": "G2 秽盾/高防壁垒（2.0–2.4）",
+      "date_source_status": "fandom_history_indexed",
+      "stages": [
+        {
+          "stage_slot": "S1",
+          "boss_zh": "秽息司祭",
+          "mechanism_code": "miasma_shield",
+          "raw_source_url": "",
+          "source_url": "https://zenless-zone-zero.fandom.com/wiki/Deadly_Assault/2025-07-25",
+          "schedule_source_status": "community_history_checked"
+        },
+        {
+          "stage_slot": "S2",
+          "boss_zh": "秽息妖鬼·名可名",
+          "mechanism_code": "miasma_shield_anomaly",
+          "raw_source_url": "",
+          "source_url": "https://zenless-zone-zero.fandom.com/wiki/Deadly_Assault/2025-07-25",
+          "schedule_source_status": "community_history_checked"
+        },
+        {
+          "stage_slot": "S3",
+          "boss_zh": "恶名·庞培",
+          "mechanism_code": "parry_stagger",
+          "raw_source_url": "",
+          "source_url": "https://zenless-zone-zero.fandom.com/wiki/Deadly_Assault/2025-07-25",
+          "schedule_source_status": "community_history_checked"
+        }
+      ]
+    },
+    {
+      "combat_season": "2.1.2",
+      "start_date": "2025-08-08",
+      "mech_regime": "G2 秽盾/高防壁垒（2.0–2.4）",
+      "date_source_status": "fandom_history_indexed",
+      "stages": [
+        {
+          "stage_slot": "S1",
+          "boss_zh": "秽息妖鬼·名可名",
+          "mechanism_code": "miasma_shield_anomaly",
+          "raw_source_url": "https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/2.1.2_da.csv",
+          "source_url": "https://zenless-zone-zero.fandom.com/wiki/Deadly_Assault/2025-08-08 | https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/2.1.2_da.csv",
+          "schedule_source_status": "raw_snapshot_checked"
+        },
+        {
+          "stage_slot": "S2",
+          "boss_zh": "恶名·死路屠夫",
+          "mechanism_code": "disorder_ether_strip",
+          "raw_source_url": "https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/2.1.2_da.csv",
+          "source_url": "https://zenless-zone-zero.fandom.com/wiki/Deadly_Assault/2025-08-08 | https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/2.1.2_da.csv",
+          "schedule_source_status": "raw_snapshot_checked"
+        },
+        {
+          "stage_slot": "S3",
+          "boss_zh": "恶名·冥宁芙",
+          "mechanism_code": "clone_destruction",
+          "raw_source_url": "https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/2.1.2_da.csv",
+          "source_url": "https://zenless-zone-zero.fandom.com/wiki/Deadly_Assault/2025-08-08 | https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/2.1.2_da.csv",
+          "schedule_source_status": "raw_snapshot_checked"
+        }
+      ]
+    },
+    {
+      "combat_season": "2.1.3",
+      "start_date": "2025-08-22",
+      "mech_regime": "G2 秽盾/高防壁垒（2.0–2.4）",
+      "date_source_status": "fandom_history_indexed",
+      "stages": [
+        {
+          "stage_slot": "S1",
+          "boss_zh": "恶名·死路屠夫",
+          "mechanism_code": "disorder_ether_strip",
+          "raw_source_url": "",
+          "source_url": "https://zenless-zone-zero.fandom.com/wiki/Deadly_Assault/2025-08-22",
+          "schedule_source_status": "community_history_checked"
+        },
+        {
+          "stage_slot": "S2",
+          "boss_zh": "秽息司祭",
+          "mechanism_code": "miasma_shield",
+          "raw_source_url": "",
+          "source_url": "https://zenless-zone-zero.fandom.com/wiki/Deadly_Assault/2025-08-22",
+          "schedule_source_status": "community_history_checked"
+        },
+        {
+          "stage_slot": "S3",
+          "boss_zh": "泰丰·挑战者",
+          "mechanism_code": "triple_parry_impair",
+          "raw_source_url": "",
+          "source_url": "https://zenless-zone-zero.fandom.com/wiki/Deadly_Assault/2025-08-22",
+          "schedule_source_status": "community_history_checked"
+        }
+      ]
+    },
+    {
+      "combat_season": "2.2.1",
+      "start_date": "2025-09-05",
+      "mech_regime": "G2 秽盾/高防壁垒（2.0–2.4）",
+      "date_source_status": "fandom_history_indexed",
+      "stages": [
+        {
+          "stage_slot": "S1",
+          "boss_zh": "亵渎者",
+          "mechanism_code": "aerial_knockdown_parry",
+          "raw_source_url": "https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/2.2.1_da.csv",
+          "source_url": "https://zenless-zone-zero.fandom.com/wiki/Deadly_Assault/2025-09-05 | https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/2.2.1_da.csv",
+          "schedule_source_status": "raw_snapshot_checked"
+        },
+        {
+          "stage_slot": "S2",
+          "boss_zh": "秽息妖鬼·名可名",
+          "mechanism_code": "miasma_shield_anomaly",
+          "raw_source_url": "https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/2.2.1_da.csv",
+          "source_url": "https://zenless-zone-zero.fandom.com/wiki/Deadly_Assault/2025-09-05 | https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/2.2.1_da.csv",
+          "schedule_source_status": "raw_snapshot_checked"
+        },
+        {
+          "stage_slot": "S3",
+          "boss_zh": "秽息司祭",
+          "mechanism_code": "miasma_shield",
+          "raw_source_url": "https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/2.2.1_da.csv",
+          "source_url": "https://zenless-zone-zero.fandom.com/wiki/Deadly_Assault/2025-09-05 | https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/2.2.1_da.csv",
+          "schedule_source_status": "raw_snapshot_checked"
+        }
+      ]
+    },
+    {
+      "combat_season": "2.2.2",
+      "start_date": "2025-09-19",
+      "mech_regime": "G2 秽盾/高防壁垒（2.0–2.4）",
+      "date_source_status": "fandom_history_indexed",
+      "stages": [
+        {
+          "stage_slot": "S1",
+          "boss_zh": "亵渎者",
+          "mechanism_code": "aerial_knockdown_parry",
+          "raw_source_url": "https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/2.2.2_da.csv",
+          "source_url": "https://zenless-zone-zero.fandom.com/wiki/Deadly_Assault/2025-09-19 | https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/2.2.2_da.csv",
+          "schedule_source_status": "raw_snapshot_checked"
+        },
+        {
+          "stage_slot": "S2",
+          "boss_zh": "恶名·死路屠夫",
+          "mechanism_code": "disorder_ether_strip",
+          "raw_source_url": "https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/2.2.2_da.csv",
+          "source_url": "https://zenless-zone-zero.fandom.com/wiki/Deadly_Assault/2025-09-19 | https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/2.2.2_da.csv",
+          "schedule_source_status": "raw_snapshot_checked"
+        },
+        {
+          "stage_slot": "S3",
+          "boss_zh": "恶名·庞培",
+          "mechanism_code": "parry_stagger",
+          "raw_source_url": "https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/2.2.2_da.csv",
+          "source_url": "https://zenless-zone-zero.fandom.com/wiki/Deadly_Assault/2025-09-19 | https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/2.2.2_da.csv",
+          "schedule_source_status": "raw_snapshot_checked"
+        }
+      ]
+    },
+    {
+      "combat_season": "2.2.3",
+      "start_date": "2025-10-03",
+      "mech_regime": "G2 秽盾/高防壁垒（2.0–2.4）",
+      "date_source_status": "fandom_history_indexed",
+      "stages": [
+        {
+          "stage_slot": "S1",
+          "boss_zh": "秽息妖鬼·名可名",
+          "mechanism_code": "miasma_shield_anomaly",
+          "raw_source_url": "",
+          "source_url": "https://zenless-zone-zero.fandom.com/wiki/Deadly_Assault/2025-10-03",
+          "schedule_source_status": "supplied_schedule"
+        },
+        {
+          "stage_slot": "S2",
+          "boss_zh": "未知复合侵蚀体",
+          "mechanism_code": "part_break_legs",
+          "raw_source_url": "",
+          "source_url": "https://zenless-zone-zero.fandom.com/wiki/Deadly_Assault/2025-10-03",
+          "schedule_source_status": "supplied_schedule"
+        },
+        {
+          "stage_slot": "S3",
+          "boss_zh": "秽息司祭",
+          "mechanism_code": "miasma_shield",
+          "raw_source_url": "",
+          "source_url": "https://zenless-zone-zero.fandom.com/wiki/Deadly_Assault/2025-10-03",
+          "schedule_source_status": "supplied_schedule"
+        }
+      ]
+    },
+    {
+      "combat_season": "2.3.1",
+      "start_date": "2025-10-17",
+      "mech_regime": "G2 秽盾/高防壁垒（2.0–2.4）",
+      "date_source_status": "fandom_history_indexed",
+      "stages": [
+        {
+          "stage_slot": "S1",
+          "boss_zh": "秽息司祭",
+          "mechanism_code": "miasma_shield",
+          "raw_source_url": "https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/2.3.1_da.csv",
+          "source_url": "https://zenless-zone-zero.fandom.com/wiki/Deadly_Assault/2025-10-17 | https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/2.3.1_da.csv",
+          "schedule_source_status": "raw_snapshot_checked"
+        },
+        {
+          "stage_slot": "S2",
+          "boss_zh": "亵渎者",
+          "mechanism_code": "aerial_knockdown_parry",
+          "raw_source_url": "https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/2.3.1_da.csv",
+          "source_url": "https://zenless-zone-zero.fandom.com/wiki/Deadly_Assault/2025-10-17 | https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/2.3.1_da.csv",
+          "schedule_source_status": "raw_snapshot_checked"
+        },
+        {
+          "stage_slot": "S3",
+          "boss_zh": "恶名·死路屠夫",
+          "mechanism_code": "disorder_ether_strip",
+          "raw_source_url": "https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/2.3.1_da.csv",
+          "source_url": "https://zenless-zone-zero.fandom.com/wiki/Deadly_Assault/2025-10-17 | https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/2.3.1_da.csv",
+          "schedule_source_status": "raw_snapshot_checked"
+        }
+      ]
+    },
+    {
+      "combat_season": "2.3.2",
+      "start_date": "2025-10-31",
+      "mech_regime": "G2 秽盾/高防壁垒（2.0–2.4）",
+      "date_source_status": "fandom_history_indexed",
+      "stages": [
+        {
+          "stage_slot": "S1",
+          "boss_zh": "彷徨猎手",
+          "mechanism_code": "miasma_field_high_def",
+          "raw_source_url": "https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/2.3.2_da.csv",
+          "source_url": "https://zenless-zone-zero.fandom.com/wiki/Deadly_Assault/2025-10-31 | https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/2.3.2_da.csv",
+          "schedule_source_status": "raw_snapshot_checked"
+        },
+        {
+          "stage_slot": "S2",
+          "boss_zh": "秽息妖鬼·名可名",
+          "mechanism_code": "miasma_shield_anomaly",
+          "raw_source_url": "https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/2.3.2_da.csv",
+          "source_url": "https://zenless-zone-zero.fandom.com/wiki/Deadly_Assault/2025-10-31 | https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/2.3.2_da.csv",
+          "schedule_source_status": "raw_snapshot_checked"
+        },
+        {
+          "stage_slot": "S3",
+          "boss_zh": "亵渎者",
+          "mechanism_code": "aerial_knockdown_parry",
+          "raw_source_url": "https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/2.3.2_da.csv",
+          "source_url": "https://zenless-zone-zero.fandom.com/wiki/Deadly_Assault/2025-10-31 | https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/2.3.2_da.csv",
+          "schedule_source_status": "raw_snapshot_checked"
+        }
+      ]
+    },
+    {
+      "combat_season": "2.3.3",
+      "start_date": "2025-11-14",
+      "mech_regime": "G2 秽盾/高防壁垒（2.0–2.4）",
+      "date_source_status": "fandom_history_indexed",
+      "stages": [
+        {
+          "stage_slot": "S1",
+          "boss_zh": "彷徨猎手",
+          "mechanism_code": "miasma_field_high_def",
+          "raw_source_url": "",
+          "source_url": "https://zenless-zone-zero.fandom.com/wiki/Deadly_Assault/2025-11-14",
+          "schedule_source_status": "supplied_schedule"
+        },
+        {
+          "stage_slot": "S2",
+          "boss_zh": "泰丰·挑战者",
+          "mechanism_code": "triple_parry_impair",
+          "raw_source_url": "",
+          "source_url": "https://zenless-zone-zero.fandom.com/wiki/Deadly_Assault/2025-11-14",
+          "schedule_source_status": "supplied_schedule"
+        },
+        {
+          "stage_slot": "S3",
+          "boss_zh": "秽息司祭",
+          "mechanism_code": "miasma_shield",
+          "raw_source_url": "",
+          "source_url": "https://zenless-zone-zero.fandom.com/wiki/Deadly_Assault/2025-11-14",
+          "schedule_source_status": "supplied_schedule"
+        }
+      ]
+    },
+    {
+      "combat_season": "2.4.1",
+      "start_date": "2025-11-28",
+      "mech_regime": "G2 秽盾/高防壁垒（2.0–2.4）",
+      "date_source_status": "fandom_history_indexed",
+      "stages": [
+        {
+          "stage_slot": "S1",
+          "boss_zh": "恶名·冥宁芙",
+          "mechanism_code": "clone_destruction",
+          "raw_source_url": "https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/2.4.1_da.csv",
+          "source_url": "https://zenless-zone-zero.fandom.com/wiki/Deadly_Assault/2025-11-28 | https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/2.4.1_da.csv",
+          "schedule_source_status": "raw_snapshot_checked"
+        },
+        {
+          "stage_slot": "S2",
+          "boss_zh": "魇缚者·叶释渊",
+          "mechanism_code": "dual_entity_stun_lock",
+          "raw_source_url": "https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/2.4.1_da.csv",
+          "source_url": "https://zenless-zone-zero.fandom.com/wiki/Deadly_Assault/2025-11-28 | https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/2.4.1_da.csv",
+          "schedule_source_status": "raw_snapshot_checked"
+        },
+        {
+          "stage_slot": "S3",
+          "boss_zh": "秽息妖鬼·名可名",
+          "mechanism_code": "miasma_shield_anomaly",
+          "raw_source_url": "https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/2.4.1_da.csv",
+          "source_url": "https://zenless-zone-zero.fandom.com/wiki/Deadly_Assault/2025-11-28 | https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/2.4.1_da.csv",
+          "schedule_source_status": "raw_snapshot_checked"
+        }
+      ]
+    },
+    {
+      "combat_season": "2.4.2",
+      "start_date": "2025-12-12",
+      "mech_regime": "G2 秽盾/高防壁垒（2.0–2.4）",
+      "date_source_status": "fandom_history_indexed",
+      "stages": [
+        {
+          "stage_slot": "S1",
+          "boss_zh": "彷徨猎手",
+          "mechanism_code": "miasma_field_high_def",
+          "raw_source_url": "",
+          "source_url": "https://zenless-zone-zero.fandom.com/wiki/Deadly_Assault/2025-12-12",
+          "schedule_source_status": "community_history_checked"
+        },
+        {
+          "stage_slot": "S2",
+          "boss_zh": "魇缚者·叶释渊",
+          "mechanism_code": "dual_entity_stun_lock",
+          "raw_source_url": "",
+          "source_url": "https://zenless-zone-zero.fandom.com/wiki/Deadly_Assault/2025-12-12",
+          "schedule_source_status": "community_history_checked"
+        },
+        {
+          "stage_slot": "S3",
+          "boss_zh": "牲鬼·布林格",
+          "mechanism_code": "chant_anomaly_check",
+          "raw_source_url": "",
+          "source_url": "https://zenless-zone-zero.fandom.com/wiki/Deadly_Assault/2025-12-12",
+          "schedule_source_status": "community_history_checked"
+        }
+      ]
+    },
+    {
+      "combat_season": "2.5.1",
+      "start_date": "2026-01-02",
+      "mech_regime": "G3 控制技/帷幕对策（2.5–2.7）",
+      "date_source_status": "fandom_history_indexed",
+      "stages": [
+        {
+          "stage_slot": "S1",
+          "boss_zh": "太初梦魇·「始主」",
+          "mechanism_code": "miasma_plus_control_skill",
+          "raw_source_url": "https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/2.5.1_da.csv | https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/2.5.2_da.csv",
+          "source_url": "https://zenless-zone-zero.fandom.com/wiki/Deadly_Assault/2026-01-02 | https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/2.5.1_da.csv | https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/2.5.2_da.csv",
+          "schedule_source_status": "raw_snapshot_checked"
+        },
+        {
+          "stage_slot": "S2",
+          "boss_zh": "秽息妖鬼·名可名",
+          "mechanism_code": "miasma_shield_anomaly",
+          "raw_source_url": "https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/2.5.1_da.csv | https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/2.5.2_da.csv",
+          "source_url": "https://zenless-zone-zero.fandom.com/wiki/Deadly_Assault/2026-01-02 | https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/2.5.1_da.csv | https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/2.5.2_da.csv",
+          "schedule_source_status": "raw_snapshot_checked"
+        },
+        {
+          "stage_slot": "S3",
+          "boss_zh": "彷徨猎手",
+          "mechanism_code": "miasma_field_high_def",
+          "raw_source_url": "https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/2.5.1_da.csv | https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/2.5.2_da.csv",
+          "source_url": "https://zenless-zone-zero.fandom.com/wiki/Deadly_Assault/2026-01-02 | https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/2.5.1_da.csv | https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/2.5.2_da.csv",
+          "schedule_source_status": "raw_snapshot_checked"
+        }
+      ]
+    },
+    {
+      "combat_season": "2.5.2",
+      "start_date": "2026-01-16",
+      "mech_regime": "G3 控制技/帷幕对策（2.5–2.7）",
+      "date_source_status": "fandom_history_indexed",
+      "stages": [
+        {
+          "stage_slot": "S1",
+          "boss_zh": "亵渎者",
+          "mechanism_code": "aerial_knockdown_parry",
+          "raw_source_url": "https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/2.5.3_da.csv",
+          "source_url": "https://zenless-zone-zero.fandom.com/wiki/Deadly_Assault/2026-01-16 | https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/2.5.3_da.csv",
+          "schedule_source_status": "raw_snapshot_checked"
+        },
+        {
+          "stage_slot": "S2",
+          "boss_zh": "恶名·冥宁芙",
+          "mechanism_code": "clone_destruction",
+          "raw_source_url": "https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/2.5.3_da.csv",
+          "source_url": "https://zenless-zone-zero.fandom.com/wiki/Deadly_Assault/2026-01-16 | https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/2.5.3_da.csv",
+          "schedule_source_status": "raw_snapshot_checked"
+        },
+        {
+          "stage_slot": "S3",
+          "boss_zh": "秽息司祭",
+          "mechanism_code": "miasma_shield",
+          "raw_source_url": "https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/2.5.3_da.csv",
+          "source_url": "https://zenless-zone-zero.fandom.com/wiki/Deadly_Assault/2026-01-16 | https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/2.5.3_da.csv",
+          "schedule_source_status": "raw_snapshot_checked"
+        }
+      ]
+    },
+    {
+      "combat_season": "2.5.3",
+      "start_date": "2026-01-30",
+      "mech_regime": "G3 控制技/帷幕对策（2.5–2.7）",
+      "date_source_status": "fandom_history_indexed",
+      "stages": [
+        {
+          "stage_slot": "S1",
+          "boss_zh": "太初梦魇·「始主」",
+          "mechanism_code": "miasma_plus_control_skill",
+          "raw_source_url": "",
+          "source_url": "https://zenless-zone-zero.fandom.com/wiki/Deadly_Assault/2026-01-30 | https://news.17173.com/content/02012026/012854296.shtml",
+          "schedule_source_status": "community_guide_checked"
+        },
+        {
+          "stage_slot": "S2",
+          "boss_zh": "未知复合侵蚀体",
+          "mechanism_code": "part_break_legs",
+          "raw_source_url": "",
+          "source_url": "https://zenless-zone-zero.fandom.com/wiki/Deadly_Assault/2026-01-30 | https://news.17173.com/content/02012026/012854296.shtml",
+          "schedule_source_status": "community_guide_checked"
+        },
+        {
+          "stage_slot": "S3",
+          "boss_zh": "彷徨猎手",
+          "mechanism_code": "miasma_field_high_def",
+          "raw_source_url": "",
+          "source_url": "https://zenless-zone-zero.fandom.com/wiki/Deadly_Assault/2026-01-30 | https://news.17173.com/content/02012026/012854296.shtml",
+          "schedule_source_status": "community_guide_checked"
+        }
+      ]
+    },
+    {
+      "combat_season": "2.6.1",
+      "start_date": "2026-02-13",
+      "mech_regime": "G3 控制技/帷幕对策（2.5–2.7）",
+      "date_source_status": "fandom_history_indexed",
+      "stages": [
+        {
+          "stage_slot": "S1",
+          "boss_zh": "太初梦魇·「始主」",
+          "mechanism_code": "miasma_plus_control_skill",
+          "raw_source_url": "https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/2.6.1_da.csv",
+          "source_url": "https://zenless-zone-zero.fandom.com/wiki/Deadly_Assault/2026-02-13 | https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/2.6.1_da.csv",
+          "schedule_source_status": "raw_snapshot_checked"
+        },
+        {
+          "stage_slot": "S2",
+          "boss_zh": "秽息司祭",
+          "mechanism_code": "miasma_shield",
+          "raw_source_url": "https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/2.6.1_da.csv",
+          "source_url": "https://zenless-zone-zero.fandom.com/wiki/Deadly_Assault/2026-02-13 | https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/2.6.1_da.csv",
+          "schedule_source_status": "raw_snapshot_checked"
+        },
+        {
+          "stage_slot": "S3",
+          "boss_zh": "恶名·死路屠夫",
+          "mechanism_code": "disorder_ether_strip",
+          "raw_source_url": "https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/2.6.1_da.csv",
+          "source_url": "https://zenless-zone-zero.fandom.com/wiki/Deadly_Assault/2026-02-13 | https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/2.6.1_da.csv",
+          "schedule_source_status": "raw_snapshot_checked"
+        }
+      ]
+    },
+    {
+      "combat_season": "2.6.2",
+      "start_date": "2026-02-27",
+      "mech_regime": "G3 控制技/帷幕对策（2.5–2.7）",
+      "date_source_status": "fandom_history_indexed",
+      "stages": [
+        {
+          "stage_slot": "S1",
+          "boss_zh": "叛律孤歌·薇斯珀",
+          "mechanism_code": "control_skill_ether_veil",
+          "raw_source_url": "https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/2.6.2_da.csv",
+          "source_url": "https://zenless-zone-zero.fandom.com/wiki/Deadly_Assault/2026-02-27 | https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/2.6.2_da.csv",
+          "schedule_source_status": "raw_snapshot_checked"
+        },
+        {
+          "stage_slot": "S2",
+          "boss_zh": "亵渎者",
+          "mechanism_code": "aerial_knockdown_parry",
+          "raw_source_url": "https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/2.6.2_da.csv",
+          "source_url": "https://zenless-zone-zero.fandom.com/wiki/Deadly_Assault/2026-02-27 | https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/2.6.2_da.csv",
+          "schedule_source_status": "raw_snapshot_checked"
+        },
+        {
+          "stage_slot": "S3",
+          "boss_zh": "彷徨猎手",
+          "mechanism_code": "miasma_field_high_def",
+          "raw_source_url": "https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/2.6.2_da.csv",
+          "source_url": "https://zenless-zone-zero.fandom.com/wiki/Deadly_Assault/2026-02-27 | https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/2.6.2_da.csv",
+          "schedule_source_status": "raw_snapshot_checked"
+        }
+      ]
+    },
+    {
+      "combat_season": "2.6.3",
+      "start_date": "2026-03-13",
+      "mech_regime": "G3 控制技/帷幕对策（2.5–2.7）",
+      "date_source_status": "fandom_history_indexed",
+      "stages": [
+        {
+          "stage_slot": "S1",
+          "boss_zh": "秽息妖鬼·名可名",
+          "mechanism_code": "miasma_shield_anomaly",
+          "raw_source_url": "",
+          "source_url": "https://zenless-zone-zero.fandom.com/wiki/Deadly_Assault/2026-03-13",
+          "schedule_source_status": "supplied_schedule"
+        },
+        {
+          "stage_slot": "S2",
+          "boss_zh": "魇缚者·叶释渊",
+          "mechanism_code": "dual_entity_stun_lock",
+          "raw_source_url": "",
+          "source_url": "https://zenless-zone-zero.fandom.com/wiki/Deadly_Assault/2026-03-13",
+          "schedule_source_status": "supplied_schedule"
+        },
+        {
+          "stage_slot": "S3",
+          "boss_zh": "恶名·庞培",
+          "mechanism_code": "parry_stagger",
+          "raw_source_url": "",
+          "source_url": "https://zenless-zone-zero.fandom.com/wiki/Deadly_Assault/2026-03-13",
+          "schedule_source_status": "supplied_schedule"
+        }
+      ]
+    },
+    {
+      "combat_season": "2.7.1",
+      "start_date": "2026-03-27",
+      "mech_regime": "G3 控制技/帷幕对策（2.5–2.7）",
+      "date_source_status": "fandom_history_indexed",
+      "stages": [
+        {
+          "stage_slot": "S1",
+          "boss_zh": "猎血清道夫",
+          "mechanism_code": "corruptive_barrier_control_skill",
+          "raw_source_url": "https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/2.7.1_da.csv",
+          "source_url": "https://zenless-zone-zero.fandom.com/wiki/Deadly_Assault/2026-03-27 | https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/2.7.1_da.csv | https://news.17173.com/content/03242026/085802516.shtml",
+          "schedule_source_status": "version_announcement_checked_and_raw"
+        },
+        {
+          "stage_slot": "S2",
+          "boss_zh": "秽息司祭",
+          "mechanism_code": "miasma_shield",
+          "raw_source_url": "https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/2.7.1_da.csv",
+          "source_url": "https://zenless-zone-zero.fandom.com/wiki/Deadly_Assault/2026-03-27 | https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/2.7.1_da.csv | https://news.17173.com/content/03242026/085802516.shtml",
+          "schedule_source_status": "version_announcement_checked_and_raw"
+        },
+        {
+          "stage_slot": "S3",
+          "boss_zh": "恶名·冥宁芙",
+          "mechanism_code": "clone_destruction",
+          "raw_source_url": "https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/2.7.1_da.csv",
+          "source_url": "https://zenless-zone-zero.fandom.com/wiki/Deadly_Assault/2026-03-27 | https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/2.7.1_da.csv | https://news.17173.com/content/03242026/085802516.shtml",
+          "schedule_source_status": "version_announcement_checked_and_raw"
+        }
+      ]
+    },
+    {
+      "combat_season": "2.7.2",
+      "start_date": "2026-04-10",
+      "mech_regime": "G3 控制技/帷幕对策（2.5–2.7）",
+      "date_source_status": "fandom_history_indexed",
+      "stages": [
+        {
+          "stage_slot": "S1",
+          "boss_zh": "叛律孤歌·薇斯珀",
+          "mechanism_code": "control_skill_ether_veil",
+          "raw_source_url": "https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/2.7.2_da.csv",
+          "source_url": "https://zenless-zone-zero.fandom.com/wiki/Deadly_Assault/2026-04-10 | https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/2.7.2_da.csv | https://news.17173.com/content/03242026/085802516.shtml",
+          "schedule_source_status": "version_announcement_checked_and_raw"
+        },
+        {
+          "stage_slot": "S2",
+          "boss_zh": "未知复合侵蚀体",
+          "mechanism_code": "part_break_legs",
+          "raw_source_url": "https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/2.7.2_da.csv",
+          "source_url": "https://zenless-zone-zero.fandom.com/wiki/Deadly_Assault/2026-04-10 | https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/2.7.2_da.csv | https://news.17173.com/content/03242026/085802516.shtml",
+          "schedule_source_status": "version_announcement_checked_and_raw"
+        },
+        {
+          "stage_slot": "S3",
+          "boss_zh": "魇缚者·叶释渊",
+          "mechanism_code": "dual_entity_stun_lock",
+          "raw_source_url": "https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/2.7.2_da.csv",
+          "source_url": "https://zenless-zone-zero.fandom.com/wiki/Deadly_Assault/2026-04-10 | https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/2.7.2_da.csv | https://news.17173.com/content/03242026/085802516.shtml",
+          "schedule_source_status": "version_announcement_checked_and_raw"
+        }
+      ]
+    },
+    {
+      "combat_season": "2.7.3",
+      "start_date": "2026-04-24",
+      "mech_regime": "G3 控制技/帷幕对策（2.5–2.7）",
+      "date_source_status": "fandom_history_indexed",
+      "stages": [
+        {
+          "stage_slot": "S1",
+          "boss_zh": "猎血清道夫",
+          "mechanism_code": "corruptive_barrier_control_skill",
+          "raw_source_url": "",
+          "source_url": "https://zenless-zone-zero.fandom.com/wiki/Deadly_Assault/2026-04-24 | https://news.17173.com/content/03242026/085802516.shtml",
+          "schedule_source_status": "version_announcement_checked"
+        },
+        {
+          "stage_slot": "S2",
+          "boss_zh": "太初梦魇·「始主」",
+          "mechanism_code": "miasma_plus_control_skill",
+          "raw_source_url": "",
+          "source_url": "https://zenless-zone-zero.fandom.com/wiki/Deadly_Assault/2026-04-24 | https://news.17173.com/content/03242026/085802516.shtml",
+          "schedule_source_status": "version_announcement_checked"
+        },
+        {
+          "stage_slot": "S3",
+          "boss_zh": "亵渎者",
+          "mechanism_code": "aerial_knockdown_parry",
+          "raw_source_url": "",
+          "source_url": "https://zenless-zone-zero.fandom.com/wiki/Deadly_Assault/2026-04-24 | https://news.17173.com/content/03242026/085802516.shtml",
+          "schedule_source_status": "version_announcement_checked"
+        }
+      ]
+    },
+    {
+      "combat_season": "2.8.1",
+      "start_date": "2026-05-08",
+      "mech_regime": "G4 赴火暴伤锁（2.8）",
+      "date_source_status": "fandom_history_indexed",
+      "stages": [
+        {
+          "stage_slot": "S1",
+          "boss_zh": "焚昼余火·法厄同",
+          "mechanism_code": "crit_lock_125_into_flames",
+          "raw_source_url": "https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/2.8.1_da.csv",
+          "source_url": "https://zenless-zone-zero.fandom.com/wiki/Deadly_Assault/2026-05-08 | https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/2.8.1_da.csv",
+          "schedule_source_status": "raw_snapshot_checked"
+        },
+        {
+          "stage_slot": "S2",
+          "boss_zh": "彷徨猎手",
+          "mechanism_code": "miasma_field_high_def",
+          "raw_source_url": "https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/2.8.1_da.csv",
+          "source_url": "https://zenless-zone-zero.fandom.com/wiki/Deadly_Assault/2026-05-08 | https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/2.8.1_da.csv",
+          "schedule_source_status": "raw_snapshot_checked"
+        },
+        {
+          "stage_slot": "S3",
+          "boss_zh": "亵渎者",
+          "mechanism_code": "aerial_knockdown_parry",
+          "raw_source_url": "https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/2.8.1_da.csv",
+          "source_url": "https://zenless-zone-zero.fandom.com/wiki/Deadly_Assault/2026-05-08 | https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/2.8.1_da.csv",
+          "schedule_source_status": "raw_snapshot_checked"
+        }
+      ]
+    },
+    {
+      "combat_season": "2.8.2",
+      "start_date": "2026-05-22",
+      "mech_regime": "G4 赴火暴伤锁（2.8）",
+      "date_source_status": "fandom_history_indexed",
+      "stages": [
+        {
+          "stage_slot": "S1",
+          "boss_zh": "恶名·死路屠夫",
+          "mechanism_code": "disorder_ether_strip",
+          "raw_source_url": "https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/2.8.2_da.csv",
+          "source_url": "https://zenless-zone-zero.fandom.com/wiki/Deadly_Assault/2026-05-22 | https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/2.8.2_da.csv",
+          "schedule_source_status": "raw_snapshot_checked"
+        },
+        {
+          "stage_slot": "S2",
+          "boss_zh": "魇缚者·叶释渊",
+          "mechanism_code": "dual_entity_stun_lock",
+          "raw_source_url": "https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/2.8.2_da.csv",
+          "source_url": "https://zenless-zone-zero.fandom.com/wiki/Deadly_Assault/2026-05-22 | https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/2.8.2_da.csv",
+          "schedule_source_status": "raw_snapshot_checked"
+        },
+        {
+          "stage_slot": "S3",
+          "boss_zh": "叛律孤歌·薇斯珀",
+          "mechanism_code": "control_skill_ether_veil",
+          "raw_source_url": "https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/2.8.2_da.csv",
+          "source_url": "https://zenless-zone-zero.fandom.com/wiki/Deadly_Assault/2026-05-22 | https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/2.8.2_da.csv",
+          "schedule_source_status": "raw_snapshot_checked"
+        }
+      ]
+    },
+    {
+      "combat_season": "2.8.3",
+      "start_date": "2026-06-05",
+      "mech_regime": "G4 赴火暴伤锁（2.8）",
+      "date_source_status": "fandom_history_indexed",
+      "stages": [
+        {
+          "stage_slot": "S1",
+          "boss_zh": "秽息妖鬼·名可名",
+          "mechanism_code": "miasma_shield_anomaly",
+          "raw_source_url": "https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/2.8.3_da.csv",
+          "source_url": "https://zenless-zone-zero.fandom.com/wiki/Deadly_Assault/2026-06-05 | https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/2.8.3_da.csv",
+          "schedule_source_status": "raw_snapshot_checked"
+        },
+        {
+          "stage_slot": "S2",
+          "boss_zh": "魇缚者·叶释渊",
+          "mechanism_code": "dual_entity_stun_lock",
+          "raw_source_url": "https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/2.8.3_da.csv",
+          "source_url": "https://zenless-zone-zero.fandom.com/wiki/Deadly_Assault/2026-06-05 | https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/2.8.3_da.csv",
+          "schedule_source_status": "raw_snapshot_checked"
+        },
+        {
+          "stage_slot": "S3",
+          "boss_zh": "亵渎者",
+          "mechanism_code": "aerial_knockdown_parry",
+          "raw_source_url": "https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/2.8.3_da.csv",
+          "source_url": "https://zenless-zone-zero.fandom.com/wiki/Deadly_Assault/2026-06-05 | https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/2.8.3_da.csv",
+          "schedule_source_status": "raw_snapshot_checked"
+        }
+      ]
+    },
+    {
+      "combat_season": "3.0.1",
+      "start_date": "2026-06-19",
+      "mech_regime": "G5 侵蚀壁垒/锋御对策（3.0–3.2）",
+      "date_source_status": "supplied_date",
+      "stages": [
+        {
+          "stage_slot": "S1",
+          "boss_zh": "基塔布鲁",
+          "mechanism_code": "corruptive_barrier_anomaly",
+          "raw_source_url": "https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/3.0.1_da.csv",
+          "source_url": "https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/3.0.1_da.csv",
+          "schedule_source_status": "raw_snapshot_checked"
+        },
+        {
+          "stage_slot": "S2",
+          "boss_zh": "恶名·冥宁芙",
+          "mechanism_code": "clone_destruction",
+          "raw_source_url": "https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/3.0.1_da.csv",
+          "source_url": "https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/3.0.1_da.csv",
+          "schedule_source_status": "raw_snapshot_checked"
+        },
+        {
+          "stage_slot": "S3",
+          "boss_zh": "魇缚者·叶释渊",
+          "mechanism_code": "dual_entity_stun_lock",
+          "raw_source_url": "https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/3.0.1_da.csv",
+          "source_url": "https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/3.0.1_da.csv",
+          "schedule_source_status": "raw_snapshot_checked"
+        }
+      ]
+    },
+    {
+      "combat_season": "3.0.2",
+      "start_date": "2026-07-03",
+      "mech_regime": "G5 侵蚀壁垒/锋御对策（3.0–3.2）",
+      "date_source_status": "supplied_date",
+      "stages": [
+        {
+          "stage_slot": "S1",
+          "boss_zh": "基塔布鲁",
+          "mechanism_code": "corruptive_barrier_anomaly",
+          "raw_source_url": "https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/3.0.2_da.csv",
+          "source_url": "https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/3.0.2_da.csv",
+          "schedule_source_status": "raw_snapshot_checked"
+        },
+        {
+          "stage_slot": "S2",
+          "boss_zh": "太初梦魇·「始主」",
+          "mechanism_code": "miasma_plus_control_skill",
+          "raw_source_url": "https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/3.0.2_da.csv",
+          "source_url": "https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/3.0.2_da.csv",
+          "schedule_source_status": "raw_snapshot_checked"
+        },
+        {
+          "stage_slot": "S3",
+          "boss_zh": "魇缚者·叶释渊",
+          "mechanism_code": "dual_entity_stun_lock",
+          "raw_source_url": "https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/3.0.2_da.csv",
+          "source_url": "https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/3.0.2_da.csv",
+          "schedule_source_status": "raw_snapshot_checked"
+        }
+      ]
+    },
+    {
+      "combat_season": "3.0.3",
+      "start_date": "2026-07-17",
+      "mech_regime": "G5 侵蚀壁垒/锋御对策（3.0–3.2）",
+      "date_source_status": "supplied_date",
+      "stages": [
+        {
+          "stage_slot": "S1",
+          "boss_zh": "焚昼余火·法厄同",
+          "mechanism_code": "crit_lock_125_into_flames",
+          "raw_source_url": "https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/3.0.3_da.csv",
+          "source_url": "https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/3.0.3_da.csv",
+          "schedule_source_status": "raw_snapshot_checked"
+        },
+        {
+          "stage_slot": "S2",
+          "boss_zh": "恶名·庞培",
+          "mechanism_code": "parry_stagger",
+          "raw_source_url": "https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/3.0.3_da.csv",
+          "source_url": "https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/3.0.3_da.csv",
+          "schedule_source_status": "raw_snapshot_checked"
+        },
+        {
+          "stage_slot": "S3",
+          "boss_zh": "秽息妖鬼·名可名",
+          "mechanism_code": "miasma_shield_anomaly",
+          "raw_source_url": "https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/3.0.3_da.csv",
+          "source_url": "https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/3.0.3_da.csv",
+          "schedule_source_status": "raw_snapshot_checked"
+        }
+      ]
+    },
+    {
+      "combat_season": "3.1.1",
+      "start_date": "2026-07-29",
+      "mech_regime": "G5 侵蚀壁垒/锋御对策（3.0–3.2）",
+      "date_source_status": "supplied_date",
+      "stages": [
+        {
+          "stage_slot": "S1",
+          "boss_zh": "滞异·基塔布鲁",
+          "mechanism_code": "corruptive_barrier_anomaly",
+          "raw_source_url": "https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/3.1.1_da.csv",
+          "source_url": "https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/3.1.1_da.csv | https://zzz.mihoyo.com/news/165415",
+          "schedule_source_status": "official_announcement_and_raw_checked"
+        },
+        {
+          "stage_slot": "S2",
+          "boss_zh": "恶名·死路屠夫",
+          "mechanism_code": "disorder_ether_strip",
+          "raw_source_url": "https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/3.1.1_da.csv",
+          "source_url": "https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/3.1.1_da.csv | https://zzz.mihoyo.com/news/165415",
+          "schedule_source_status": "official_announcement_and_raw_checked"
+        },
+        {
+          "stage_slot": "S3",
+          "boss_zh": "未知复合侵蚀体",
+          "mechanism_code": "part_break_legs",
+          "raw_source_url": "https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/3.1.1_da.csv",
+          "source_url": "https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/3.1.1_da.csv | https://zzz.mihoyo.com/news/165415",
+          "schedule_source_status": "official_announcement_and_raw_checked"
+        },
+        {
+          "stage_slot": "ADV",
+          "boss_zh": "异构·基塔布鲁",
+          "mechanism_code": "corruptive_barrier_anomaly",
+          "raw_source_url": "https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/3.1.1_da.csv",
+          "source_url": "https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/3.1.1_da.csv",
+          "schedule_source_status": "raw_snapshot_checked"
+        }
+      ]
+    },
+    {
+      "combat_season": "3.1.2",
+      "start_date": "2026-08-14",
+      "mech_regime": "G5 侵蚀壁垒/锋御对策（3.0–3.2）",
+      "date_source_status": "supplied_date",
+      "stages": [
+        {
+          "stage_slot": "S1",
+          "boss_zh": "滞异·基塔布鲁",
+          "mechanism_code": "corruptive_barrier_anomaly",
+          "raw_source_url": "https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/3.1.2_da.csv",
+          "source_url": "https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/3.1.2_da.csv | https://zzz.mihoyo.com/news/165415",
+          "schedule_source_status": "official_announcement_and_raw_checked"
+        },
+        {
+          "stage_slot": "S2",
+          "boss_zh": "魇缚者·叶释渊",
+          "mechanism_code": "dual_entity_stun_lock",
+          "raw_source_url": "https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/3.1.2_da.csv",
+          "source_url": "https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/3.1.2_da.csv | https://zzz.mihoyo.com/news/165415",
+          "schedule_source_status": "official_announcement_and_raw_checked"
+        },
+        {
+          "stage_slot": "S3",
+          "boss_zh": "秽息司祭",
+          "mechanism_code": "miasma_shield",
+          "raw_source_url": "https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/3.1.2_da.csv",
+          "source_url": "https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/3.1.2_da.csv | https://zzz.mihoyo.com/news/165415",
+          "schedule_source_status": "official_announcement_and_raw_checked"
+        },
+        {
+          "stage_slot": "ADV",
+          "boss_zh": "复写体·猎血清道夫",
+          "mechanism_code": "corruptive_barrier_control_skill",
+          "raw_source_url": "https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/3.1.2_da.csv",
+          "source_url": "https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/3.1.2_da.csv",
+          "schedule_source_status": "raw_snapshot_checked"
+        }
+      ]
+    },
+    {
+      "combat_season": "3.1.3",
+      "start_date": "2026-08-28",
+      "mech_regime": "G5 侵蚀壁垒/锋御对策（3.0–3.2）",
+      "date_source_status": "supplied_date",
+      "stages": [
+        {
+          "stage_slot": "S1",
+          "boss_zh": "死路屠夫",
+          "mechanism_code": "dodge_crit_stack",
+          "raw_source_url": "https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/3.1.3_da.csv",
+          "source_url": "https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/3.1.3_da.csv | https://zzz.mihoyo.com/news/165415",
+          "schedule_source_status": "official_announcement_and_raw_checked"
+        },
+        {
+          "stage_slot": "S2",
+          "boss_zh": "基塔布鲁",
+          "mechanism_code": "corruptive_barrier_anomaly",
+          "raw_source_url": "https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/3.1.3_da.csv",
+          "source_url": "https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/3.1.3_da.csv | https://zzz.mihoyo.com/news/165415",
+          "schedule_source_status": "official_announcement_and_raw_checked"
+        },
+        {
+          "stage_slot": "S3",
+          "boss_zh": "太初梦魇·「始主」",
+          "mechanism_code": "miasma_plus_control_skill",
+          "raw_source_url": "https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/3.1.3_da.csv",
+          "source_url": "https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/3.1.3_da.csv | https://zzz.mihoyo.com/news/165415",
+          "schedule_source_status": "official_announcement_and_raw_checked"
+        },
+        {
+          "stage_slot": "ADV",
+          "boss_zh": "复写体·猎血清道夫",
+          "mechanism_code": "corruptive_barrier_control_skill",
+          "raw_source_url": "https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/3.1.3_da.csv",
+          "source_url": "https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/3.1.3_da.csv",
+          "schedule_source_status": "raw_snapshot_checked"
+        }
+      ]
+    },
+    {
+      "combat_season": "3.2.1",
+      "start_date": "2026-09-11",
+      "mech_regime": "G5 侵蚀壁垒/锋御对策（3.0–3.2）",
+      "date_source_status": "supplied_date",
+      "stages": [
+        {
+          "stage_slot": "S1",
+          "boss_zh": "库萨里库",
+          "mechanism_code": "corruptive_barrier_armorer",
+          "raw_source_url": "https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/3.2.1_da.csv",
+          "source_url": "https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/3.2.1_da.csv | https://zzz.mihoyo.com/news/166026",
+          "schedule_source_status": "official_announcement_and_raw_checked"
+        },
+        {
+          "stage_slot": "S2",
+          "boss_zh": "滞异·基塔布鲁",
+          "mechanism_code": "corruptive_barrier_anomaly",
+          "raw_source_url": "https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/3.2.1_da.csv",
+          "source_url": "https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/3.2.1_da.csv | https://zzz.mihoyo.com/news/166026",
+          "schedule_source_status": "official_announcement_and_raw_checked"
+        },
+        {
+          "stage_slot": "S3",
+          "boss_zh": "魇缚者·叶释渊",
+          "mechanism_code": "dual_entity_stun_lock",
+          "raw_source_url": "https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/3.2.1_da.csv",
+          "source_url": "https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/3.2.1_da.csv | https://zzz.mihoyo.com/news/166026",
+          "schedule_source_status": "official_announcement_and_raw_checked"
+        },
+        {
+          "stage_slot": "ADV",
+          "boss_zh": "异构·焚昼余火",
+          "mechanism_code": "control_skill_sharp_dmg",
+          "raw_source_url": "https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/3.2.1_da.csv",
+          "source_url": "https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/3.2.1_da.csv | https://zzz.mihoyo.com/news/166026",
+          "schedule_source_status": "official_announcement_and_raw_checked"
+        }
+      ]
+    },
+    {
+      "combat_season": "3.2.2",
+      "start_date": "2026-09-25",
+      "mech_regime": "G5 侵蚀壁垒/锋御对策（3.0–3.2）",
+      "date_source_status": "supplied_date",
+      "stages": [
+        {
+          "stage_slot": "S1",
+          "boss_zh": "库萨里库",
+          "mechanism_code": "corruptive_barrier_armorer",
+          "raw_source_url": "https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/3.2.2_da.csv",
+          "source_url": "https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/3.2.2_da.csv | https://zzz.mihoyo.com/news/166026",
+          "schedule_source_status": "official_announcement_and_raw_checked"
+        },
+        {
+          "stage_slot": "S2",
+          "boss_zh": "秽息妖鬼·名可名",
+          "mechanism_code": "miasma_shield_anomaly",
+          "raw_source_url": "https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/3.2.2_da.csv",
+          "source_url": "https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/3.2.2_da.csv | https://zzz.mihoyo.com/news/166026",
+          "schedule_source_status": "official_announcement_and_raw_checked"
+        },
+        {
+          "stage_slot": "S3",
+          "boss_zh": "魇缚者·叶释渊",
+          "mechanism_code": "dual_entity_stun_lock",
+          "raw_source_url": "https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/3.2.2_da.csv",
+          "source_url": "https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/3.2.2_da.csv | https://zzz.mihoyo.com/news/166026",
+          "schedule_source_status": "official_announcement_and_raw_checked"
+        },
+        {
+          "stage_slot": "ADV",
+          "boss_zh": "异构·焚昼余火",
+          "mechanism_code": "control_skill_sharp_dmg",
+          "raw_source_url": "https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/3.2.2_da.csv",
+          "source_url": "https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/3.2.2_da.csv | https://zzz.mihoyo.com/news/166026",
+          "schedule_source_status": "official_announcement_and_raw_checked"
+        }
+      ]
+    },
+    {
+      "combat_season": "3.2.3",
+      "start_date": "2026-10-09",
+      "mech_regime": "G5 侵蚀壁垒/锋御对策（3.0–3.2）",
+      "date_source_status": "supplied_date",
+      "stages": [
+        {
+          "stage_slot": "S1",
+          "boss_zh": "焚昼余火·法厄同",
+          "mechanism_code": "crit_lock_125_into_flames",
+          "raw_source_url": "https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/3.2.3_da.csv",
+          "source_url": "https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/3.2.3_da.csv | https://zzz.mihoyo.com/news/166026",
+          "schedule_source_status": "official_announcement_and_raw_checked"
+        },
+        {
+          "stage_slot": "S2",
+          "boss_zh": "熔狱行赭",
+          "mechanism_code": "molten_prison_meteor_parry",
+          "raw_source_url": "https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/3.2.3_da.csv",
+          "source_url": "https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/3.2.3_da.csv | https://zzz.mihoyo.com/news/166026",
+          "schedule_source_status": "official_announcement_and_raw_checked"
+        },
+        {
+          "stage_slot": "S3",
+          "boss_zh": "库萨里库",
+          "mechanism_code": "corruptive_barrier_armorer",
+          "raw_source_url": "https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/3.2.3_da.csv",
+          "source_url": "https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/3.2.3_da.csv | https://zzz.mihoyo.com/news/166026",
+          "schedule_source_status": "official_announcement_and_raw_checked"
+        },
+        {
+          "stage_slot": "ADV",
+          "boss_zh": "异构·基塔布鲁",
+          "mechanism_code": "corruptive_barrier_anomaly",
+          "raw_source_url": "https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/3.2.3_da.csv",
+          "source_url": "https://huggingface.co/datasets/LvlUrArti/ShiyuData/blob/324c95d5fb05961fa8926168de8768acc8500c1b/3.2.3_da.csv | https://zzz.mihoyo.com/news/166026",
+          "schedule_source_status": "official_announcement_and_raw_checked"
+        }
+      ]
+    }
+  ],
+  "bosses": {
+    "牲鬼·布林格": {
+      "boss_en": "Sacrifice - Bringer",
+      "raw_boss_aliases": [
+        "Sacrifice - Bringer"
+      ],
+      "name_basis": "ShiyuData_raw_boss_column"
+    },
+    "侵蚀统领·庞培": {
+      "boss_en": "Corrupted Overlord - Pompey",
+      "raw_boss_aliases": [
+        "Corrupted Overlord - Pompey"
+      ],
+      "name_basis": "ShiyuData_raw_boss_column"
+    },
+    "恶名·冥宁芙": {
+      "boss_en": "Notorious - Marionette",
+      "raw_boss_aliases": [
+        "Notorious - Marionette"
+      ],
+      "name_basis": "ShiyuData_raw_boss_column"
+    },
+    "泰丰·挑战者": {
+      "boss_en": "Autonomous Assault Unit - Typhon Destroyer",
+      "raw_boss_aliases": [
+        "Autonomous Assault Unit - Typhon Destroyer"
+      ],
+      "name_basis": "ShiyuData_raw_boss_column"
+    },
+    "死路屠夫": {
+      "boss_en": "Dead End Butcher",
+      "raw_boss_aliases": [
+        "Dead End Butcher"
+      ],
+      "name_basis": "ShiyuData_raw_boss_column"
+    },
+    "恶名·死路屠夫": {
+      "boss_en": "Notorious - Dead End Butcher",
+      "raw_boss_aliases": [
+        "Notorious - Dead End Butcher"
+      ],
+      "name_basis": "ShiyuData_raw_boss_column"
+    },
+    "未知复合侵蚀体": {
+      "boss_en": "Unknown Corruption Complex",
+      "raw_boss_aliases": [
+        "Unknown Corruption Complex"
+      ],
+      "name_basis": "ShiyuData_raw_boss_column"
+    },
+    "恶名·庞培": {
+      "boss_en": "Notorious - Pompey",
+      "raw_boss_aliases": [
+        "Notorious - Pompey"
+      ],
+      "name_basis": "ShiyuData_raw_boss_column"
+    },
+    "秽息司祭": {
+      "boss_en": "Miasma Priest",
+      "raw_boss_aliases": [
+        "Miasma Priest"
+      ],
+      "name_basis": "ShiyuData_raw_boss_column"
+    },
+    "秽息妖鬼·名可名": {
+      "boss_en": "Miasmic Fiend - Unfathomable",
+      "raw_boss_aliases": [
+        "Miasmic Fiend - Unfathomable"
+      ],
+      "name_basis": "ShiyuData_raw_boss_column"
+    },
+    "亵渎者": {
+      "boss_en": "The Defiler",
+      "raw_boss_aliases": [
+        "The Defiler"
+      ],
+      "name_basis": "ShiyuData_raw_boss_column"
+    },
+    "彷徨猎手": {
+      "boss_en": "Wandering Hunter",
+      "raw_boss_aliases": [
+        "Wandering Hunter"
+      ],
+      "name_basis": "ShiyuData_raw_boss_column"
+    },
+    "魇缚者·叶释渊": {
+      "boss_en": "Ye Shiyuan the Thrall",
+      "raw_boss_aliases": [
+        "Ye Shiyuan the Thrall",
+        "??? the Thrall"
+      ],
+      "name_basis": "ShiyuData_raw_boss_column"
+    },
+    "太初梦魇·「始主」": {
+      "boss_en": "Primordial Nightmare - \"The Creator\"",
+      "raw_boss_aliases": [
+        "Primordial Nightmare - \"The Creator\"",
+        "Primordial Nightmare"
+      ],
+      "name_basis": "ShiyuData_raw_boss_column"
+    },
+    "叛律孤歌·薇斯珀": {
+      "boss_en": "Discordant Solo - Vesper",
+      "raw_boss_aliases": [
+        "Discordant Solo - Vesper",
+        "Discordant Solo - ???"
+      ],
+      "name_basis": "ShiyuData_raw_boss_column"
+    },
+    "猎血清道夫": {
+      "boss_en": "Sanguine Sweeper",
+      "raw_boss_aliases": [
+        "Sanguine Sweeper"
+      ],
+      "name_basis": "ShiyuData_raw_boss_column"
+    },
+    "焚昼余火·法厄同": {
+      "boss_en": "Phaethon of the Scorched Horizon",
+      "raw_boss_aliases": [
+        "Phaethon of the Scorched Horizon"
+      ],
+      "name_basis": "ShiyuData_raw_boss_column"
+    },
+    "基塔布鲁": {
+      "boss_en": "Girtablullu",
+      "raw_boss_aliases": [
+        "Girtablullu"
+      ],
+      "name_basis": "ShiyuData_raw_boss_column"
+    },
+    "滞异·基塔布鲁": {
+      "boss_en": "Girtablullu - Stagnant Aberrant",
+      "raw_boss_aliases": [
+        "Girtablullu - Stagnant Aberrant"
+      ],
+      "name_basis": "ShiyuData_raw_boss_column",
+      "boss_zh_canonical": "基塔布鲁·滞变畸兽"
+    },
+    "异构·基塔布鲁": {
+      "boss_en": "Integrated - Girtablullu",
+      "raw_boss_aliases": [
+        "Integrated - Girtablullu"
+      ],
+      "name_basis": "ShiyuData_raw_boss_column"
+    },
+    "复写体·猎血清道夫": {
+      "boss_en": "Rewritten - Sanguine Sweeper",
+      "raw_boss_aliases": [
+        "Rewritten - Sanguine Sweeper"
+      ],
+      "name_basis": "ShiyuData_raw_boss_column"
+    },
+    "库萨里库": {
+      "boss_en": "Kusarikku",
+      "raw_boss_aliases": [
+        "Kusarikku"
+      ],
+      "name_basis": "ShiyuData_raw_boss_column"
+    },
+    "异构·焚昼余火": {
+      "boss_en": "Integrated - Scorched Horizon",
+      "raw_boss_aliases": [
+        "Integrated - Scorched Horizon"
+      ],
+      "name_basis": "ShiyuData_raw_boss_column"
+    },
+    "熔狱行赭": {
+      "boss_en": "Infernal Revenant",
+      "raw_boss_aliases": [
+        "Infernal Revenant"
+      ],
+      "name_basis": "ShiyuData_raw_boss_column"
+    }
+  },
+  "mechanisms": {
+    "chant_anomaly_check": {
+      "mech_tag": "吟唱打断·异常检定",
+      "favored_archetype": [
+        "异常/紊乱异放"
+      ],
+      "source_url": "https://zenless-zone-zero.fandom.com/wiki/Deadly_Assault/2025-05-02",
+      "source_status": "community_history_checked"
+    },
+    "anomaly_strip": {
+      "mech_tag": "属性异常剥层·增伤窗口",
+      "favored_archetype": [
+        "异常/紊乱异放"
+      ],
+      "source_url": "https://zenless-zone-zero.fandom.com/wiki/Deadly_Assault/2025-05-02",
+      "source_status": "community_history_checked"
+    },
+    "clone_destruction": {
+      "mech_tag": "分身破坏·操作得分",
+      "favored_archetype": [
+        "常规直伤/失衡"
+      ],
+      "source_url": "https://zenless-zone-zero.fandom.com/wiki/Deadly_Assault/2025-02-07",
+      "source_status": "community_history_checked"
+    },
+    "triple_parry_impair": {
+      "mech_tag": "三次招架·部位失衡",
+      "favored_archetype": [
+        "常规直伤/失衡"
+      ],
+      "source_url": "https://zenless-zone-zero.fandom.com/wiki/Deadly_Assault/2025-02-07",
+      "source_status": "community_history_checked"
+    },
+    "dodge_crit_stack": {
+      "mech_tag": "闪避得分·叠层暴伤",
+      "favored_archetype": [
+        "常规直伤/失衡"
+      ],
+      "source_url": "https://zenless-zone-zero.fandom.com/wiki/Deadly_Assault/2025-02-21",
+      "source_status": "community_history_checked"
+    },
+    "disorder_ether_strip": {
+      "mech_tag": "紊乱清除以太强化",
+      "favored_archetype": [
+        "异常/紊乱异放"
+      ],
+      "source_url": "https://zenless-zone-zero.fandom.com/wiki/Deadly_Assault/2025-02-07",
+      "source_status": "community_history_checked"
+    },
+    "part_break_legs": {
+      "mech_tag": "腿部破坏·部位检定",
+      "favored_archetype": [
+        "常规直伤/失衡"
+      ],
+      "source_url": "https://zenless-zone-zero.fandom.com/wiki/Deadly_Assault/2025-05-02",
+      "source_status": "community_history_checked"
+    },
+    "parry_stagger": {
+      "mech_tag": "招架叠层·失衡爆发",
+      "favored_archetype": [
+        "常规直伤/失衡"
+      ],
+      "source_url": "https://zenless-zone-zero.fandom.com/wiki/Deadly_Assault/2025-02-21",
+      "source_status": "community_history_checked"
+    },
+    "miasma_shield": {
+      "mech_tag": "秽盾·高防御与减伤",
+      "favored_archetype": [
+        "命破贯穿"
+      ],
+      "source_url": "https://zenless-zone-zero.fandom.com/wiki/Deadly_Assault/2025-08-22",
+      "source_status": "community_history_checked"
+    },
+    "miasma_shield_anomaly": {
+      "mech_tag": "秽盾·异常削盾",
+      "favored_archetype": [
+        "异常/紊乱异放"
+      ],
+      "source_url": "https://zenless-zone-zero.fandom.com/wiki/Deadly_Assault/2025-07-25",
+      "source_status": "community_history_checked"
+    },
+    "aerial_knockdown_parry": {
+      "mech_tag": "空中击落·招架窗口",
+      "favored_archetype": [
+        "常规直伤/失衡"
+      ],
+      "source_url": "https://news.17173.com/content/10192025/115549011.shtml",
+      "source_status": "community_guide_checked"
+    },
+    "miasma_field_high_def": {
+      "mech_tag": "秽浊流界·高基础防御/贯穿增益",
+      "favored_archetype": [
+        "命破贯穿"
+      ],
+      "source_url": "https://zenless-zone-zero.fandom.com/wiki/Deadly_Assault/2025-12-12",
+      "source_status": "community_history_checked"
+    },
+    "dual_entity_stun_lock": {
+      "mech_tag": "双实体·失衡窗口",
+      "favored_archetype": [
+        "常规直伤/失衡"
+      ],
+      "source_url": "https://zenless-zone-zero.fandom.com/wiki/Deadly_Assault/2025-12-12",
+      "source_status": "community_history_checked"
+    },
+    "miasma_plus_control_skill": {
+      "mech_tag": "分段秽盾·紫光控制技",
+      "favored_archetype": [
+        "帷幕无视失衡",
+        "常规直伤/失衡"
+      ],
+      "source_url": "https://news.17173.com/content/02132026/182828854.shtml",
+      "source_status": "community_guide_checked"
+    },
+    "control_skill_ether_veil": {
+      "mech_tag": "紫光控制技·暴伤-40%/以太帷幕",
+      "favored_archetype": [
+        "异常/紊乱异放"
+      ],
+      "source_url": "https://news.17173.com/content/02072026/101649733.shtml",
+      "source_status": "community_guide_checked"
+    },
+    "corruptive_barrier_control_skill": {
+      "mech_tag": "侵蚀壁垒·控制技反制",
+      "favored_archetype": [
+        "异常/紊乱异放"
+      ],
+      "source_url": "https://news.17173.com/content/05062026/182353214.shtml",
+      "source_status": "community_guide_checked"
+    },
+    "crit_lock_125_into_flames": {
+      "mech_tag": "5层赴火·暴伤加成合计-125个百分点",
+      "favored_archetype": [
+        "异常/紊乱异放"
+      ],
+      "source_url": "https://www.enjoygm.com/zh-TW/blog/zenless-zone-zero/zzz-v3-2-deadly-assault-phase-3-guide",
+      "source_status": "community_guide_checked",
+      "mechanism_note": "Each of five stacks reduces incoming CRIT DMG bonus by 25 percentage points; this does not mean total damage is reduced by 125%."
+    },
+    "corruptive_barrier_anomaly": {
+      "mech_tag": "侵蚀壁垒紫盾·异常削盾",
+      "favored_archetype": [
+        "异常/紊乱异放",
+        "耀变体系"
+      ],
+      "source_url": "https://www.enjoygm.com/zh-TW/blog/zenless-zone-zero/zzz-v3-2-deadly-assault-guide",
+      "source_status": "community_guide_checked"
+    },
+    "corruptive_barrier_armorer": {
+      "mech_tag": "侵蚀壁垒紫盾·异常伤害-40%/锋御识破",
+      "favored_archetype": [
+        "锐化防御"
+      ],
+      "source_url": "https://www.enjoygm.com/zh-TW/blog/zenless-zone-zero/zzz-v3-2-deadly-assault-guide",
+      "source_status": "community_guide_checked"
+    },
+    "control_skill_sharp_dmg": {
+      "mech_tag": "控制技反制·锐化伤害",
+      "favored_archetype": [
+        "锐化防御"
+      ],
+      "source_url": "https://www.enjoygm.com/zh-TW/blog/zenless-zone-zero/zzz-v3-2-deadly-assault-guide",
+      "source_status": "community_guide_checked"
+    },
+    "molten_prison_meteor_parry": {
+      "mech_tag": "熔狱陨石·连携招架",
+      "favored_archetype": [
+        "常规直伤/失衡"
+      ],
+      "source_url": "https://www.enjoygm.com/zh-TW/blog/zenless-zone-zero/zzz-v3-2-deadly-assault-phase-3-guide",
+      "source_status": "community_guide_checked"
+    }
+  },
+  "source_coverage": {
+    "history_date_index": "https://zenless-zone-zero.fandom.com/wiki/Deadly_Assault/History",
+    "history_date_index_range": [
+      "2024-12-20",
+      "2026-06-05"
+    ],
+    "raw_collection_periods": 36,
+    "raw_combat_seasons": 35,
+    "mechanism_profiles_checked": 21,
+    "schedule_rows_with_independent_correspondence": 132,
+    "schedule_only_seasons": [
+      "1.6.1",
+      "2.0.1",
+      "2.2.3",
+      "2.3.3",
+      "2.6.3"
+    ],
+    "date_scope_note": "3.0–3.2 start dates retain the supplied historical schedule; boss lineups in 3.1–3.2 also match official version announcements."
+  }
+}

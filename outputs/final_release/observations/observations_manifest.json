@@ -1,0 +1,33 @@
+{
+  "adapter_version": "shiyu_adapter_v3",
+  "started_at": "2026-10-27T19:40:43+00:00",
+  "status": "imported_with_issues",
+  "observed_data_available": true,
+  "snapshot_id": "SHIYU_HF_324c95d5fb05",
+  "revision": "324c95d5fb05961fa8926168de8768acc8500c1b",
+  "data_license": "mit",
+  "source_url": "https://huggingface.co/datasets/LvlUrArti/ShiyuData",
+  "snapshot_status": "imported",
+  "n_battles": 4013856,
+  "n_eligible": 2876445,
+  "path": "outputs/benchmark_n200/observations/observations.sqlite",
+  "finalization_mode": "existing_database_only",
+  "finalization_started_at": "2026-10-27T20:07:49+00:00",
+  "ended_at": "2026-10-27T20:12:01+00:00",
+  "n_import_batches": 81,
+  "n_scopes": 81,
+  "n_collection_periods": 49,
+  "n_periods_complete": 48,
+  "quality_issues": [
+    "eligible_without_result:50795"
+  ],
+  "finalization_seconds": 305.82800020000286,
+  "finalization_checks": {
+    "battle_files_verified": 81,
+    "source_files_verified": 129,
+    "n_battles": 4013856,
+    "n_eligible": 2876445,
+    "quick_check": "ok",
+    "foreign_keys": "ok"
+  }
+}

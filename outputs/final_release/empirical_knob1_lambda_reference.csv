@@ -1,0 +1,21 @@
+﻿lambda,pierce_share,assumed_theta,kappa,shield_only_retained_output,window_retained_output_vs_lambda_zero,calculation,observed_score_ratio_equivalent
+0,0,0.4,1,1.0,1.0,"closed-form reference, not an L2/L3 run or an observed damage estimate",False
+0,0,1.0,1,1.0,1.0,"closed-form reference, not an L2/L3 run or an observed damage estimate",False
+0,1,0.4,1,1.0,1.0,"closed-form reference, not an L2/L3 run or an observed damage estimate",False
+0,1,1.0,1,1.0,1.0,"closed-form reference, not an L2/L3 run or an observed damage estimate",False
+0.5,0,0.4,1,0.7182835820895521,0.8873134328358208,"closed-form reference, not an L2/L3 run or an observed damage estimate",False
+0.5,0,1.0,1,0.7182835820895521,0.7182835820895521,"closed-form reference, not an L2/L3 run or an observed damage estimate",False
+0.5,1,0.4,1,0.875,0.95,"closed-form reference, not an L2/L3 run or an observed damage estimate",False
+0.5,1,1.0,1,0.875,0.875,"closed-form reference, not an L2/L3 run or an observed damage estimate",False
+1,0,0.4,1,0.5221518987341772,0.8088607594936709,"closed-form reference, not an L2/L3 run or an observed damage estimate",False
+1,0,1.0,1,0.5221518987341772,0.5221518987341772,"closed-form reference, not an L2/L3 run or an observed damage estimate",False
+1,1,0.4,1,0.75,0.9,"closed-form reference, not an L2/L3 run or an observed damage estimate",False
+1,1,1.0,1,0.75,0.75,"closed-form reference, not an L2/L3 run or an observed damage estimate",False
+1.5,0,0.4,1,0.37774725274725274,0.7510989010989011,"closed-form reference, not an L2/L3 run or an observed damage estimate",False
+1.5,0,1.0,1,0.37774725274725274,0.37774725274725274,"closed-form reference, not an L2/L3 run or an observed damage estimate",False
+1.5,1,0.4,1,0.625,0.85,"closed-form reference, not an L2/L3 run or an observed damage estimate",False
+1.5,1,1.0,1,0.625,0.625,"closed-form reference, not an L2/L3 run or an observed damage estimate",False
+2,0,0.4,1,0.2669902912621359,0.7067961165048544,"closed-form reference, not an L2/L3 run or an observed damage estimate",False
+2,0,1.0,1,0.2669902912621359,0.2669902912621359,"closed-form reference, not an L2/L3 run or an observed damage estimate",False
+2,1,0.4,1,0.5,0.8,"closed-form reference, not an L2/L3 run or an observed damage estimate",False
+2,1,1.0,1,0.5,0.5,"closed-form reference, not an L2/L3 run or an observed damage estimate",False

@@ -1,0 +1,13 @@
+horizon,metric,metric_label,unit,n_candidates,train_seeds,validation_seeds,rho,rho_status
+10,cash_yuan,累计现金,元,25,1,1,0.05194305502116198,ok
+10,new_main_topup_yuan,新主C直购,元,25,1,1,0.7255628523365062,ok
+10,support_topup_yuan,专拐直购,元,25,1,1,,constant_validation
+10,subscription_yuan,月卡续订,元,25,1,1,0.9274570323334309,ok
+10,retention_core,核心层留存,百分点,25,1,1,0.8284823439048883,ok
+10,retention_all,全队列留存,百分点,25,1,1,0.7507772274104806,ok
+20,cash_yuan,累计现金,元,25,1,1,0.6446153846153846,ok
+20,new_main_topup_yuan,新主C直购,元,25,1,1,0.12586606013227328,ok
+20,support_topup_yuan,专拐直购,元,25,1,1,-0.17149858514250885,ok
+20,subscription_yuan,月卡续订,元,25,1,1,0.9156887765332088,ok
+20,retention_core,核心层留存,百分点,25,1,1,0.890191914484829,ok
+20,retention_all,全队列留存,百分点,25,1,1,0.9231959932871385,ok

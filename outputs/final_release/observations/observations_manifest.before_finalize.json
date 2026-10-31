@@ -1,0 +1,14 @@
+{
+  "adapter_version": "shiyu_adapter_v3",
+  "started_at": "2026-10-27T19:40:43+00:00",
+  "status": "running",
+  "observed_data_available": false,
+  "snapshot_id": "SHIYU_HF_324c95d5fb05",
+  "revision": "324c95d5fb05961fa8926168de8768acc8500c1b",
+  "data_license": "mit",
+  "source_url": "https://huggingface.co/datasets/LvlUrArti/ShiyuData",
+  "snapshot_status": "pending",
+  "n_battles": 0,
+  "n_eligible": 0,
+  "path": "outputs\\benchmark_n200\\observations\\observations.sqlite"
+}

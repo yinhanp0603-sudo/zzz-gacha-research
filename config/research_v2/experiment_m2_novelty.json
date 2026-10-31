@@ -1,0 +1,21 @@
+{
+  "schema_version": "1.0.0",
+  "profile_id": "fixed_cohort_research_v2_m2_novelty",
+  "mode": "synthetic_scenario",
+  "modules": {
+    "combat": "modules/combat.json",
+    "gacha": "modules/gacha.json",
+    "economy": "modules/economy.json",
+    "population": "modules/population.json",
+    "behavior": "modules/behavior_m2_novelty.json",
+    "scenarios": "modules/scenarios.json",
+    "randomness": "modules/randomness.json",
+    "experiments": "modules/experiments.json"
+  },
+  "execution": {
+    "log_mode": "full",
+    "output_root": "outputs/research_v2_behavior_ablation",
+    "allow_network_during_run": false
+  },
+  "description": "行为结构消融M2：与V2主配置仅差新主C池固定追新效用。"
+}

@@ -1,0 +1,36 @@
+.venv/
+__pycache__/
+.pytest_cache/
+*.egg-info/
+build/
+dist/
+
+# 本地协作与个人笔记
+/AGENTS.md
+/导学-绝区零研究.md
+/面经-绝区零研究.md
+/docs/development/HANDOFF_*.md
+
+# 本地数据库与数据资产
+*.db
+*.db-*
+*.sqlite
+*.sqlite-*
+*.sqlite3
+*.sqlite3-*
+/data/raw/*
+!/data/raw/SRC_SHIYU_meta_*/
+/data/processed/
+/.archive_trash/
+
+# 发布目录：报告、看板、汇总表与清单；运行库与观测库留在本机
+/outputs/*
+!/outputs/README.md
+!/outputs/final_release/
+
+# 各源实验：报告、图表、汇总表与实验清单；runs/ 留在本机
+!/outputs/research_v2/
+!/outputs/research_v2_stability/
+!/outputs/research_v2_stability_n1000/
+/outputs/research_v2*/runs/
+/outputs/research_v2/tables/l2_reference_panel.csv

@@ -1,0 +1,8 @@
+{
+  "phase": "completed",
+  "batches": 81,
+  "n_battles": 4013856,
+  "n_eligible": 2876445,
+  "finalization_mode": "existing_database_only",
+  "updated_at": "2026-10-27T20:12:01+00:00"
+}

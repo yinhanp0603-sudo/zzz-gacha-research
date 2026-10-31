@@ -1,0 +1,8 @@
+experiment_id,perturbation_id,comparison,n_candidates,rho_rev,rho_ret
+search_9a1dba50e1f4,P0,train_mean_vs_validation_mean,25,0.8390075169627462,0.9784615384615385
+search_9a1dba50e1f4,budget_weight_x0.75,validation_vs_P0_validation,25,0.9999999999999998,1.0
+search_9a1dba50e1f4,budget_weight_x1.25,validation_vs_P0_validation,25,0.9999999999999998,1.0
+search_9a1dba50e1f4,failure_weight_x0.75,validation_vs_P0_validation,25,0.9959607801084595,0.9761538461538461
+search_9a1dba50e1f4,failure_weight_x1.25,validation_vs_P0_validation,25,0.9940373332561835,0.9723076923076923
+search_9a1dba50e1f4,gap_weight_x0.75,validation_vs_P0_validation,25,0.9974995375902801,0.9938461538461538
+search_9a1dba50e1f4,gap_weight_x1.25,validation_vs_P0_validation,25,0.9959607801084595,0.9953846153846154

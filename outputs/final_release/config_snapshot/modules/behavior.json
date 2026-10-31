@@ -1,0 +1,64 @@
+{
+  "schema_version": "1.0.0",
+  "model_version": "behavior_v1",
+  "comfort_threshold": 0.95,
+  "full_star_threshold": 1,
+  "temperature": 0.03,
+  "utility": {
+    "beta_gain": 4,
+    "beta_comfort": 2,
+    "beta_hoarding": 2,
+    "beta_resource_cost": 1,
+    "beta_paid_cost": 2
+  },
+  "tier_policy": {
+    "Budget_0": {
+      "alpha": -3,
+      "initial_hoarding": 0.5,
+      "dps_target": "0+1"
+    },
+    "Budget_40": {
+      "alpha": -2.5,
+      "initial_hoarding": 0.4,
+      "dps_target": "0+1"
+    },
+    "Budget_160": {
+      "alpha": -2,
+      "initial_hoarding": 0.3,
+      "dps_target": "2+1"
+    },
+    "Budget_500": {
+      "alpha": -1,
+      "initial_hoarding": 0.05,
+      "dps_target": "2+1"
+    }
+  },
+  "support_target": "support_body",
+  "hoarding": {
+    "decay_base": 0.85,
+    "gap_weight": 0.25,
+    "success_recovery": 0.1,
+    "min": 0,
+    "max": 1
+  },
+  "fatigue": {
+    "decay_rate": 0.25,
+    "gap_weight": 2.0,
+    "failure_weight": 0.8,
+    "failure_span_cap": 3,
+    "budget_weight": 0.2,
+    "success_recovery": 0.3,
+    "min": 0,
+    "max": 5
+  },
+  "churn": {
+    "base_hazard": 0.005,
+    "fatigue_sensitivity": 1.5
+  },
+  "initial": {
+    "fatigue": 0,
+    "failure_span": 0
+  },
+  "provenance": "scenario_assumed",
+  "description": "2026-10-28 情景标定：churn.base_hazard、churn.fatigue_sensitivity、fatigue.gap_weight、fatigue.failure_weight、utility.beta_hoarding 以标定专用种子 7101/7102（200 人、Ref_Mechanism）为准则选取，目标为基准期末留存落在 0.70–0.85 且流失集中在中期；均为假设值，非由数据估计。"
+}

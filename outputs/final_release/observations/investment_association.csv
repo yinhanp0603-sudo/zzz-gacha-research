@@ -1,0 +1,681 @@
+snapshot_id,combat_season,mode,unit_id,scoring_regime,n_c0,median_c0,n_c1plus,median_c1plus,unknown_records,label
+SHIYU_HF_324c95d5fb05:1.0.1,1.0.1,shiyu_defense,Ellen,time,0,,0,,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:1.0.1,1.0.1,shiyu_defense,Zhu Yuan,time,0,,0,,2,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:1.1.1,1.1.1,shiyu_defense,Ellen,time,0,,0,,1,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:1.1.1,1.1.1,shiyu_defense,Zhu Yuan,time,0,,0,,25,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:1.1.1,1.1.1,shiyu_defense,Qingyi,time,0,,0,,48,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:1.1.2,1.1.2,shiyu_defense,Ellen,time,0,,0,,5,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:1.1.2,1.1.2,shiyu_defense,Zhu Yuan,time,0,,0,,24,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:1.1.2,1.1.2,shiyu_defense,Qingyi,time,0,,0,,69,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:1.1.2,1.1.2,shiyu_defense,Jane,time,0,,0,,34,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:1.1.3,1.1.3,shiyu_defense,Zhu Yuan,time,0,,0,,27,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:1.1.3,1.1.3,shiyu_defense,Jane,time,0,,0,,80,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:1.1.3,1.1.3,shiyu_defense,Qingyi,time,0,,0,,61,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:1.1.3,1.1.3,shiyu_defense,Ellen,time,0,,0,,4,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:1.2.1,1.2.1,shiyu_defense,Jane,time,0,,0,,59,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:1.2.1,1.2.1,shiyu_defense,Ellen,time,0,,0,,5,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:1.2.1,1.2.1,shiyu_defense,Qingyi,time,0,,0,,43,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:1.2.1,1.2.1,shiyu_defense,Zhu Yuan,time,0,,0,,12,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:1.2.1,1.2.1,shiyu_defense,Caesar,time,0,,0,,70,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:1.2.2,1.2.2,shiyu_defense,Jane,time,0,,0,,65,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:1.2.2,1.2.2,shiyu_defense,Caesar,time,0,,0,,93,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:1.2.2,1.2.2,shiyu_defense,Zhu Yuan,time,0,,0,,15,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:1.2.2,1.2.2,shiyu_defense,Qingyi,time,0,,0,,49,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:1.2.2,1.2.2,shiyu_defense,Ellen,time,0,,0,,8,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:1.2.2,1.2.2,shiyu_defense,Burnice,time,0,,0,,87,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:1.2.3,1.2.3,shiyu_defense,Jane,time,0,,0,,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:1.2.3,1.2.3,shiyu_defense,Burnice,time,0,,0,,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:1.2.3,1.2.3,shiyu_defense,Caesar,time,0,,0,,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:1.2.3,1.2.3,shiyu_defense,Qingyi,time,0,,0,,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:1.2.3,1.2.3,shiyu_defense,Zhu Yuan,time,0,,0,,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:1.2.3,1.2.3,shiyu_defense,Ellen,time,0,,0,,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:1.3.1,1.3.1,shiyu_defense,Burnice,time,0,,0,,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:1.3.1,1.3.1,shiyu_defense,Jane,time,0,,0,,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:1.3.1,1.3.1,shiyu_defense,Caesar,time,0,,0,,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:1.3.1,1.3.1,shiyu_defense,Yanagi,time,0,,0,,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:1.3.1,1.3.1,shiyu_defense,Qingyi,time,0,,0,,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:1.3.1,1.3.1,shiyu_defense,Zhu Yuan,time,0,,0,,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:1.3.2,1.3.2,shiyu_defense,Yanagi,time,0,,0,,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:1.3.2,1.3.2,shiyu_defense,Burnice,time,0,,0,,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:1.3.2,1.3.2,shiyu_defense,Qingyi,time,0,,0,,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:1.3.2,1.3.2,shiyu_defense,Caesar,time,0,,0,,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:1.3.2,1.3.2,shiyu_defense,Zhu Yuan,time,0,,0,,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:1.3.2,1.3.2,shiyu_defense,Ellen,time,0,,0,,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:1.3.3,1.4.1,deadly_assault,Miyabi,score,2136,25687.0,954,30584.5,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:1.3.3,1.4.1,deadly_assault,Burnice,score,2031,27608.0,225,36206.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:1.3.3,1.4.1,deadly_assault,Yanagi,score,1790,27241.0,242,33742.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:1.3.3,1.4.1,deadly_assault,Caesar,score,1362,25652.5,199,33554.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:1.3.3,1.4.1,deadly_assault,Jane,score,1125,27467.0,295,30093.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:1.3.3,1.4.1,deadly_assault,Qingyi,score,941,22894.0,210,26719.5,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:1.3.3,1.4.1,deadly_assault,Zhu Yuan,score,862,22811.5,289,24993.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:1.4.1,1.3.3,shiyu_defense,Miyabi,time,3148,88.0,996,66.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:1.4.1,1.3.3,shiyu_defense,Burnice,time,2866,88.0,288,74.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:1.4.1,1.3.3,shiyu_defense,Jane,time,2563,95.0,486,70.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:1.4.1,1.3.3,shiyu_defense,Caesar,time,2535,94.0,273,71.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:1.4.1,1.3.3,shiyu_defense,Yanagi,time,2312,86.0,280,75.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:1.4.1,1.3.3,shiyu_defense,Qingyi,time,1213,130.0,179,105.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:1.4.2,1.4.1,shiyu_defense,Miyabi,time,2631,71.0,1534,55.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:1.4.2,1.4.1,shiyu_defense,Yanagi,time,2351,85.0,284,73.5,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:1.4.2,1.4.1,shiyu_defense,Qingyi,time,1629,131.0,220,101.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:1.4.2,1.4.1,shiyu_defense,Caesar,time,1588,95.0,191,74.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:1.4.2,1.4.1,shiyu_defense,Burnice,time,1516,91.0,162,77.5,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:1.4.3,1.4.2,deadly_assault,Miyabi,score,2271,26468.0,1598,32057.5,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:1.4.3,1.4.2,deadly_assault,Yanagi,score,1858,25928.0,259,31615.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:1.4.3,1.4.2,deadly_assault,Burnice,score,1591,27009.0,200,33820.5,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:1.4.3,1.4.2,deadly_assault,Caesar,score,1424,24035.0,201,30806.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:1.4.3,1.4.2,deadly_assault,Qingyi,score,1357,23641.0,237,28183.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:1.5.1,1.4.2,shiyu_defense,Miyabi,time,3070,73.0,1918,58.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:1.5.1,1.4.2,shiyu_defense,Yanagi,time,2798,89.0,326,76.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:1.5.1,1.4.2,shiyu_defense,Qingyi,time,1990,129.0,256,104.5,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:1.5.1,1.4.2,shiyu_defense,Caesar,time,1709,107.0,231,91.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:1.5.1,1.4.2,shiyu_defense,Burnice,time,1535,86.0,173,82.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:1.5.2,1.5.1,deadly_assault,Miyabi,score,2303,24766.0,1749,30797.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:1.5.2,1.5.1,deadly_assault,Astra Yao,score,2518,27192.0,334,37634.5,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:1.5.2,1.5.1,deadly_assault,Burnice,score,2099,23666.0,246,29609.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:1.5.2,1.5.1,deadly_assault,Yanagi,score,1987,25523.0,265,30610.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:1.5.2,1.5.1,deadly_assault,Qingyi,score,1424,23647.5,262,29548.5,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:1.5.2,1.5.1,deadly_assault,Jane,score,1223,23412.0,304,26419.5,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:1.5.2,1.5.1,deadly_assault,Caesar,score,1249,23095.0,191,28733.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:1.5.3,1.5.2,deadly_assault,Miyabi,score,2756,27549.0,1807,33936.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:1.5.3,1.5.2,deadly_assault,Astra Yao,score,3081,27796.0,531,35690.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:1.5.3,1.5.2,deadly_assault,Yanagi,score,1998,25773.0,261,31709.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:1.5.3,1.5.2,deadly_assault,Burnice,score,1445,25510.0,186,29259.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:1.5.3,1.5.2,deadly_assault,Caesar,score,1320,23223.5,204,29238.5,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:1.5.3,1.5.2,deadly_assault,Qingyi,score,1207,22405.0,274,26693.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:1.5.3,1.5.2,shiyu_defense,Miyabi,time,2487,84.0,1595,63.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:1.5.3,1.5.2,shiyu_defense,Astra Yao,time,3215,87.0,539,63.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:1.5.3,1.5.2,shiyu_defense,Yanagi,time,1875,81.0,221,63.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:1.5.3,1.5.2,shiyu_defense,Burnice,time,1681,117.0,197,96.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:1.5.3,1.5.2,shiyu_defense,Caesar,time,1528,118.0,186,80.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:1.5.3,1.5.2,shiyu_defense,Evelyn,time,1411,107.0,135,67.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:1.5.3,1.5.2,shiyu_defense,Jane,time,796,129.0,199,115.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:1.6.1,1.5.4,deadly_assault,Miyabi,score,2925,27841.0,1822,35204.5,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:1.6.1,1.5.4,deadly_assault,Astra Yao,score,3392,26674.0,594,35579.5,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:1.6.1,1.5.4,deadly_assault,Yanagi,score,2171,28441.0,258,32328.5,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:1.6.1,1.5.4,deadly_assault,Qingyi,score,1730,24165.0,348,30643.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:1.6.1,1.5.4,deadly_assault,Evelyn,score,1785,24221.0,228,35879.5,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:1.6.1,1.5.4,deadly_assault,Burnice,score,1553,24208.0,223,27111.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:1.6.1,1.6.1,shiyu_defense,Astra Yao,time,3294,101.0,555,78.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:1.6.1,1.6.1,shiyu_defense,Miyabi,time,1920,107.0,1326,83.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:1.6.1,1.6.1,shiyu_defense,Evelyn,time,1781,106.0,217,78.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:1.6.1,1.6.1,shiyu_defense,Yanagi,time,1715,104.0,188,87.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:1.6.1,1.6.1,shiyu_defense,Burnice,time,1494,118.0,188,100.5,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:1.6.1,1.6.1,shiyu_defense,Caesar,time,1492,122.0,184,90.5,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:1.6.1,1.6.1,shiyu_defense,Qingyi,time,1115,139.0,222,107.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:1.6.1,1.6.1,shiyu_defense,Soldier 0 - Anby,time,1080,125.0,145,93.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:1.6.2,1.6.2,deadly_assault,Miyabi,score,2806,30914.5,1665,38700.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:1.6.2,1.6.2,deadly_assault,Astra Yao,score,3206,27619.5,558,36087.5,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:1.6.2,1.6.2,deadly_assault,Yanagi,score,1881,30234.0,228,36565.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:1.6.2,1.6.2,deadly_assault,Evelyn,score,1698,25445.5,234,37026.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:1.6.2,1.6.2,deadly_assault,Burnice,score,1612,25163.5,257,28522.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:1.6.2,1.6.2,deadly_assault,Caesar,score,1514,25404.5,213,32565.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:1.6.2,1.6.2,deadly_assault,Soldier 0 - Anby,score,1468,26552.0,249,37843.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:1.6.2,1.6.3,shiyu_defense,Miyabi,time,1993,107.0,1273,89.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:1.6.2,1.6.3,shiyu_defense,Astra Yao,time,2570,105.0,465,83.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:1.6.2,1.6.3,shiyu_defense,Yanagi,time,1630,108.0,195,89.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:1.6.2,1.6.3,shiyu_defense,Trigger,time,1484,115.0,211,79.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:1.6.2,1.6.3,shiyu_defense,Soldier 0 - Anby,time,1368,120.0,218,83.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:1.6.2,1.6.3,shiyu_defense,Qingyi,time,932,139.5,192,111.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:1.6.2,1.6.3,shiyu_defense,Caesar,time,852,124.0,139,101.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:1.6.2,1.6.3,shiyu_defense,Burnice,time,738,107.0,111,98.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:1.7.1,1.6.3,deadly_assault,Miyabi,score,2957,27624.0,1804,34229.5,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:1.7.1,1.6.3,deadly_assault,Astra Yao,score,3782,32225.0,606,43439.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:1.7.1,1.6.3,deadly_assault,Yanagi,score,2209,28979.0,265,38471.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:1.7.1,1.6.3,deadly_assault,Trigger,score,2053,29480.0,300,42176.5,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:1.7.1,1.6.3,deadly_assault,Burnice,score,1971,29392.0,274,34776.5,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:1.7.1,1.6.3,deadly_assault,Qingyi,score,1648,25970.5,325,33852.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:1.7.1,1.6.3,deadly_assault,Soldier 0 - Anby,score,1595,29037.0,259,39968.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:1.7.1,1.7.1,shiyu_defense,Astra Yao,time,3206,96.0,548,71.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:1.7.1,1.7.1,shiyu_defense,Miyabi,time,2077,88.0,1380,71.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:1.7.1,1.7.1,shiyu_defense,Vivian,time,1881,89.0,182,69.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:1.7.1,1.7.1,shiyu_defense,Yanagi,time,1777,102.0,217,82.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:1.7.1,1.7.1,shiyu_defense,Trigger,time,1701,127.0,257,84.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:1.7.1,1.7.1,shiyu_defense,Soldier 0 - Anby,time,1341,134.0,207,102.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:1.7.1,1.7.1,shiyu_defense,Burnice,time,1034,117.0,148,100.5,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:1.7.1,1.7.1,shiyu_defense,Caesar,time,931,137.0,141,109.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:1.7.1,1.7.1,shiyu_defense,Qingyi,time,825,151.0,182,122.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:1.7.2,1.7.2,deadly_assault,Miyabi,score,2259,29598.0,1317,36694.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:1.7.2,1.7.2,deadly_assault,Astra Yao,score,2547,29390.0,453,38575.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:1.7.2,1.7.2,deadly_assault,Vivian,score,1878,28610.5,229,40610.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:1.7.2,1.7.2,deadly_assault,Yanagi,score,1526,28238.0,177,35826.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:1.7.2,1.7.2,deadly_assault,Trigger,score,1453,27532.0,236,38973.5,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:1.7.2,1.7.2,deadly_assault,Soldier 0 - Anby,score,1182,27942.5,201,38140.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:1.7.2,1.7.2,shiyu_defense,Miyabi,time,3095,105.0,1793,89.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:1.7.2,1.7.2,shiyu_defense,Astra Yao,time,3823,99.0,606,77.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:1.7.2,1.7.2,shiyu_defense,Vivian,time,2644,100.5,274,82.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:1.7.2,1.7.2,shiyu_defense,Yanagi,time,1940,106.0,217,89.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:1.7.2,1.7.2,shiyu_defense,Zhu Yuan,time,1120,115.0,257,102.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:1.7.2,1.7.2,shiyu_defense,Qingyi,time,980,119.0,193,97.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:1.7.2,1.7.2,shiyu_defense,Trigger,time,955,113.0,172,80.5,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.0.1,1.7.3,deadly_assault,Miyabi,score,3087,26128.0,1902,31411.5,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.0.1,1.7.3,deadly_assault,Astra Yao,score,3702,25757.0,662,34549.5,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.0.1,1.7.3,deadly_assault,Yanagi,score,2048,26671.5,223,33634.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.0.1,1.7.3,deadly_assault,Vivian,score,1971,26008.0,246,33883.5,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.0.1,1.7.3,deadly_assault,Evelyn,score,1713,23840.0,235,33859.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.0.1,1.7.3,deadly_assault,Burnice,score,1493,23494.0,258,26237.5,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.0.1,2.0.1,shiyu_defense,Astra Yao,time,3631,106.0,695,79.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.0.1,2.0.1,shiyu_defense,Miyabi,time,2474,109.0,1633,87.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.0.1,2.0.1,shiyu_defense,Yixuan,time,2011,112.0,656,77.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.0.1,2.0.1,shiyu_defense,Vivian,time,1716,108.0,206,85.5,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.0.1,2.0.1,shiyu_defense,Yanagi,time,1435,109.0,156,89.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.0.1,2.0.1,shiyu_defense,Trigger,time,979,111.0,210,83.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.0.2,2.0.2,deadly_assault,Miyabi,score,2420,28017.5,1531,35513.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.0.2,2.0.2,deadly_assault,Astra Yao,score,3190,30015.5,727,40780.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.0.2,2.0.2,deadly_assault,Yixuan,score,2090,31172.0,1017,42771.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.0.2,2.0.2,deadly_assault,Vivian,score,1608,29236.0,200,42190.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.0.2,2.0.2,deadly_assault,Evelyn,score,1554,27931.5,193,39785.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.0.2,2.0.2,deadly_assault,Yanagi,score,1560,29630.0,181,40108.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.0.2,2.0.2,deadly_assault,Trigger,score,1362,30019.0,219,41875.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.0.2,2.0.2,deadly_assault,Ju Fufu,score,1394,36149.0,169,51768.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.0.2,2.0.2,shiyu_defense,Astra Yao,time,4036,111.0,853,86.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.0.2,2.0.2,shiyu_defense,Yixuan,time,3061,113.0,1275,88.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.0.2,2.0.2,shiyu_defense,Miyabi,time,1845,127.0,1459,110.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.0.2,2.0.2,shiyu_defense,Evelyn,time,1529,121.0,196,92.5,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.0.2,2.0.2,shiyu_defense,Vivian,time,1371,124.0,175,95.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.0.2,2.0.2,shiyu_defense,Lighter,time,1193,116.0,174,87.5,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.0.2,2.0.2,shiyu_defense,Burnice,time,1106,130.0,181,118.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.1.1,2.0.3,deadly_assault,Astra Yao,score,4083,29130.0,871,39386.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.1.1,2.0.3,deadly_assault,Yixuan,score,3421,31762.0,1328,42588.5,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.1.1,2.0.3,deadly_assault,Miyabi,score,2797,27515.0,1909,33415.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.1.1,2.0.3,deadly_assault,Ju Fufu,score,2589,36246.0,295,48618.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.1.1,2.0.3,deadly_assault,Vivian,score,2527,29127.0,288,41118.5,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.1.1,2.0.3,deadly_assault,Yuzuha,score,1762,34974.5,217,50090.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.1.1,2.0.3,deadly_assault,Burnice,score,1689,26279.0,253,32986.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.1.1,2.0.3,deadly_assault,Evelyn,score,1641,27755.0,208,39737.5,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.1.1,2.1.1,shiyu_defense,Astra Yao,time,2667,115.0,649,90.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.1.1,2.1.1,shiyu_defense,Yixuan,time,2126,125.0,992,98.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.1.1,2.1.1,shiyu_defense,Yuzuha,time,2490,114.0,275,79.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.1.1,2.1.1,shiyu_defense,Miyabi,time,1519,117.0,1233,101.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.1.1,2.1.1,shiyu_defense,Ju Fufu,time,1752,119.0,240,91.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.1.1,2.1.1,shiyu_defense,Jane,time,1329,117.0,314,88.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.1.1,2.1.1,shiyu_defense,Vivian,time,1424,108.5,208,82.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.1.1,2.1.1,shiyu_defense,Burnice,time,1268,119.0,186,107.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.1.1,2.1.1,shiyu_defense,Yanagi,time,760,118.0,96,97.5,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.1.2,2.1.2,deadly_assault,Miyabi,score,10157,28479.0,7929,38385.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.1.2,2.1.2,deadly_assault,Yuzuha,score,14244,32307.0,2164,47906.5,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.1.2,2.1.2,deadly_assault,Astra Yao,score,12898,28909.5,3019,39193.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.1.2,2.1.2,deadly_assault,Yixuan,score,8601,25899.0,4121,33919.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.1.2,2.1.2,deadly_assault,Vivian,score,10300,32481.5,1171,45864.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.1.2,2.1.2,deadly_assault,Ju Fufu,score,7010,29071.0,948,44097.5,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.1.2,2.1.2,deadly_assault,Yanagi,score,6993,29670.0,817,39978.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.1.2,2.1.2,deadly_assault,Jane,score,5789,29764.0,1483,42068.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.1.2,2.1.2,shiyu_defense,Yuzuha,time,17336,107.0,2332,77.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.1.2,2.1.2,shiyu_defense,Miyabi,time,10645,111.0,8780,89.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.1.2,2.1.2,shiyu_defense,Astra Yao,time,15866,110.0,3515,83.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.1.2,2.1.2,shiyu_defense,Yixuan,time,8450,118.0,4607,85.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.1.2,2.1.2,shiyu_defense,Vivian,time,9785,103.0,1216,75.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.1.2,2.1.2,shiyu_defense,Yanagi,time,7850,107.0,843,87.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.1.2,2.1.2,shiyu_defense,Jane,time,6514,115.0,1710,87.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.1.2,2.1.2,shiyu_defense,Ju Fufu,time,7296,104.0,921,74.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.1.2,2.1.2,shiyu_defense,Burnice,time,4817,115.0,658,104.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.2.1,2.1.4,shiyu_defense,Yuzuha,time,18042,112.0,2464,82.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.2.1,2.1.4,shiyu_defense,Astra Yao,time,15838,111.0,3475,87.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.2.1,2.1.4,shiyu_defense,Miyabi,time,8187,109.0,7358,92.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.2.1,2.1.4,shiyu_defense,Yanagi,time,10460,102.0,1092,84.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.2.1,2.1.4,shiyu_defense,Vivian,time,8525,110.0,1021,84.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.2.1,2.1.4,shiyu_defense,Alice,time,7922,109.0,1044,73.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.2.1,2.1.4,shiyu_defense,Trigger,time,6497,120.0,1161,85.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.2.1,2.1.4,shiyu_defense,Jane,time,5774,126.0,1653,95.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.2.1,2.1.4,shiyu_defense,Yixuan,time,3886,131.0,2950,93.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.2.1,2.1.4,shiyu_defense,Soldier 0 - Anby,time,4805,121.0,848,96.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.2.1,2.2.1,deadly_assault,Yuzuha,score,13105,27945.0,2052,42348.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.2.1,2.2.1,deadly_assault,Yixuan,score,9435,24777.0,4276,32733.5,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.2.1,2.2.1,deadly_assault,Astra Yao,score,10807,24762.0,2808,32855.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.2.1,2.2.1,deadly_assault,Vivian,score,8842,28922.0,1003,40635.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.2.1,2.2.1,deadly_assault,Ju Fufu,score,7550,27659.5,1006,42322.5,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.2.1,2.2.1,deadly_assault,Trigger,score,6334,25539.0,1460,37307.5,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.2.1,2.2.1,deadly_assault,Miyabi,score,3339,23688.0,4189,27705.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.2.1,2.2.1,deadly_assault,Alice,score,6255,30031.0,946,50307.5,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.2.1,2.2.1,deadly_assault,Soldier 0 - Anby,score,5167,26287.0,887,35654.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.2.2,2.2.2,deadly_assault,Miyabi,score,10858,28359.5,8567,34740.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.2.2,2.2.2,deadly_assault,Astra Yao,score,14777,25655.0,3460,34584.5,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.2.2,2.2.2,deadly_assault,Yuzuha,score,15401,30245.0,2310,44011.5,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.2.2,2.2.2,deadly_assault,Trigger,score,8303,25413.0,2053,36765.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.2.2,2.2.2,deadly_assault,Vivian,score,8295,29356.0,1096,40712.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.2.2,2.2.2,deadly_assault,Evelyn,score,7637,25430.0,1149,35421.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.2.2,2.2.2,deadly_assault,Yixuan,score,4548,23341.0,3135,28766.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.2.2,2.2.2,deadly_assault,Soldier 0 - Anby,score,6320,26214.5,1035,35761.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.2.2,2.2.2,deadly_assault,Ju Fufu,score,6353,25570.0,918,39259.5,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.2.2,2.2.2,deadly_assault,Yanagi,score,6347,27266.0,804,34349.5,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.2.2,2.2.2,shiyu_defense,Astra Yao,time,11912,110.0,2636,85.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.2.2,2.2.2,shiyu_defense,Yuzuha,time,12384,113.0,1862,77.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.2.2,2.2.2,shiyu_defense,Trigger,time,7766,95.0,1799,69.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.2.2,2.2.2,shiyu_defense,Miyabi,time,4387,108.0,4656,87.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.2.2,2.2.2,shiyu_defense,Soldier 0 - Anby,time,5803,90.0,865,72.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.2.2,2.2.2,shiyu_defense,Yanagi,time,5575,101.0,658,80.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.2.2,2.2.2,shiyu_defense,Alice,time,5036,118.0,787,73.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.2.2,2.2.2,shiyu_defense,Evelyn,time,4889,126.0,785,98.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.2.2,2.2.2,shiyu_defense,Seed,time,4854,91.0,488,62.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.2.2,2.2.2,shiyu_defense,Vivian,time,4586,113.0,654,81.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.3.1,2.2.3,shiyu_defense,Astra Yao,time,13584,119.0,3099,95.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.3.1,2.2.3,shiyu_defense,Yixuan,time,11120,121.0,4897,91.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.3.1,2.2.3,shiyu_defense,Yuzuha,time,11510,118.0,1788,86.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.3.1,2.2.3,shiyu_defense,Ju Fufu,time,9128,113.0,1061,80.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.3.1,2.2.3,shiyu_defense,Trigger,time,7964,114.0,1840,88.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.3.1,2.2.3,shiyu_defense,Miyabi,time,3712,124.0,4476,103.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.3.1,2.2.3,shiyu_defense,Yanagi,time,5873,113.0,712,94.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.3.1,2.2.3,shiyu_defense,Soldier 0 - Anby,time,5501,111.0,828,91.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.3.1,2.2.3,shiyu_defense,Orphie & Magus,time,5218,108.0,517,83.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.3.1,2.3.1,deadly_assault,Miyabi,score,9420,27499.5,7456,34770.5,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.3.1,2.3.1,deadly_assault,Yixuan,score,10903,32221.0,4460,43551.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.3.1,2.3.1,deadly_assault,Yuzuha,score,12988,29786.5,1963,43554.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.3.1,2.3.1,deadly_assault,Astra Yao,score,10207,25300.0,2547,33012.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.3.1,2.3.1,deadly_assault,Lucia,score,10117,38702.0,1354,52418.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.3.1,2.3.1,deadly_assault,Trigger,score,7927,27946.0,1779,40490.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.3.1,2.3.1,deadly_assault,Vivian,score,8059,28613.0,1298,38768.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.3.1,2.3.1,deadly_assault,Ju Fufu,score,8072,36611.0,984,56337.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.3.1,2.3.1,deadly_assault,Soldier 0 - Anby,score,6506,29294.0,948,39788.5,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.3.2,2.3.2,deadly_assault,Yuzuha,score,13223,25653.0,2007,38760.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.3.2,2.3.2,deadly_assault,Lucia,score,12379,32186.0,2000,45379.5,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.3.2,2.3.2,deadly_assault,Yixuan,score,9501,30385.0,4048,40738.5,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.3.2,2.3.2,deadly_assault,Vivian,score,10396,25930.5,1611,35719.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.3.2,2.3.2,deadly_assault,Astra Yao,score,9331,24322.0,2407,30625.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.3.2,2.3.2,deadly_assault,Trigger,score,8061,28097.0,1788,39700.5,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.3.2,2.3.2,deadly_assault,Ju Fufu,score,7966,34266.0,1031,51590.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.3.2,2.3.2,deadly_assault,Miyabi,score,3411,22155.0,4843,26094.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.3.2,2.3.2,deadly_assault,Soldier 0 - Anby,score,6560,29148.0,918,39110.5,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.3.2,2.3.2,deadly_assault,Alice,score,5890,27195.5,907,45686.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.3.2,2.3.2,shiyu_defense,Yixuan,time,9212,90.0,3642,64.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.3.2,2.3.2,shiyu_defense,Lucia,time,10980,86.0,1829,66.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.3.2,2.3.2,shiyu_defense,Miyabi,time,6863,142.0,5915,119.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.3.2,2.3.2,shiyu_defense,Yuzuha,time,8363,131.0,1237,95.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.3.2,2.3.2,shiyu_defense,Astra Yao,time,6908,131.0,1795,99.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.3.2,2.3.2,shiyu_defense,Ju Fufu,time,7464,87.0,909,60.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.3.2,2.3.2,shiyu_defense,Vivian,time,5404,133.0,981,100.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.3.2,2.3.2,shiyu_defense,Yanagi,time,2444,140.0,309,116.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.3.2,2.3.2,shiyu_defense,Trigger,time,1935,112.0,654,85.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.4.1,2.3.3,shiyu_defense,Miyabi,time,10220,113.0,8437,90.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.4.1,2.3.3,shiyu_defense,Yixuan,time,13463,114.0,5182,85.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.4.1,2.3.3,shiyu_defense,Lucia,time,14816,106.0,2256,80.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.4.1,2.3.3,shiyu_defense,Yuzuha,time,11651,107.0,1704,82.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.4.1,2.3.3,shiyu_defense,Astra Yao,time,9365,114.0,2304,89.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.4.1,2.3.3,shiyu_defense,Ju Fufu,time,9862,107.0,1247,74.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.4.1,2.3.3,shiyu_defense,Vivian,time,7583,113.0,1413,92.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.4.1,2.3.3,shiyu_defense,Yanagi,time,5326,106.0,608,90.5,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.4.1,2.4.1,deadly_assault,Yuzuha,score,12165,25071.0,1920,38551.5,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.4.1,2.4.1,deadly_assault,Yixuan,score,9197,28991.0,3882,39501.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.4.1,2.4.1,deadly_assault,Miyabi,score,6349,25352.0,6195,31152.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.4.1,2.4.1,deadly_assault,Lucia,score,10623,30163.0,1917,43651.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.4.1,2.4.1,deadly_assault,Astra Yao,score,9688,25981.0,2533,34734.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.4.1,2.4.1,deadly_assault,Vivian,score,10160,24909.0,1636,34255.5,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.4.1,2.4.1,deadly_assault,Dialyn,score,8388,29836.5,845,47002.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.4.1,2.4.1,deadly_assault,Ju Fufu,score,5473,29744.0,880,45073.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.4.1,2.4.1,deadly_assault,Alice,score,5261,25301.0,865,42939.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.4.1,2.4.1,deadly_assault,Jane,score,3519,23604.0,1163,32683.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.5.1,2.5.1,deadly_assault,Ye Shunguang,score,9512,30558.0,4161,43666.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.5.1,2.5.1,deadly_assault,Yuzuha,score,11290,24763.0,1905,38083.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.5.1,2.5.1,deadly_assault,Lucia,score,10808,28686.0,1928,41004.5,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.5.1,2.5.1,deadly_assault,Dialyn,score,11074,32705.5,1378,47540.5,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.5.1,2.5.1,deadly_assault,Zhao,score,11659,33141.0,364,58913.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.5.1,2.5.1,deadly_assault,Yixuan,score,7279,27372.0,3638,36457.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.5.1,2.5.1,deadly_assault,Vivian,score,8905,24987.0,1434,33993.5,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.5.1,2.5.1,deadly_assault,Astra Yao,score,6680,25742.0,1996,34243.5,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.5.1,2.5.1,deadly_assault,Ju Fufu,score,7022,29459.5,1056,44899.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.5.1,2.5.1,deadly_assault,Miyabi,score,1986,21631.5,3880,25212.5,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.5.1,2.5.1,shiyu_defense,Miyabi,score,9517,32788.0,8363,36941.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.5.1,2.5.1,shiyu_defense,Astra Yao,score,13274,32633.5,3087,37664.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.5.1,2.5.1,shiyu_defense,Yuzuha,score,13877,33601.0,2107,39576.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.5.1,2.5.1,shiyu_defense,Dialyn,score,13475,33836.0,1590,41607.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.5.1,2.5.1,shiyu_defense,Ye Shunguang,score,9410,33902.5,3811,42413.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.5.1,2.5.1,shiyu_defense,Zhao,score,11096,35363.0,286,45716.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.5.1,2.5.1,shiyu_defense,Lucia,score,8667,30987.0,1739,37469.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.5.1,2.5.1,shiyu_defense,Trigger,score,7362,32030.0,1748,38799.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.5.1,2.5.1,shiyu_defense,Vivian,score,7134,33511.0,1365,37669.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.5.1,2.5.1,shiyu_defense,Yixuan,score,4967,29671.0,3278,35188.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.5.2,2.5.1,deadly_assault,Ye Shunguang,score,12905,30851.0,5831,45018.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.5.2,2.5.1,deadly_assault,Zhao,score,16397,33908.0,482,58780.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.5.2,2.5.1,deadly_assault,Yuzuha,score,14207,24674.0,2252,38350.5,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.5.2,2.5.1,deadly_assault,Dialyn,score,14484,33606.5,1624,50044.5,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.5.2,2.5.1,deadly_assault,Lucia,score,13566,28610.5,2264,41073.5,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.5.2,2.5.1,deadly_assault,Yixuan,score,9349,27178.0,4441,36131.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.5.2,2.5.1,deadly_assault,Vivian,score,11173,24805.0,1752,33965.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.5.2,2.5.1,deadly_assault,Astra Yao,score,8619,25711.0,2409,34485.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.5.2,2.5.1,deadly_assault,Ju Fufu,score,8933,29187.0,1263,44479.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.5.2,2.5.1,deadly_assault,Miyabi,score,2584,21537.0,4795,25112.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.5.2,2.5.2,shiyu_defense,Ye Shunguang,score,11429,36754.0,5775,46496.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.5.2,2.5.2,shiyu_defense,Zhao,score,16280,38845.0,506,49267.5,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.5.2,2.5.2,shiyu_defense,Yixuan,score,10126,31126.0,4520,38171.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.5.2,2.5.2,shiyu_defense,Dialyn,score,13021,38381.0,1498,47488.5,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.5.2,2.5.2,shiyu_defense,Lucia,score,11704,32571.0,1992,40587.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.5.2,2.5.2,shiyu_defense,Astra Yao,score,9564,32173.5,2384,37878.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.5.2,2.5.2,shiyu_defense,Yuzuha,score,10245,32791.0,1617,40408.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.5.2,2.5.2,shiyu_defense,Ju Fufu,score,8013,32732.0,1110,41273.5,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.5.2,2.5.2,shiyu_defense,Miyabi,score,2795,28955.0,3889,33705.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.5.2,2.5.2,shiyu_defense,Trigger,score,5007,31654.0,1362,38925.5,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.5.3,2.5.2,deadly_assault,Ye Shunguang,score,12179,33744.0,7069,47541.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.5.3,2.5.2,deadly_assault,Miyabi,score,10730,31621.5,8472,40584.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.5.3,2.5.2,deadly_assault,Zhao,score,18211,37844.0,604,60000.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.5.3,2.5.2,deadly_assault,Yixuan,score,12392,30948.0,4960,40727.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.5.3,2.5.2,deadly_assault,Dialyn,score,14761,38156.0,1605,53866.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.5.3,2.5.2,deadly_assault,Yuzuha,score,13996,34688.5,1994,48034.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.5.3,2.5.2,deadly_assault,Lucia,score,13583,33167.0,2172,45704.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.5.3,2.5.2,deadly_assault,Astra Yao,score,9934,31209.0,2938,43150.5,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.5.3,2.5.2,deadly_assault,Vivian,score,8846,34148.0,1507,42898.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.5.3,2.5.2,deadly_assault,Ju Fufu,score,9101,33087.0,1233,48675.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.5.3,2.5.3,shiyu_defense,Zhao,score,15230,39333.0,532,48881.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.5.3,2.5.3,shiyu_defense,Ye Shunguang,score,9794,37083.5,5908,45282.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.5.3,2.5.3,shiyu_defense,Yuzuha,score,11950,31930.5,1821,39872.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.5.3,2.5.3,shiyu_defense,Dialyn,score,11513,38924.0,1344,46752.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.5.3,2.5.3,shiyu_defense,Astra Yao,score,9219,32249.0,3109,38267.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.5.3,2.5.3,shiyu_defense,Miyabi,score,4816,30168.5,5109,33980.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.5.3,2.5.3,shiyu_defense,Lucia,score,6172,31749.0,1296,40027.5,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.5.3,2.5.3,shiyu_defense,Yixuan,score,3946,30243.5,2671,37590.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.5.3,2.5.3,shiyu_defense,Ju Fufu,score,5660,32016.0,852,41962.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.5.3,2.5.3,shiyu_defense,Alice,score,5058,32989.5,1054,43109.5,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.6.1,2.6.1,deadly_assault,Ye Shunguang,score,9547,31323.0,6377,42124.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.6.1,2.6.1,deadly_assault,Miyabi,score,8458,27770.0,6614,35906.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.6.1,2.6.1,deadly_assault,Yixuan,score,9867,32178.0,4464,42562.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.6.1,2.6.1,deadly_assault,Zhao,score,13294,33442.0,451,50764.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.6.1,2.6.1,deadly_assault,Yuzuha,score,11812,30564.5,1778,45599.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.6.1,2.6.1,deadly_assault,Lucia,score,10946,34861.5,1826,47916.5,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.6.1,2.6.1,deadly_assault,Dialyn,score,11071,34669.0,1305,48924.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.6.1,2.6.1,deadly_assault,Sunna,score,8290,37793.5,749,57834.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.6.1,2.6.1,deadly_assault,Vivian,score,7203,29588.0,1331,41027.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.6.1,2.6.1,deadly_assault,Astra Yao,score,5079,27637.0,2261,36624.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.6.1,2.6.1,shiyu_defense,Ye Shunguang,score,12087,35347.0,7818,43076.5,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.6.1,2.6.1,shiyu_defense,Zhao,score,18006,37530.0,584,46966.5,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.6.1,2.6.1,shiyu_defense,Dialyn,score,14120,36182.5,1520,44448.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.6.1,2.6.1,shiyu_defense,Astra Yao,score,10544,33260.5,3696,39077.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.6.1,2.6.1,shiyu_defense,Yixuan,score,9315,31709.0,4752,39303.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.6.1,2.6.1,shiyu_defense,Lucia,score,11626,33355.0,1949,41845.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.6.1,2.6.1,shiyu_defense,Yuzuha,score,9126,34927.5,1446,41385.5,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.6.1,2.6.1,shiyu_defense,Miyabi,score,4545,34403.0,5057,40460.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.6.1,2.6.1,shiyu_defense,Trigger,score,7639,34599.0,1764,43416.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.6.1,2.6.1,shiyu_defense,Ju Fufu,score,7661,32651.0,1019,41435.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.6.2,2.6.2,deadly_assault,Ye Shunguang,score,10149,30121.0,7068,42014.5,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.6.2,2.6.2,deadly_assault,Zhao,score,15127,32586.0,543,50577.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.6.2,2.6.2,deadly_assault,Lucia,score,12291,29821.0,2066,41926.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.6.2,2.6.2,deadly_assault,Dialyn,score,12402,31632.0,1474,46388.5,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.6.2,2.6.2,deadly_assault,Sunna,score,12037,33503.0,1257,54376.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.6.2,2.6.2,deadly_assault,Yixuan,score,7857,27899.0,4674,35568.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.6.2,2.6.2,deadly_assault,Yuzuha,score,7704,25601.5,1871,35883.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.6.2,2.6.2,deadly_assault,Astra Yao,score,5877,24910.0,2734,31133.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.6.2,2.6.2,deadly_assault,Ju Fufu,score,6446,29325.5,999,43488.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.6.2,2.6.2,deadly_assault,Trigger,score,5077,25525.0,1308,34372.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.6.2,2.6.3,shiyu_defense,Ye Shunguang,score,9487,37775.0,6258,45968.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.6.2,2.6.3,shiyu_defense,Zhao,score,14300,39994.0,501,48888.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.6.2,2.6.3,shiyu_defense,Dialyn,score,11172,37506.5,1316,45800.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.6.2,2.6.3,shiyu_defense,Sunna,score,10770,38650.5,1141,46162.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.6.2,2.6.3,shiyu_defense,Yixuan,score,7302,32374.0,4436,40166.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.6.2,2.6.3,shiyu_defense,Yuzuha,score,9683,32074.0,1928,40122.5,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.6.2,2.6.3,shiyu_defense,Lucia,score,9814,34469.5,1688,42622.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.6.2,2.6.3,shiyu_defense,Astra Yao,score,6342,31019.0,2731,36412.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.6.2,2.6.3,shiyu_defense,Ju Fufu,score,5159,33729.0,794,42451.5,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.6.2,2.6.3,shiyu_defense,Miyabi,score,2543,29313.0,3323,34242.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.7.1,2.6.4,shiyu_defense,Ye Shunguang,score,11884,35983.5,7389,43591.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.7.1,2.6.4,shiyu_defense,Zhao,score,17425,38053.0,568,47382.5,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.7.1,2.6.4,shiyu_defense,Yuzuha,score,13024,30570.5,2542,38067.5,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.7.1,2.6.4,shiyu_defense,Dialyn,score,13485,36402.0,1472,44433.5,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.7.1,2.6.4,shiyu_defense,Lucia,score,12665,33181.0,2012,41567.5,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.7.1,2.6.4,shiyu_defense,Sunna,score,12654,36372.5,1232,45778.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.7.1,2.6.4,shiyu_defense,Yixuan,score,8696,31434.0,5168,39062.5,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.7.1,2.6.4,shiyu_defense,Miyabi,score,5975,29150.0,6333,32940.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.7.1,2.6.4,shiyu_defense,Astra Yao,score,6557,30762.0,2841,35555.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.7.1,2.6.4,shiyu_defense,Ju Fufu,score,6833,32905.0,990,41853.5,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.7.1,2.7.1,deadly_assault,Yixuan,score,8854,31432.0,4520,41118.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.7.1,2.7.1,deadly_assault,Miyabi,score,6779,26664.0,5828,35080.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.7.1,2.7.1,deadly_assault,Yuzuha,score,10426,27577.5,2175,39132.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.7.1,2.7.1,deadly_assault,Lucia,score,10569,33927.0,1710,46731.5,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.7.1,2.7.1,deadly_assault,Dialyn,score,9534,33970.0,1160,47795.5,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.7.1,2.7.1,deadly_assault,Sunna,score,8339,28829.0,1029,47585.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.7.1,2.7.1,deadly_assault,Nangong Yu,score,7738,30738.0,845,54115.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.7.1,2.7.1,deadly_assault,Ye Shunguang,score,3264,26538.0,3747,36235.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.7.1,2.7.1,deadly_assault,Zhao,score,6343,29347.0,344,43390.5,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.7.1,2.7.1,deadly_assault,Astra Yao,score,4483,26197.0,2152,34714.5,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.7.2,2.7.2,deadly_assault,Ye Shunguang,score,10402,29847.5,6871,42356.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.7.2,2.7.2,deadly_assault,Zhao,score,15498,32775.0,528,52656.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.7.2,2.7.2,deadly_assault,Dialyn,score,12445,32226.0,1421,47846.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.7.2,2.7.2,deadly_assault,Sunna,score,12097,34008.0,1229,55401.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.7.2,2.7.2,deadly_assault,Nangong Yu,score,11239,32033.0,1364,55425.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.7.2,2.7.2,deadly_assault,Yuzuha,score,7287,26247.0,1904,36959.5,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.7.2,2.7.2,deadly_assault,Aria,score,8043,33974.0,982,55057.5,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.7.2,2.7.2,deadly_assault,Astra Yao,score,5926,26037.0,2711,34825.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.7.2,2.7.2,deadly_assault,Lucia,score,6838,27586.5,1379,39514.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.7.2,2.7.2,deadly_assault,Yixuan,score,4425,25665.0,3588,33033.5,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.7.2,2.7.2,shiyu_defense,Ye Shunguang,score,6490,35136.5,5218,43405.5,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.7.2,2.7.2,shiyu_defense,Zhao,score,10596,37843.0,404,48529.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.7.2,2.7.2,shiyu_defense,Lucia,score,9278,33209.5,1598,41741.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.7.2,2.7.2,shiyu_defense,Dialyn,score,9518,34833.5,1160,44296.5,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.7.2,2.7.2,shiyu_defense,Yixuan,score,6363,31552.0,4001,39186.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.7.2,2.7.2,shiyu_defense,Sunna,score,9219,36595.0,1020,46935.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.7.2,2.7.2,shiyu_defense,Nangong Yu,score,8951,32215.0,1165,44706.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.7.2,2.7.2,shiyu_defense,Yuzuha,score,7843,30770.0,1786,37444.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.7.2,2.7.2,shiyu_defense,Miyabi,score,4220,29402.5,4694,33095.5,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.7.2,2.7.2,shiyu_defense,Astra Yao,score,4676,31902.5,2246,36898.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.8.1,2.7.3,shiyu_defense,Ye Shunguang,score,9669,33863.0,6677,41891.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.8.1,2.7.3,shiyu_defense,Zhao,score,14363,35969.0,470,47802.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.8.1,2.7.3,shiyu_defense,Dialyn,score,12175,34772.0,1374,43886.5,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.8.1,2.7.3,shiyu_defense,Yuzuha,score,10919,34852.0,2180,40342.5,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.8.1,2.7.3,shiyu_defense,Nangong Yu,score,11552,35960.5,1375,45969.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.8.1,2.7.3,shiyu_defense,Sunna,score,11654,36285.5,1172,46003.5,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.8.1,2.7.3,shiyu_defense,Miyabi,score,5458,34282.0,5254,37207.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.8.1,2.7.3,shiyu_defense,Yixuan,score,5740,30123.5,4152,35797.5,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.8.1,2.7.3,shiyu_defense,Astra Yao,score,6968,30625.0,2879,35414.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.8.1,2.7.3,shiyu_defense,Lucia,score,7808,31685.0,1596,39278.5,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.8.1,2.8.1,deadly_assault,Lucia,score,10227,29197.0,1965,42553.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.8.1,2.8.1,deadly_assault,Yuzuha,score,9931,28529.0,2100,40579.5,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.8.1,2.8.1,deadly_assault,Ye Shunguang,score,5660,29116.5,4668,41148.5,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.8.1,2.8.1,deadly_assault,Yixuan,score,6465,27988.0,3819,37045.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.8.1,2.8.1,deadly_assault,Dialyn,score,9029,30809.0,1148,44632.5,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.8.1,2.8.1,deadly_assault,Miyabi,score,4745,25656.0,4643,31896.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.8.1,2.8.1,deadly_assault,Zhao,score,8607,32023.0,346,51936.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.8.1,2.8.1,deadly_assault,Nangong Yu,score,7751,30148.0,1077,48405.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.8.1,2.8.1,deadly_assault,Sunna,score,7146,33316.0,845,53173.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.8.1,2.8.1,deadly_assault,Astra Yao,score,3648,26192.5,1932,33706.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.8.2,2.8.2,deadly_assault,Yuzuha,score,11214,27115.5,2221,39536.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.8.2,2.8.2,deadly_assault,Ye Shunguang,score,6708,25017.0,5364,35098.5,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.8.2,2.8.2,deadly_assault,Dialyn,score,10134,28886.5,1171,44024.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.8.2,2.8.2,deadly_assault,Nangong Yu,score,10052,29312.5,1232,48573.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.8.2,2.8.2,deadly_assault,Zhao,score,10843,27671.0,364,46010.5,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.8.2,2.8.2,deadly_assault,Sunna,score,9455,28235.0,1026,46375.5,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.8.2,2.8.2,deadly_assault,Miyabi,score,5213,24002.0,5093,30442.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.8.2,2.8.2,deadly_assault,Lucia,score,6263,25652.0,1637,37140.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.8.2,2.8.2,deadly_assault,Vivian,score,5656,25506.5,1105,35551.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.8.2,2.8.2,deadly_assault,Aria,score,5622,27816.0,756,45677.5,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.8.2,2.8.2,shiyu_defense,Ye Shunguang,score,6917,34380.0,4783,41870.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.8.2,2.8.2,shiyu_defense,Yuzuha,score,9405,31533.0,1909,38146.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.8.2,2.8.2,shiyu_defense,Zhao,score,9702,36378.0,370,46815.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.8.2,2.8.2,shiyu_defense,Miyabi,score,4537,30467.0,4302,34211.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.8.2,2.8.2,shiyu_defense,Dialyn,score,7690,33855.0,959,42580.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.8.2,2.8.2,shiyu_defense,Sunna,score,7395,37529.0,816,46361.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.8.2,2.8.2,shiyu_defense,Nangong Yu,score,6916,32570.0,958,42458.5,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.8.2,2.8.2,shiyu_defense,Astra Yao,score,4553,29364.0,2217,34000.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.8.2,2.8.2,shiyu_defense,Lucia,score,4387,30384.0,1283,37861.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.8.2,2.8.2,shiyu_defense,Trigger,score,2803,28704.0,885,34448.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.8.3,2.8.3,deadly_assault,Ye Shunguang,score,9230,30570.0,6284,42360.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.8.3,2.8.3,deadly_assault,Yuzuha,score,11925,30524.0,2397,43947.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.8.3,2.8.3,deadly_assault,Zhao,score,13149,33327.0,445,52603.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.8.3,2.8.3,deadly_assault,Dialyn,score,11513,32439.0,1314,46924.5,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.8.3,2.8.3,deadly_assault,Sunna,score,10097,34236.0,1051,53934.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.8.3,2.8.3,deadly_assault,Nangong Yu,score,9185,32385.0,1194,52438.5,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.8.3,2.8.3,deadly_assault,Lucia,score,8121,28845.0,1991,42311.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.8.3,2.8.3,deadly_assault,Astra Yao,score,5398,26273.5,2425,35232.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.8.3,2.8.3,deadly_assault,Miyabi,score,3188,28004.5,3981,35319.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.8.3,2.8.3,deadly_assault,Yixuan,score,3454,25814.0,3003,34239.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.8.3,2.8.3,shiyu_defense,Ye Shunguang,score,7695,36181.0,5145,43389.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.8.3,2.8.3,shiyu_defense,Yuzuha,score,10317,33311.0,2058,39300.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.8.3,2.8.3,shiyu_defense,Zhao,score,11058,38277.5,389,48076.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.8.3,2.8.3,shiyu_defense,Dialyn,score,9165,34579.0,1095,43456.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.8.3,2.8.3,shiyu_defense,Miyabi,score,5196,32482.5,4716,36262.5,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.8.3,2.8.3,shiyu_defense,Sunna,score,8354,38954.0,890,47411.5,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.8.3,2.8.3,shiyu_defense,Lucia,score,7416,31552.0,1808,39265.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.8.3,2.8.3,shiyu_defense,Nangong Yu,score,7943,34861.0,1052,44391.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.8.3,2.8.3,shiyu_defense,Yixuan,score,3521,29602.0,2865,35341.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:2.8.3,2.8.3,shiyu_defense,Astra Yao,score,4277,30524.0,2042,35237.5,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:3.0.1,2.8.3,shiyu_defense,Ye Shunguang,score,10633,35592.0,7085,42938.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:3.0.1,2.8.3,shiyu_defense,Yuzuha,score,14258,33197.5,2630,39364.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:3.0.1,2.8.3,shiyu_defense,Zhao,score,15286,37765.0,493,47345.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:3.0.1,2.8.3,shiyu_defense,Dialyn,score,12335,34254.0,1390,42844.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:3.0.1,2.8.3,shiyu_defense,Miyabi,score,6960,32017.5,6363,35773.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:3.0.1,2.8.3,shiyu_defense,Sunna,score,11199,38650.0,1110,47283.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:3.0.1,2.8.3,shiyu_defense,Lucia,score,9776,31242.0,2264,38594.5,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:3.0.1,2.8.3,shiyu_defense,Nangong Yu,score,9911,34570.0,1259,43717.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:3.0.1,2.8.3,shiyu_defense,Astra Yao,score,6223,30303.0,2719,34972.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:3.0.1,2.8.3,shiyu_defense,Yixuan,score,4721,29348.0,3806,35009.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:3.0.1,3.0.1,deadly_assault,Yuzuha,score,10376,29172.5,2159,43908.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:3.0.1,3.0.1,deadly_assault,Ye Shunguang,score,6321,29151.0,5274,41999.5,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:3.0.1,3.0.1,deadly_assault,Dialyn,score,9685,34742.0,1176,50449.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:3.0.1,3.0.1,deadly_assault,Zhao,score,9862,32617.0,381,52862.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:3.0.1,3.0.1,deadly_assault,Lucia,score,8303,34225.0,1850,48263.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:3.0.1,3.0.1,deadly_assault,Velina,score,8002,31170.5,828,51380.5,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:3.0.1,3.0.1,deadly_assault,Sunna,score,7721,32782.0,892,52515.5,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:3.0.1,3.0.1,deadly_assault,Yixuan,score,4836,32150.0,3323,42543.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:3.0.1,3.0.1,deadly_assault,Miyabi,score,3015,25507.0,3875,32858.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:3.0.1,3.0.1,deadly_assault,Astra Yao,score,4227,27242.0,2000,37227.5,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:3.0.2,3.0.1,shiyu_defense,Yuzuha,score,14305,35323.0,2595,42333.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:3.0.2,3.0.1,shiyu_defense,Ye Shunguang,score,7864,33722.0,6437,42387.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:3.0.2,3.0.1,shiyu_defense,Miyabi,score,7107,32616.0,6391,37704.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:3.0.2,3.0.1,shiyu_defense,Velina,score,11813,35228.0,1216,44123.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:3.0.2,3.0.1,shiyu_defense,Zhao,score,12244,36032.5,441,46970.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:3.0.2,3.0.1,shiyu_defense,Dialyn,score,10262,34075.0,1266,43292.5,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:3.0.2,3.0.1,shiyu_defense,Sunna,score,10412,36018.0,1067,46603.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:3.0.2,3.0.1,shiyu_defense,Astra Yao,score,8098,32367.0,2960,37751.5,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:3.0.2,3.0.1,shiyu_defense,Nangong Yu,score,9194,33751.5,1186,44376.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:3.0.2,3.0.1,shiyu_defense,Lucia,score,5883,30676.0,1663,39230.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:3.0.2,3.0.2,deadly_assault,Ye Shunguang,score,7805,28300.0,5740,38347.5,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:3.0.2,3.0.2,deadly_assault,Yuzuha,score,10783,30811.0,2124,46293.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:3.0.2,3.0.2,deadly_assault,Zhao,score,11369,30697.0,410,48025.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:3.0.2,3.0.2,deadly_assault,Velina,score,10462,31687.5,1240,50886.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:3.0.2,3.0.2,deadly_assault,Dialyn,score,9241,30508.0,1126,44985.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:3.0.2,3.0.2,deadly_assault,Sunna,score,8739,31895.0,939,48201.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:3.0.2,3.0.2,deadly_assault,Lucia,score,7299,28741.0,1768,41804.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:3.0.2,3.0.2,deadly_assault,Yixuan,score,3544,27091.0,2904,35627.5,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:3.0.2,3.0.2,deadly_assault,Astra Yao,score,3500,25158.0,1789,32113.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:3.0.2,3.0.2,deadly_assault,Ju Fufu,score,3239,28540.0,573,42839.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:3.0.3,3.0.2,shiyu_defense,Ye Shunguang,score,9825,37496.0,6990,46072.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:3.0.3,3.0.2,shiyu_defense,Yuzuha,score,13561,37006.0,2509,45257.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:3.0.3,3.0.2,shiyu_defense,Velina,score,13189,37467.0,1522,47401.5,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:3.0.3,3.0.2,shiyu_defense,Zhao,score,13729,40250.0,459,50000.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:3.0.3,3.0.2,shiyu_defense,Sunna,score,11282,40466.5,1192,49370.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:3.0.3,3.0.2,shiyu_defense,Dialyn,score,9956,35390.5,1212,44689.5,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:3.0.3,3.0.2,shiyu_defense,Astra Yao,score,6571,29592.0,2869,34795.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:3.0.3,3.0.2,shiyu_defense,Lucia,score,5725,29522.0,1653,37494.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:3.0.3,3.0.2,shiyu_defense,Yixuan,score,3102,28004.5,3219,34059.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:3.0.3,3.0.2,shiyu_defense,Miyabi,score,2444,30993.5,3499,34712.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:3.0.3,3.0.3,deadly_assault,Yuzuha,score,11080,30267.0,2137,43371.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:3.0.3,3.0.3,deadly_assault,Velina,score,9749,30665.0,1243,44982.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:3.0.3,3.0.3,deadly_assault,Sunna,score,8373,30356.0,1040,50352.5,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:3.0.3,3.0.3,deadly_assault,Ye Shunguang,score,4219,27170.0,4452,38786.5,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:3.0.3,3.0.3,deadly_assault,Dialyn,score,7646,31336.0,921,46397.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:3.0.3,3.0.3,deadly_assault,Astra Yao,score,6034,28039.5,2512,38198.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:3.0.3,3.0.3,deadly_assault,Zhao,score,7233,30244.0,284,49167.5,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:3.0.3,3.0.3,deadly_assault,Nangong Yu,score,6506,28641.5,987,48510.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:3.0.3,3.0.3,deadly_assault,Miyabi,score,3105,25853.0,3482,31565.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:3.0.3,3.0.3,deadly_assault,Lucia,score,4431,28226.0,1342,41567.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:3.1.1,3.0.3,shiyu_defense,Yuzuha,score,13740,35021.5,2520,42133.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:3.1.1,3.0.3,shiyu_defense,Velina,score,14634,36844.5,1575,45492.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:3.1.1,3.0.3,shiyu_defense,Ye Shunguang,score,8985,34654.0,7206,42584.5,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:3.1.1,3.0.3,shiyu_defense,Zhao,score,13032,36999.0,435,47908.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:3.1.1,3.0.3,shiyu_defense,Sunna,score,12094,37422.0,1301,46864.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:3.1.1,3.0.3,shiyu_defense,Miyabi,score,6719,31658.0,6417,36077.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:3.1.1,3.0.3,shiyu_defense,Dialyn,score,10165,34486.0,1264,43425.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:3.1.1,3.0.3,shiyu_defense,Astra Yao,score,7296,31606.5,2918,36483.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:3.1.1,3.0.3,shiyu_defense,Nangong Yu,score,8889,33983.0,1108,43334.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:3.1.1,3.0.3,shiyu_defense,Lucia,score,5408,30175.0,2546,36105.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:3.1.1,3.1.1,deadly_assault,Yuzuha,score,12861,29387.0,2729,41552.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:3.1.1,3.1.1,deadly_assault,Velina,score,19803,30738.0,2723,46549.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:3.1.1,3.1.1,deadly_assault,Miyabi,score,7308,27744.5,7023,34268.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:3.1.1,3.1.1,deadly_assault,Remielle,score,13230,28588.5,8704,40280.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:3.1.1,3.1.1,deadly_assault,Nangong Yu,score,10360,32575.5,1508,49498.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:3.1.1,3.1.1,deadly_assault,Ye Shunguang,score,5082,33073.0,5696,44077.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:3.1.1,3.1.1,deadly_assault,Sunna,score,8989,36253.0,1366,50831.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:3.1.1,3.1.1,deadly_assault,Dialyn,score,7100,34713.0,1053,47845.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:3.1.1,3.1.1,deadly_assault,Zhao,score,7720,35582.0,350,46052.5,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:3.1.1,3.1.1,deadly_assault,Jane,score,3387,27282.0,5791,35681.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:3.1.2,3.1.1,shiyu_defense,Remielle,score,10226,39459.0,6990,48727.5,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:3.1.2,3.1.1,shiyu_defense,Velina,score,14705,42537.0,1596,50000.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:3.1.2,3.1.1,shiyu_defense,Ye Shunguang,score,8710,34021.5,6926,41617.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:3.1.2,3.1.1,shiyu_defense,Zhao,score,11996,35992.5,395,47430.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:3.1.2,3.1.1,shiyu_defense,Sunna,score,11080,36841.0,1240,46477.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:3.1.2,3.1.1,shiyu_defense,Dialyn,score,9286,33816.5,1172,43260.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:3.1.2,3.1.1,shiyu_defense,Jane,score,4675,39649.0,4582,47358.5,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:3.1.2,3.1.1,shiyu_defense,Lucia,score,2761,28836.0,4835,33289.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:3.1.2,3.1.1,shiyu_defense,Astra Yao,score,4625,29106.0,2885,34360.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:3.1.2,3.1.1,shiyu_defense,Yuzuha,score,4950,29928.5,1247,37111.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:3.1.2,3.1.2,deadly_assault,Remielle,score,10936,32788.5,10611,45478.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:3.1.2,3.1.2,deadly_assault,Velina,score,17384,36875.0,2369,54880.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:3.1.2,3.1.2,deadly_assault,Lucia,score,6108,29985.0,6479,39174.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:3.1.2,3.1.2,deadly_assault,Ye Shunguang,score,6777,29652.0,5686,42688.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:3.1.2,3.1.2,deadly_assault,Yixuan,score,7285,31254.0,4121,40677.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:3.1.2,3.1.2,deadly_assault,Dialyn,score,9667,34894.0,1218,48039.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:3.1.2,3.1.2,deadly_assault,Sunna,score,9215,33229.0,1256,51398.5,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:3.1.2,3.1.2,deadly_assault,Zhao,score,9727,32842.0,395,49353.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:3.1.2,3.1.2,deadly_assault,Jane,score,2319,35429.0,3426,50868.5,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:3.1.2,3.1.2,deadly_assault,Ju Fufu,score,3825,31864.0,582,44378.5,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:3.1.3,3.1.2,shiyu_defense,Remielle,score,9576,38043.5,7980,48137.5,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:3.1.3,3.1.2,shiyu_defense,Velina,score,14429,42250.0,1554,50000.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:3.1.3,3.1.2,shiyu_defense,Ye Shunguang,score,6139,33137.0,5945,42116.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:3.1.3,3.1.2,shiyu_defense,Sunna,score,10808,35372.0,1242,46885.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:3.1.3,3.1.2,shiyu_defense,Dialyn,score,9487,33943.0,2302,43211.5,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:3.1.3,3.1.2,shiyu_defense,Yuzuha,score,9277,34003.0,2273,41936.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:3.1.3,3.1.2,shiyu_defense,Miyabi,score,5162,32956.0,5337,38116.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:3.1.3,3.1.2,shiyu_defense,Nangong Yu,score,9230,34930.0,1131,46861.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:3.1.3,3.1.2,shiyu_defense,Jane,score,5021,39351.0,4576,47499.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:3.1.3,3.1.2,shiyu_defense,Zhao,score,8920,35473.5,345,47832.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:3.1.3,3.1.3,deadly_assault,Remielle,score,8550,34012.0,10230,46290.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:3.1.3,3.1.3,deadly_assault,Ye Shunguang,score,6618,28836.5,5123,39023.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:3.1.3,3.1.3,deadly_assault,Velina,score,14999,38844.0,2080,59593.5,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:3.1.3,3.1.3,deadly_assault,Sunna,score,8443,31992.0,1168,48131.5,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:3.1.3,3.1.3,deadly_assault,Dialyn,score,7038,31322.0,2202,42878.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:3.1.3,3.1.3,deadly_assault,Miyabi,score,4257,28723.0,4876,34925.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:3.1.3,3.1.3,deadly_assault,Zhao,score,7684,29993.0,335,45318.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:3.1.3,3.1.3,deadly_assault,Yuzuha,score,6288,31085.5,1798,41446.5,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:3.1.3,3.1.3,deadly_assault,Nangong Yu,score,5404,34098.5,845,48753.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:3.1.3,3.1.3,deadly_assault,Jane,score,2200,34636.0,3065,51068.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:3.2.1,3.1.3,shiyu_defense,Remielle,score,9395,36068.0,8873,46004.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:3.2.1,3.1.3,shiyu_defense,Velina,score,14858,40674.5,1595,49898.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:3.2.1,3.1.3,shiyu_defense,Ye Shunguang,score,7785,35061.0,6530,43782.5,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:3.2.1,3.1.3,shiyu_defense,Dialyn,score,10043,34770.0,2848,43615.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:3.2.1,3.1.3,shiyu_defense,Sunna,score,11018,37969.0,1249,48623.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:3.2.1,3.1.3,shiyu_defense,Miyabi,score,5359,32260.0,5519,37537.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:3.2.1,3.1.3,shiyu_defense,Zhao,score,10144,37137.5,378,48615.5,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:3.2.1,3.1.3,shiyu_defense,Yuzuha,score,7075,33167.0,2081,40649.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:3.2.1,3.1.3,shiyu_defense,Nangong Yu,score,6116,34455.5,939,45220.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:3.2.1,3.1.3,shiyu_defense,Astra Yao,score,3758,31125.5,2656,37971.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:3.2.1,3.2.1,deadly_assault,Remielle,score,8095,30948.0,11014,43605.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:3.2.1,3.2.1,deadly_assault,Velina,score,15085,35799.0,2169,54304.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:3.2.1,3.2.1,deadly_assault,Ye Shunguang,score,6245,28616.0,5314,41324.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:3.2.1,3.2.1,deadly_assault,Dialyn,score,8622,30939.5,2864,42009.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:3.2.1,3.2.1,deadly_assault,Sunna,score,8584,32248.0,1192,49546.5,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:3.2.1,3.2.1,deadly_assault,Zhao,score,7563,30889.0,324,48394.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:3.2.1,3.2.1,deadly_assault,Jane,score,2040,30794.0,3232,46065.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:3.2.1,3.2.1,deadly_assault,Lucia,score,1793,25220.0,3248,31395.5,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:3.2.1,3.2.1,deadly_assault,Astra Yao,score,2092,24091.5,2176,31508.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:3.2.1,3.2.1,deadly_assault,Aria,score,4121,34304.0,873,42044.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:3.2.2,3.2.1,shiyu_defense,Remielle,score,8365,36763.0,8298,45918.5,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:3.2.2,3.2.1,shiyu_defense,Velina,score,13355,41098.0,1484,49947.5,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:3.2.2,3.2.1,shiyu_defense,Ye Shunguang,score,6779,33845.0,5959,42697.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:3.2.2,3.2.1,shiyu_defense,Sunna,score,10284,36007.5,1185,47607.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:3.2.2,3.2.1,shiyu_defense,Dialyn,score,8500,33574.5,2614,41653.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:3.2.2,3.2.1,shiyu_defense,Zhao,score,8924,36349.0,321,48628.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:3.2.2,3.2.1,shiyu_defense,Nangong Yu,score,7280,29945.0,1251,41629.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:3.2.2,3.2.1,shiyu_defense,Yuzuha,score,6343,29626.0,2067,37129.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:3.2.2,3.2.1,shiyu_defense,Miyabi,score,3388,29253.5,4246,33205.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:3.2.2,3.2.1,shiyu_defense,Jane,score,3397,37808.0,3782,45301.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:3.2.2,3.2.2,deadly_assault,Remielle,score,6983,30285.0,10123,41085.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:3.2.2,3.2.2,deadly_assault,Dialyn,score,9129,33144.0,2872,44132.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:3.2.2,3.2.2,deadly_assault,Velina,score,13406,33896.0,1957,49721.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:3.2.2,3.2.2,deadly_assault,Ye Shunguang,score,6252,30088.0,5188,42408.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:3.2.2,3.2.2,deadly_assault,Sunna,score,8379,33809.0,1170,52829.5,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:3.2.2,3.2.2,deadly_assault,Zhao,score,7030,31751.5,299,50499.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:3.2.2,3.2.2,deadly_assault,Jane,score,2762,31491.0,3393,45793.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:3.2.2,3.2.2,deadly_assault,Lucia,score,2140,27638.5,3549,35030.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:3.2.2,3.2.2,deadly_assault,Claret,score,6119,30426.0,775,44257.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:3.2.3,3.2.2,shiyu_defense,Remielle,score,6697,33714.0,7740,42372.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:3.2.3,3.2.2,shiyu_defense,Velina,score,11895,37992.0,1408,46945.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:3.2.3,3.2.2,shiyu_defense,Miyabi,score,4766,29326.0,5102,33296.5,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:3.2.3,3.2.2,shiyu_defense,Yuzuha,score,7046,30100.0,2217,36427.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:3.2.3,3.2.2,shiyu_defense,Dialyn,score,5808,30890.5,2230,37729.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:3.2.3,3.2.2,shiyu_defense,Nangong Yu,score,6708,30625.0,1303,41116.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:3.2.3,3.2.2,shiyu_defense,Ye Shunguang,score,3288,30414.5,4109,38688.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:3.2.3,3.2.2,shiyu_defense,Sunna,score,5989,33234.0,894,44214.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:3.2.3,3.2.2,shiyu_defense,Lucia,score,1509,28381.0,3506,32009.5,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:3.2.3,3.2.3,deadly_assault,Remielle,score,7710,29557.5,10937,39835.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:3.2.3,3.2.3,deadly_assault,Velina,score,15117,33300.0,2138,49836.5,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:3.2.3,3.2.3,deadly_assault,Miyabi,score,4131,26862.0,4396,33339.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:3.2.3,3.2.3,deadly_assault,Yuzuha,score,5731,28111.0,1968,40872.5,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:3.2.3,3.2.3,deadly_assault,Dialyn,score,5184,28499.0,2060,40933.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:3.2.3,3.2.3,deadly_assault,Nangong Yu,score,5506,29590.0,1345,46016.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:3.2.3,3.2.3,deadly_assault,Sunna,score,5556,30267.5,1010,48391.5,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:3.2.3,3.2.3,deadly_assault,Ye Shunguang,score,2800,26032.0,3629,37035.0,0,关联比较（非购买/因果）
+SHIYU_HF_324c95d5fb05:3.2.3,3.2.3,deadly_assault,Claret,score,5050,33892.0,660,48977.0,0,关联比较（非购买/因果）

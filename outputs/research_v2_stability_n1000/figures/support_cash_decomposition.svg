@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1040" height="417" viewBox="0 0 1040 417" role="img" aria-label="模拟 20 期：专拐增益提高后，三类现金分别贡献多少？">
+<rect width="1040" height="417" rx="16" fill="#fff"/>
+<g font-family="'Microsoft YaHei','Noto Sans CJK SC','PingFang SC',sans-serif" fill="#172033">
+<text x="28" y="34" font-size="19" font-weight="700">模拟 20 期：专拐增益提高后，三类现金分别贡献多少？</text>
+<text x="28" y="60" font-size="12" fill="#667085">N=1000，a=0.8→1.6，复核样本；共同分母为同种子基期总现金；横线为逐项 t95 区间</text>
+<line x1="250.0" y1="100" x2="250.0" y2="352" stroke="#e5e7eb"/>
+<text x="250.0" y="375" text-anchor="middle" font-size="11" fill="#667085">-5.3</text>
+<line x1="377.5" y1="100" x2="377.5" y2="352" stroke="#e5e7eb"/>
+<text x="377.5" y="375" text-anchor="middle" font-size="11" fill="#667085">-3.2</text>
+<line x1="505.0" y1="100" x2="505.0" y2="352" stroke="#e5e7eb"/>
+<text x="505.0" y="375" text-anchor="middle" font-size="11" fill="#667085">-1.1</text>
+<line x1="632.5" y1="100" x2="632.5" y2="352" stroke="#e5e7eb"/>
+<text x="632.5" y="375" text-anchor="middle" font-size="11" fill="#667085">+1.0</text>
+<line x1="760.0" y1="100" x2="760.0" y2="352" stroke="#e5e7eb"/>
+<text x="760.0" y="375" text-anchor="middle" font-size="11" fill="#667085">+3.1</text>
+<line x1="570.5" y1="100" x2="570.5" y2="352" stroke="#667085" stroke-dasharray="5 4"/>
+<text x="28" y="123" font-size="13">新主 C 池直购</text>
+<line x1="292.5" x2="631.8" y1="118" y2="118" stroke="#2563eb" stroke-width="2"/>
+<path d="M292.5,112V124 M631.8,112V124" stroke="#2563eb"/>
+<circle cx="462.2" cy="118" r="5" fill="#2563eb"/>
+<text x="778" y="123" font-size="13" font-weight="700">-1.79pp</text>
+<text x="28" y="181" font-size="13">专拐直购</text>
+<line x1="571.6" x2="588.2" y1="176" y2="176" stroke="#2563eb" stroke-width="2"/>
+<path d="M571.6,170V182 M588.2,170V182" stroke="#2563eb"/>
+<circle cx="579.9" cy="176" r="5" fill="#2563eb"/>
+<text x="778" y="181" font-size="13" font-weight="700">+0.15pp</text>
+<text x="28" y="239" font-size="13">月卡续订</text>
+<line x1="634.0" x2="678.0" y1="234" y2="234" stroke="#2563eb" stroke-width="2"/>
+<path d="M634.0,228V240 M678.0,228V240" stroke="#2563eb"/>
+<circle cx="656.0" cy="234" r="5" fill="#2563eb"/>
+<text x="778" y="239" font-size="13" font-weight="700">+1.41pp</text>
+<text x="28" y="297" font-size="13">总现金</text>
+<line x1="396.4" x2="717.5" y1="292" y2="292" stroke="#172033" stroke-width="2"/>
+<path d="M396.4,286V298 M717.5,286V298" stroke="#172033"/>
+<circle cx="557.0" cy="292" r="5" fill="#172033"/>
+<text x="778" y="297" font-size="13" font-weight="700">-0.22pp</text>
+<text x="505" y="401" font-size="12" text-anchor="middle" fill="#667085">占基期总现金的变化（百分点）；三项贡献之和为总现金相对变化</text>
+</g></svg>

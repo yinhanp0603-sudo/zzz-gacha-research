@@ -1,0 +1,12 @@
+{
+  "description": "Units absent from the pinned ShiyuStats character metadata, recorded from the project owner's statement; used only for labelling external banner rows.",
+  "units": {
+    "Phoenix": {
+      "name_zh": "菲欧妮",
+      "specialty": "Anomaly",
+      "note": "异常职业，蕾米埃尔（耀变体系）新世代异常队的队友",
+      "source": "project owner, 2026-10-31",
+      "observed_in_shiyustats": false
+    }
+  }
+}

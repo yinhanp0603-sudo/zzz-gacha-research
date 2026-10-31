@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1040" height="529" viewBox="0 0 1040 529" role="img" aria-label="模拟现金的调参净变化与不确定性">
+<rect width="1040" height="529" rx="16" fill="#fff"/>
+<g font-family="'Microsoft YaHei','Noto Sans CJK SC','PingFang SC',sans-serif" fill="#172033">
+<text x="28" y="34" font-size="19" font-weight="700">模拟现金的调参净变化与不确定性</text>
+<text x="28" y="60" font-size="12" fill="#667085">每个种子先配对，再跨种子求均值；横线为逐项 t 近似 95% 置信区间</text>
+<line x1="270.0" y1="82" x2="270.0" y2="469" stroke="#e5e7eb"/>
+<text x="270.0" y="492" font-size="11" text-anchor="middle" fill="#667085">-14.6</text>
+<line x1="392.5" y1="82" x2="392.5" y2="469" stroke="#e5e7eb"/>
+<text x="392.5" y="492" font-size="11" text-anchor="middle" fill="#667085">-8.0</text>
+<line x1="515.0" y1="82" x2="515.0" y2="469" stroke="#e5e7eb"/>
+<text x="515.0" y="492" font-size="11" text-anchor="middle" fill="#667085">-1.4</text>
+<line x1="637.5" y1="82" x2="637.5" y2="469" stroke="#e5e7eb"/>
+<text x="637.5" y="492" font-size="11" text-anchor="middle" fill="#667085">+5.2</text>
+<line x1="760.0" y1="82" x2="760.0" y2="469" stroke="#e5e7eb"/>
+<text x="760.0" y="492" font-size="11" text-anchor="middle" fill="#667085">+11.8</text>
+<line x1="541.5" y1="82" x2="541.5" y2="469" stroke="#667085" stroke-dasharray="5 4"/>
+<text x="28" y="105" font-size="12">λ 0→2 · 10期 · 筛选</text>
+<circle cx="622.1" cy="100" r="5" fill="#2563eb"/>
+<line x1="560.5" x2="683.7" y1="100" y2="100" stroke="#2563eb" stroke-width="2"/>
+<path d="M560.5,94V106 M683.7,94V106" stroke="#2563eb"/>
+<text x="778" y="105" font-size="12" font-weight="700">+4.34%</text>
+<text x="28" y="153" font-size="12">λ 0→2 · 10期 · 复核</text>
+<circle cx="551.1" cy="148" r="5" fill="#059669"/>
+<line x1="383.1" x2="719.2" y1="148" y2="148" stroke="#059669" stroke-width="2"/>
+<path d="M383.1,142V154 M719.2,142V154" stroke="#059669"/>
+<text x="778" y="153" font-size="12" font-weight="700">+0.52%</text>
+<text x="28" y="201" font-size="12">λ 0→2 · 20期 · 筛选</text>
+<circle cx="451.9" cy="196" r="5" fill="#2563eb"/>
+<line x1="337.1" x2="566.6" y1="196" y2="196" stroke="#2563eb" stroke-width="2"/>
+<path d="M337.1,190V202 M566.6,190V202" stroke="#2563eb"/>
+<text x="778" y="201" font-size="12" font-weight="700">-4.83%</text>
+<text x="28" y="249" font-size="12">λ 0→2 · 20期 · 复核</text>
+<circle cx="372.4" cy="244" r="5" fill="#059669"/>
+<line x1="310.8" x2="433.9" y1="244" y2="244" stroke="#059669" stroke-width="2"/>
+<path d="M310.8,238V250 M433.9,238V250" stroke="#059669"/>
+<text x="778" y="249" font-size="12" font-weight="700">-9.11%</text>
+<text x="28" y="297" font-size="12">a 0.8→1.6 · 10期 · 筛选</text>
+<circle cx="545.0" cy="292" r="5" fill="#2563eb"/>
+<line x1="519.4" x2="570.6" y1="292" y2="292" stroke="#2563eb" stroke-width="2"/>
+<path d="M519.4,286V298 M570.6,286V298" stroke="#2563eb"/>
+<text x="778" y="297" font-size="12" font-weight="700">+0.19%</text>
+<text x="28" y="345" font-size="12">a 0.8→1.6 · 10期 · 复核</text>
+<circle cx="525.3" cy="340" r="5" fill="#059669"/>
+<line x1="515.7" x2="535.0" y1="340" y2="340" stroke="#059669" stroke-width="2"/>
+<path d="M515.7,334V346 M535.0,334V346" stroke="#059669"/>
+<text x="778" y="345" font-size="12" font-weight="700">-0.87%</text>
+<text x="28" y="393" font-size="12">a 0.8→1.6 · 20期 · 筛选</text>
+<circle cx="524.0" cy="388" r="5" fill="#2563eb"/>
+<line x1="463.9" x2="584.2" y1="388" y2="388" stroke="#2563eb" stroke-width="2"/>
+<path d="M463.9,382V394 M584.2,382V394" stroke="#2563eb"/>
+<text x="778" y="393" font-size="12" font-weight="700">-0.94%</text>
+<text x="28" y="441" font-size="12">a 0.8→1.6 · 20期 · 复核</text>
+<circle cx="532.2" cy="436" r="5" fill="#059669"/>
+<line x1="478.7" x2="585.7" y1="436" y2="436" stroke="#059669" stroke-width="2"/>
+<path d="M478.7,430V442 M585.7,430V442" stroke="#059669"/>
+<text x="778" y="441" font-size="12" font-weight="700">-0.50%</text>
+<text x="515" y="516" text-anchor="middle" font-size="12" fill="#667085">高档位 − 低档位（%）</text>
+</g></svg>

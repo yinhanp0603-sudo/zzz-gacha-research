@@ -1,0 +1,95 @@
+{
+  "schema_version": "1.0.0",
+  "model_version": "behavior_v2_spending",
+  "comfort_threshold": 0.95,
+  "full_star_threshold": 1,
+  "temperature": 0.03,
+  "utility": {
+    "beta_gain": 4,
+    "beta_comfort": 2,
+    "beta_hoarding": 2,
+    "beta_resource_cost": 1,
+    "beta_paid_cost": 2
+  },
+  "tier_policy": {
+    "Budget_0": {
+      "alpha": -3,
+      "initial_hoarding": 0.5,
+      "dps_target": "0+1"
+    },
+    "Budget_40": {
+      "alpha": -2.5,
+      "initial_hoarding": 0.4,
+      "dps_target": "0+1"
+    },
+    "Budget_160": {
+      "alpha": -2,
+      "initial_hoarding": 0.3,
+      "dps_target": "2+1"
+    },
+    "Budget_500": {
+      "alpha": -1,
+      "initial_hoarding": 0.05,
+      "dps_target": "2+1"
+    }
+  },
+  "support_target": "support_body",
+  "hoarding": {
+    "decay_base": 0.85,
+    "gap_weight": 0.25,
+    "success_recovery": 0.1,
+    "min": 0,
+    "max": 1
+  },
+  "fatigue": {
+    "decay_rate": 0.25,
+    "gap_weight": 2.0,
+    "failure_weight": 0.8,
+    "failure_span_cap": 3,
+    "budget_weight": 0.2,
+    "success_recovery": 0.3,
+    "min": 0,
+    "max": 5
+  },
+  "churn": {
+    "base_hazard": 0.005,
+    "fatigue_sensitivity": 1.5
+  },
+  "initial": {
+    "fatigue": 0,
+    "failure_span": 0
+  },
+  "provenance": {
+    "behavior_coefficients": "scenario_assumed; 公开成功通关样本不含付费、停氪、疲劳与流失轨迹，不能据其估计消费参数。",
+    "timing": "续订与直购仅使用前一期疲劳、连续失败和最近一次实际直购后的失败结果；当前PostEval不前馈。",
+    "paid_failure_memory": "最近一次有直购期更新；无直购期保留，下一次实际直购后的成功可清除。",
+    "ability_vs_willingness": "固定初始预算能力与当期消费意愿独立；停续订不清除已有月卡权益，拒绝直购仍允许免费抽卡。",
+    "novelty": "scenario_assumed；β_novelty=1.5使Budget_40对已满星新主C池的基础下池概率由σ(−2.5)≈7.6%升至σ(−1.0)≈26.9%，仅用于结构消融。"
+  },
+  "description": "支付意愿按订阅续期与每个卡池分别决策；停氪仍可活跃，后续亦可恢复消费。结构消融M2：新主C池下池效用另加不随CI_0满星归零的固定追新项β_novelty。",
+  "research_v2": {
+    "spending": {
+      "subscription": {
+        "intercept": 2.8,
+        "fatigue_weight": 1.1,
+        "failure_weight": 0.35,
+        "hoarding_weight": 0.3,
+        "paid_failure_weight": 1.5,
+        "persistence_bonus": 0.8
+      },
+      "topup": {
+        "intercept": 1.4,
+        "fatigue_weight": 0.9,
+        "failure_weight": 0.35,
+        "hoarding_weight": 0.6,
+        "paid_failure_weight": 1.2,
+        "persistence_bonus": 0.6,
+        "gain_weight": 0.6,
+        "cost_weight": 1.2
+      }
+    },
+    "novelty": {
+      "beta_novelty": 1.5
+    }
+  }
+}

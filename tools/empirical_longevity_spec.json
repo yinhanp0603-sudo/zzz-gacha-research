@@ -1,0 +1,29 @@
+{
+  "definition": "Prespecified real main-DPS tracks and support-release event windows read from submitted eligible clears; presence is observed deployment, not ownership, purchase or player survival.",
+  "investment_rule": "0+1 = known cinema 0 with the listed signature W-Engine equipped; level, disc substats and skill levels are not fixed.",
+  "tracked_dps": {
+    "Ellen": "Deep Sea Visitor",
+    "Zhu Yuan": "Riot Suppressor Mark VI",
+    "Jane": "Sharpened Stinger",
+    "Miyabi": "Hailstorm Shrine",
+    "Evelyn": "Heartstring Nocturne",
+    "Soldier 0 - Anby": "Severed Innocence",
+    "Yixuan": "Qingming Birdcage",
+    "Ye Shunguang": "Cloudcleave Radiance"
+  },
+  "signature_source": "Most frequently equipped W-Engine per agent in the local observation database, matching the community wiki signature listing.",
+  "events": [
+    {"event_id": "Yixuan+Lucia", "main": "Yixuan", "component": "Lucia", "group": "体系绑定专拐"},
+    {"event_id": "Yixuan+Pan Yinhu", "main": "Yixuan", "component": "Pan Yinhu", "group": "体系绑定专拐"},
+    {"event_id": "Ye Shunguang+Zhao", "main": "Ye Shunguang", "component": "Zhao", "group": "体系绑定专拐"},
+    {"event_id": "Ye Shunguang+Sunna", "main": "Ye Shunguang", "component": "Sunna", "group": "体系绑定专拐"},
+    {"event_id": "Miyabi+Yuzuha", "main": "Miyabi", "component": "Yuzuha", "group": "异常主核+泛用异常辅助"},
+    {"event_id": "Jane+Yuzuha", "main": "Jane", "component": "Yuzuha", "group": "异常主核+泛用异常辅助"},
+    {"event_id": "Ellen+Astra Yao", "main": "Ellen", "component": "Astra Yao", "group": "强攻主核+泛用强辅"},
+    {"event_id": "Zhu Yuan+Astra Yao", "main": "Zhu Yuan", "component": "Astra Yao", "group": "强攻主核+泛用强辅"}
+  ],
+  "window": {"pre": 2, "post": 3},
+  "min_season_valid_records": 1000,
+  "stable_descriptive_min_per_arm": 20,
+  "legacy_rule": "Control arm has no event component and at least one legacy teammate: A / Standard S / Free S, or a support/subdps released before the component. Fixed-third design also fixes the remaining teammate and requires the legacy slot to share the component's specialty."
+}
